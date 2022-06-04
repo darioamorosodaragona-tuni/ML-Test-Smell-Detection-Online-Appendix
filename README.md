@@ -9,17 +9,19 @@ Dario Di Nucci<sup>\*</sup>, Filomena Ferrucci<sup>\*</sup>*, Fabio Palomba<sup>
 This repository contains the online appenddix of aforementioned work.
 
 In this repository you can find:
-- [Tools-Metrics Mapping](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/Tools-Metrics%20Mapping.xlsx): an excel file showing for each tool which metrics are used to detect the Test Smells investigated in our work:
+- [Tools-Metrics Mapping](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/Tools-Metrics%20Mapping.xlsx): an excel file showing for each test smell detector tool which metrics are used to detect the Test Smells investigated in our work:
     - Resource Optimism (RO)
     - Eager Test (ET)
     - Mystery Guest (MG)
     - Test Redundancy (TR)
 - [infoProjects.txt](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/infoProjects.txt): a txt file in which we report some information about the project that we will analyze, i.e., url, SHA and project's scope.
 
-We take in account only the tools that:
+We take in account only the Test Smells detector tools that:
 - Analyze Java project
 - Uses metrics (rule-based)
 - Uses Information Retrieval 
+
+
 
 
 
