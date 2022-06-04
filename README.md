@@ -14,6 +14,7 @@ In this repository you can find:
     - Eager Test (ET)
     - Mystery Guest (MG)
     - Test Redundancy (TR)
+- [infoProjects.txt](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/infoProjects.txt): a txt file in which we report some information about the project that we will analyze, i.e., url, SHA and project's scope.
 
 We take in account only the tools that:
 - Analyze Java project
@@ -21,4 +22,4 @@ We take in account only the tools that:
 - Uses Information Retrieval 
 
 
-- [infoProjects.txt]: a txt file in which we report some information about the project that we will analyze, i.e., url, SHA and project's scope.
+
