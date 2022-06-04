@@ -21,7 +21,7 @@ We take in account only the Test Smells detector tools that:
 - Uses metrics (rule-based)
 - Uses Information Retrieval 
 
-Contacts:
+Contacts: </br>
 vpontillo@unisa.it, dario.amorosodaragona@tuni.fi, fabiano.pecorelli@tuni.fi
 ddinucci@unisa.it, fferrucci@unisa.it, fpalomba@unisa.it
 
