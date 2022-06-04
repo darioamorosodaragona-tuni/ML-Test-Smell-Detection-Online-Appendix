@@ -1,0 +1,71 @@
+URL, SHA, info
+https://github.com/apache/struts, 13d90530, free open-source solution for creating Java web applications
+https://github.com/eclipse-ee4j/tyrus, d86e0cb0,  easy development of WebSocket applications
+https://github.com/apereo/java-cas-client, 574b74fa,  The client consists of a collection of Servlet filters that are suitable for most Java-based web applications
+https://github.com/apache/hadoop, cc2babc1,  open-source software for reliable, scalable, distributed computing
+https://github.com/jfree/jfreechart, 520a4be6,  comprehensive free chart library for the Java(tm) platform that can be used on the client-side (JavaFX and Swing) or the server side
+https://github.com/pholser/junit-quickcheck, 9361b6da, library that supports writing and running property-based tests in JUnit, inspired by QuickCheck for Haskell
+https://github.com/dnsjava/dnsjava, d97b6a06, dnsjava is an implementation of DNS in Java
+https://github.com/marcosbarbero/spring-cloud-zuul-ratelimit, ae9603f4, Module to enable rate limit per service in Netflix Zuul.
+https://github.com/lcw2004/one, 7b9b249a,
+https://github.com/spotify/helios, aebf68dc, open source container orchestration frameworks
+https://github.com/wikidata/wikidata-toolkit, 20de6f7f, Java library for accessing Wikidata and other Wikibase installations
+https://github.com/openpojo/openpojo, 9badbcc4, POJO Testing & Identity Management Made Trivial
+https://github.com/sonatype-nexus-community/nexus-repository-helm, 60a9e8de, plugin for nexus repository
+https://github.com/outbrain/aletheia, 024a4b7e, framework for implementing high volume, datum (event) based, producer-consumer data pipelines.
+https://github.com/wro4j/wro4j, 185ab607, free and Open Source Java project which will help you to easily improve your web application page loading time
+https://github.com/pippo-java/pippo, ae898b6c, create a micro web framework in Java that should be easy to use and hack.
+https://github.com/alibaba/fastjson, 57d0434a, Java library that can be used to convert Java Objects into their JSON representation
+https://github.com/vmware/admiral, e4b02936, highly scalable and very lightweight Container Management platform for deploying and managing container based applications
+https://github.com/knightliao/disconf, 2ac5c827, Distributed Configuration Management Platform
+https://github.com/apache/incubator-dubbo, 737f7a7e,  high-performance, Java-based open-source RPC framework
+https://github.com/kevinsawicki/http-request, 2d62a3e9, A simple convenience library for using a HttpURLConnection to make requests and access the response
+https://github.com/fluent/fluent-logger-java, da14ec34, Collect web/mobile application logs easily and reliably.
+https://github.com/tbsalling/aismessages, 7b0c4c70, Java-based light-weight, zero-dependency, and ultra-efficient message decoder for maritime navigation and safety messages compliant with ITU 1371
+https://github.com/ktuukkan/marine-api, af000384,  parser library for decoding and encoding the data provided by various electronic marine devices such as GPS, echo sounder and weather instruments
+https://github.com/hexagonframework/spring-data-ebean, dd11b976, module that makes easier to build Spring-powered applications that use data access technologies. 
+https://github.com/querydsl/querydsl, 2bf234ca, framework which enables the construction of type-safe SQL-like queries for multiple backends including JPA, MongoDB and SQL in Java.
+https://github.com/oryxproject/oryx, 72ae4bb3,  lambda architecture built on Apache Spark and Apache Kafka, but with specialization for real-time large scale machine learning.
+https://github.com/c2mon/c2mon, d80687b1, heterogeneous data acquisition and monitoring framework
+https://github.com/jodaorg/joda-time, d1ea2a53, Joda-Time provides a quality replacement for the Java date and time classes
+https://github.com/flaxsearch/luwak, c27ec08c, high performance stored query engine
+https://github.com/alien4cloud/alien4cloud, eb57d0fe, ALIEN 4 Cloud stands for Application LIfecycle ENablement for Cloud
+https://github.com/crawlscript/webcollector, 016b61a1, Open source web crawler framework based on Java
+https://github.com/fhoeben/hsac-fitnesse-fixtures, a64c18d9, This project assists in testing (SOAP) web services and web applications by providing an application to define and run tests.
+https://github.com/cescoffier/vertx-completable-future, 011d3cd9, use the Completable Future API with Vert.x.
+https://github.com/google/jimfs, ced6093f,  in-memory file system for Java 7 and above, implementing the java.nio.file abstract file system APIs
+https://github.com/wso2/carbon-apimgt, a82213e4, 
+https://github.com/feroult/yawp, b3bcf9c9, A Kotlin/Java API framework for Google Appengine
+https://github.com/spinn3r/noxy, d53a4942, HTTP proxy infrastructure for Java 8
+https://github.com/elasticjob/elastic-job-lite, b022898e, distributed scheduling solution consisting of two separate projects, ElasticJob-Lite and ElasticJob-Cloud
+https://github.com/nationalsecurityagency/timely, 3a8cbd33, time series database application that provides secure access to time series data
+https://github.com/apache/hbase, 801fc05e, open-source, distributed, versioned, column-oriented store modeled after Google' Bigtable
+https://github.com/tools4j/unix4j, 367da7d2,  implementation of Unix command line tools in Java
+https://github.com/davidmoten/rxjava2-extras, d0315b6e
+https://github.com/dropwizard/dropwizard, 07dfaed6, sneaky way of making fast Java web applications
+https://github.com/ctco/cukes, b483e1a8, takes simplicity of Cucumber and provides bindings for HTTP specification.
+https://github.com/wildfly/wildfly-maven-plugin, 0dda0062, A Maven plug-in for WildFly Application Server
+https://github.com/javadelight/delight-nashorn-sandbox, da35edc0, A secure sandbox for executing JavaScript in Java apps using the Nashorn engine.
+https://github.com/square/retrofit, ae28c3d5,  type-safe HTTP client for Android and Java
+https://github.com/activiti/activiti, b11f757a,  light-weight workflow and Business Process Management (BPM) Platform targeted at business people developers and system admins
+https://github.com/kagkarlsson/db-scheduler, 4a8a28e6, task-scheduler for Java that was inspired by the need for a clustered java.util.concurrent.ScheduledExecutorService simpler than Quartz.
+https://github.com/oracle/oci-java-sdk, 2e9982f2,  provides an SDK for Java that you can use to manage your Oracle Cloud Infrastructure resources
+https://github.com/zalando/riptide, 8277e11f, library that implements client-side response routing
+https://github.com/espertechinc/esper, 590fa9c9, component for complex event processing (CEP), streaming SQL and event series analysis, available for Java as Esper, and for .NET as NEsper.
+https://github.com/square/otto, 2a67589a, An enhanced Guava-based event bus with emphasis on Android support.
+https://github.com/visallo/vertexium, f1fd59e2, API to manipulate graphs
+https://github.com/wildfly/wildfly, b19048b7, powerful modular & lightweight application server that helps you build amazing applications
+https://github.com/undertow-io/undertow, d0efffad, Java web server based on non-blocking IO
+https://github.com/orbit/orbit, c4904af2, write distributed systems using virtual actors on the JVM
+https://github.com/vert-x3/vertx-mqtt, c8213e0f, client server application
+https://github.com/logzio/sawmill, e493c2e2, Sawmill is a JSON transformation open source library
+https://github.com/looly/hutool, 91565d05, comprehensive library of Java tools, encapsulation by static methods, reduce the cost of learning related APIs, increase productivity, and make Java as elegant as a functional programming language,let the Java be "sweet" too.
+https://github.com/ppiastucki/recast4j, 01d478e1, Java Port of Recast and Detour navigation mesh toolset. 
+https://github.com/wikimedia/search-highlighter, 8ba6fef7, Text highlighter for Java designed to be pluggable enough for easy experimentation
+https://github.com/jhipster/jhipster-registry, 00db3661, development platform to quickly generate, develop, and deploy modern web applications and microservice architectures
+https://github.com/spring-projects/spring-boot, daa3d457, Spring-powered, production-grade applications and services with absolute minimum fuss
+https://github.com/tootallnate/java-websocket, fa3909c3, barebones WebSocket server and client implementation written in 100% Java.
+https://github.com/spring-projects/spring-ws, e8d89c9e, product of the Spring community focused on creating document-driven Web services
+https://github.com/doanduyhai/achilles, e3099bdc, open source advanced object mapper for Apache Cassandra
+https://github.com/fromage/redpipe, 0aff891d, Web Framework that unites the power and versatility of Eclipse Vert.x, the conciseness of JAX-RS (with Resteasy), and the non-blocking reactive composition of RxJava.
+https://github.com/spring-cloud/spring-cloud-aws, 64ec6d15, part of the Spring Cloud umbrella project, eases the integration with hosted Amazon Web Services

@@ -1,7 +1,7 @@
 # ML-Test-Smell-Detection-Online-Appendix
 *Machine Learning-Based Test Smell Detection
 Valeria Pontillo<sup>\*</sup>, Dario Amoroso d’Aragona<sup>†</sup>, Fabiano Pecorelli<sup>†</sup>,
-Dario Di Nucci<sup>\*</sup>, Fabio Palomba<sup>\*</sup>, Filomena Ferrucci<sup>\*</sup>*
+Dario Di Nucci<sup>\*</sup>, Filomena Ferrucci<sup>\*</sup>*, Fabio Palomba<sup>\*</sup>
 
 *<sup>*</sup>Software Engineering (SeSa) Lab — University of Salerno, Fisciano, Italy* </br>
 *<sup>†</sup>Tampere University — Tampere, Finland*
@@ -19,3 +19,6 @@ We take in account only the tools that:
 - Analyze Java project
 - Uses metrics (rule-based)
 - Uses Information Retrieval 
+
+
+- [infoProjects.txt]: a txt file in which we report some information about the project that we will analyze, i.e., url, SHA and project's scope.
