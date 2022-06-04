@@ -14,6 +14,7 @@ In this repository you can find:
     - Eager Test (ET)
     - Mystery Guest (MG)
     - Test Redundancy (TR)
+
 We take in account only the tools that:
 - Analyze Java project
 - Uses metrics (rule-based)
