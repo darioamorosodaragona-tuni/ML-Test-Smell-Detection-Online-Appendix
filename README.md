@@ -14,7 +14,9 @@ In this repository you can find:
     - Eager Test (ET)
     - Mystery Guest (MG)
     - Test Redundancy (TR)
-- [infoProjects.txt](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/infoProjects.txt): a txt file in which we report some information about the project that we will analyze, i.e., url, SHA and project's scope.
+- [projects.csv](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/projects.csv): a csv file in which we report the url and SHA of the project that we will analyze..
+- [projects_metrics.csv](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/projects_metrics.csv): a csv file in which we report some information about the project that we will analyzwe i.e, n. of forks, stars, age.
+ 
 
 We take in account only the Test Smells detector tools that:
 - Analyze Java project
