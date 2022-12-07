@@ -16,7 +16,7 @@ In this repository you can find:
     - Test Redundancy (TR)
 - [projects.csv](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/projects.csv): a csv file in which we report the url and SHA of the project that we will analyze..
 - [projects_metrics.csv](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/projects_metrics.csv): a csv file in which we report some information about the project that we will analyzwe i.e, n. of forks, stars, age.
-- validation: folder with all the files reagarding the validation of the dataset.
+- validation: folder with all the files regarding the validation of the dataset.
 
 We take in account only the Test Smells detector tools that:
 - Analyze Java project
