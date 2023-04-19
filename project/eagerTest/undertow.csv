@@ -1,0 +1,6 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+27,undertow,WebSocketServlet,io.undertow.servlet.test.websocket.websocketservlettest.testtext,0,0.6973925081983987,0.3026074918016013,False,True
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testannotatedclientendpoint,0,0.5388858697505353,0.4611141302494647,False,False
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testclientsideidletimeout,0,0.4560917162984642,0.5439082837015358,False,True
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testencodinganddecodingbinary,0,0.5275822190466112,0.4724177809533888,False,True
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testtimeoutclosereason,0,0.394404977383141,0.6055950226168589,True,False

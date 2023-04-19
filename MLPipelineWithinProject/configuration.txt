@@ -1,0 +1,103 @@
+decisiontree achilles
+decisiontree achilles nearmissunder1
+decisiontree achilles nearmissunder2
+decisiontree achilles nearmissunder3
+decisiontree achilles smoteover
+decisiontree achilles randomover
+decisiontree achilles randomunder
+decisiontree achilles adasyn
+decisiontree achilles borderlinesmote
+decisiontree achilles randomsearch nearmissunder1
+decisiontree achilles randomsearch nearmissunder2
+decisiontree achilles randomsearch nearmissunder3
+decisiontree achilles randomsearch smoteover
+decisiontree achilles randomsearch randomover
+decisiontree achilles randomsearch randomunder
+decisiontree achilles randomsearch adasyn
+decisiontree achilles randomsearch borderlinesmote
+naivebayes achilles
+naivebayes achilles nearmissunder1
+naivebayes achilles nearmissunder2
+naivebayes achilles nearmissunder3
+naivebayes achilles smoteover
+naivebayes achilles randomover
+naivebayes achilles randomunder
+naivebayes achilles adasyn
+naivebayes achilles borderlinesmote
+naivebayes achilles randomsearch nearmissunder1
+naivebayes achilles randomsearch nearmissunder2
+naivebayes achilles randomsearch nearmissunder3
+naivebayes achilles randomsearch smoteover
+naivebayes achilles randomsearch randomover
+naivebayes achilles randomsearch randomunder
+naivebayes achilles randomsearch adasyn
+naivebayes achilles randomsearch borderlinesmote
+multilayerperceptron achilles
+multilayerperceptron achilles nearmissunder1
+multilayerperceptron achilles nearmissunder2
+multilayerperceptron achilles nearmissunder3
+multilayerperceptron achilles smoteover
+multilayerperceptron achilles randomover
+multilayerperceptron achilles randomunder
+multilayerperceptron achilles adasyn
+multilayerperceptron achilles borderlinesmote
+multilayerperceptron achilles randomsearch nearmissunder1
+multilayerperceptron achilles randomsearch nearmissunder2
+multilayerperceptron achilles randomsearch nearmissunder3
+multilayerperceptron achilles randomsearch smoteover
+multilayerperceptron achilles randomsearch randomover
+multilayerperceptron achilles randomsearch randomunder
+multilayerperceptron achilles randomsearch adasyn
+multilayerperceptron achilles randomsearch borderlinesmote
+svm achilles
+svm achilles nearmissunder1
+svm achilles nearmissunder2
+svm achilles nearmissunder3
+svm achilles smoteover
+svm achilles randomover
+svm achilles randomunder
+svm achilles adasyn
+svm achilles borderlinesmote
+svm achilles randomsearch nearmissunder1
+svm achilles randomsearch nearmissunder2
+svm achilles randomsearch nearmissunder3
+svm achilles randomsearch smoteover
+svm achilles randomsearch randomover
+svm achilles randomsearch randomunder
+svm achilles randomsearch adasyn
+svm achilles randomsearch borderlinesmote
+adaboost achilles
+adaboost achilles nearmissunder1
+adaboost achilles nearmissunder2
+adaboost achilles nearmissunder3
+adaboost achilles smoteover
+adaboost achilles randomover
+adaboost achilles randomunder
+adaboost achilles adasyn
+adaboost achilles borderlinesmote
+adaboost achilles randomsearch nearmissunder1
+adaboost achilles randomsearch nearmissunder2
+adaboost achilles randomsearch nearmissunder3
+adaboost achilles randomsearch smoteover
+adaboost achilles randomsearch randomover
+adaboost achilles randomsearch randomunder
+adaboost achilles randomsearch adasyn
+adaboost achilles randomsearch borderlinesmote
+randomforest achilles
+randomforest achilles
+randomforest achilles nearmissunder1
+randomforest achilles nearmissunder2
+randomforest achilles nearmissunder3
+randomforest achilles smoteover
+randomforest achilles randomover
+randomforest achilles randomunder
+randomforest achilles adasyn
+randomforest achilles borderlinesmote
+randomforest achilles randomsearch nearmissunder1
+randomforest achilles randomsearch nearmissunder2
+randomforest achilles randomsearch nearmissunder3
+randomforest achilles randomsearch smoteover
+randomforest achilles randomsearch randomover
+randomforest achilles randomsearch randomunder
+randomforest achilles randomsearch adasyn
+randomforest achilles randomsearch borderlinesmote

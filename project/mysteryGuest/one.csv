@@ -1,0 +1,3 @@
+idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+32,one,PomUtils,com.lcw.one.codegen.pomutilstest.testgetpackagefrommodule,0.0,0.0,False,True
+32,one,LocalFileStoreImpl,com.lcw.one.main.localfilestoreimpltest.testlocalfilestore,0.0,11.0,True,False

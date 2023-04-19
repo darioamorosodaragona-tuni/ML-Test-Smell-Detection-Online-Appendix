@@ -1,0 +1,21 @@
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+47,spring-boot,OperationMethodParameters,org.springframework.boot.actuate.endpoint.invoke.reflect.operationmethodparametertests.ismandatorywhennoannotationshouldreturntrue,0.0,0.0,False,False
+47,spring-boot,OperationMethodParameters,org.springframework.boot.actuate.endpoint.invoke.reflect.operationmethodparametertests.ismandatorywhennullableannotationshouldreturnfalse,0.0,0.0,False,False
+47,spring-boot,CommandLineIT,org.springframework.boot.cli.commandlineit.help,0.0,0.0,False,False
+47,spring-boot,JarCommand,org.springframework.boot.cli.jarcommandit.jarcreation,0.0,0.0,False,False
+47,spring-boot,JarCommand,org.springframework.boot.cli.jarcommandit.jarcreationwithincludes,0.0,0.0,False,False
+47,spring-boot,JarCommand,org.springframework.boot.cli.jarcommandit.nosources,0.0,0.0,False,False
+47,spring-boot,ChangedFiles,org.springframework.boot.devtools.filewatch.changedfiletests.getrelativename,0.0,0.0,False,False
+47,spring-boot,ClassLoaderFiles,org.springframework.boot.devtools.restart.classloader.classloaderfiletests.deletedcontentsmustbenull,0.0,0.0,False,False
+47,spring-boot,SysVinitLaunchScriptIT,org.springframework.boot.launchscript.sysvinitlaunchscriptit.launchwithdoublelinksinglejavaopt,0.0,0.0,False,False
+47,spring-boot,SysVinitLaunchScriptIT,org.springframework.boot.launchscript.sysvinitlaunchscriptit.launchwithrelativelogfolder,0.0,0.0,False,False
+47,spring-boot,SysVinitLaunchScriptIT,org.springframework.boot.launchscript.sysvinitlaunchscriptit.statuswhenkilled,0.0,0.0,False,False
+47,spring-boot,WebServerPortFileWriter,org.springframework.boot.web.context.webserverportfilewritertest.createmanagementportfile,0.0,0.0,False,False
+47,spring-boot,WebServerPortFileWriter,org.springframework.boot.web.context.webserverportfilewritertest.overrideportfilewithdefault,0.0,0.0,False,False
+47,spring-boot,SampleGlassfishDeployApplicationIT,sample.sampleglassfishdeployapplicationit.testhealth,0.0,0.0,False,False
+47,spring-boot,SampleTomcatDeployApplicationIT,sample.sampletomcatdeployapplicationit.errorfromexceptionforrequestacceptinghtmlproducesanhtmlresponse,0.0,0.0,False,False
+47,spring-boot,SampleTomcatDeployApplicationIT,sample.sampletomcatdeployapplicationit.errorfromexceptionforrequestacceptingjsonproducesajsonresponse,0.0,0.0,False,False
+47,spring-boot,SampleTomcatDeployApplicationIT,sample.sampletomcatdeployapplicationit.testhome,0.0,0.0,False,False
+47,spring-boot,SampleTomEEDeployApplicationIT,sample.sampletomeedeployapplicationit.testhome,0.0,0.0,False,False
+47,spring-boot,SampleWildFlyDeployApplicationIT,sample.samplewildflydeployapplicationit.testhealth,0.0,0.0,False,False
+47,spring-boot,SampleWildFlyDeployApplicationIT,sample.samplewildflydeployapplicationit.testhome,0.0,0.0,False,False

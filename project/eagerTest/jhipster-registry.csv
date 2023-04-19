@@ -1,0 +1,15 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+48,jhipster-registry,SwaggerBasePathRewritingFilter,io.github.jhipster.registry.filters.responserewriting.swaggerbasepathrewritingfiltertest.shouldfilter_on_default_swagger_url_with_param,0,0.7036429510607424,0.2963570489392576,False,False
+48,jhipster-registry,AccountResource,io.github.jhipster.registry.web.rest.accountresourcetest.testauthenticateduser,0,0.3603971216480323,0.6396028783519677,True,False
+48,jhipster-registry,ExceptionTranslator,io.github.jhipster.registry.web.rest.errors.exceptiontranslatortest.processvalidationerrortest,0,0.3628996623905779,0.6371003376094221,True,False
+48,jhipster-registry,FieldErrorVM,io.github.jhipster.registry.web.rest.errors.fielderrorvmtest.getobjectnametest,0,0.8821149094089935,0.1178850905910064,False,False
+48,jhipster-registry,ParameterizedErrorVM,io.github.jhipster.registry.web.rest.errors.parameterizederrorvmtest.getmessagetest,0,0.6781134983035151,0.3218865016964849,False,True
+48,jhipster-registry,SshResource,io.github.jhipster.registry.web.rest.sshresourcetest.eurekatest,0,0.3216337604513385,0.6783662395486615,True,False
+48,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.getapplicationstest,1,0.4056675534583179,0.5943324465416822,False,False
+48,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.setapplicationstest,1,0.4621592001536579,0.5378407998463421,False,False
+48,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.setstatustest,1,0.4792071754533401,0.52079282454666,False,False
+48,jhipster-registry,LoggerVM,io.github.jhipster.registry.web.rest.vm.loggervmtest.getleveltest,0,0.87862262425214,0.12137737574786,False,True
+48,jhipster-registry,LoggerVM,io.github.jhipster.registry.web.rest.vm.loggervmtest.setnametest,0,0.8063472399895613,0.1936527600104387,False,True
+48,jhipster-registry,LoginVM,io.github.jhipster.registry.web.rest.vm.loginvmtest.setremembermetest,0,0.5493872803987306,0.4506127196012693,False,False
+48,jhipster-registry,UserVM,io.github.jhipster.registry.web.rest.vm.uservmtest.constructortest,0,0.5473062266448485,0.4526937733551515,False,False
+48,jhipster-registry,UserVM,io.github.jhipster.registry.web.rest.vm.uservmtest.getlogintest,0,0.5324372221561962,0.4675627778438038,False,False

@@ -1,0 +1,26 @@
+idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+44,activiti,Task,org.activiti.editor.language.subprocesstest.doubleconversionvalidation,0.0,1.0,True,False
+44,activiti,CommaSplitter,org.activiti.editor.language.xml.commasplittertest.testomanycomainexpression,0.0,0.0,False,False
+44,activiti,ServiceTaskParseHandler,org.activiti.engine.impl.bpmn.parser.handler.servicetaskparsehandlertest.executeparseshouldusedefaultbehaviorwhennoinformationisprovided,0.0,0.0,False,False
+44,activiti,MapBusinessCalendarManager,org.activiti.engine.test.impl.calendar.mapbusinesscalendarmanagertest.testinvalidcalendarnamerequest,0.0,0.0,False,False
+44,activiti,MapBusinessCalendarManager,org.activiti.engine.test.impl.calendar.mapbusinesscalendarmanagertest.testmapconstructor,0.0,0.0,False,False
+44,activiti,MapBusinessCalendarManager,org.activiti.engine.test.impl.calendar.mapbusinesscalendarmanagertest.testnullcalendars,0.0,0.0,False,False
+44,activiti,AsyncExecutor,org.activiti.engine.test.jobexecutor.asyncexecutortest.testregularasyncexecution,0.0,0.0,False,True
+44,activiti,Task,org.activiti.examples.bpmn.subprocess.subprocesstest.testsimplesubprocess,0.0,0.0,False,True
+44,activiti,DefaultServiceTaskBehavior,org.activiti.runtime.api.connector.defaultservicetaskbehaviortest.hasconnectorbeanshouldreturnfalseifabeanofdifferenttypeisfound,0.0,0.0,False,False
+44,activiti,APITaskConverter,org.activiti.runtime.api.model.impl.apitaskconvertertest.calculatestatuscreatedandnotassignedtaskshouldreturncreated,0.0,0.0,False,False
+44,activiti,ProcessDefinitionResourceFinderIT,org.activiti.spring.boot.processdefinitionresourcefinderit.shouldreturnalltheprocessdefinitionfilesonspecifiedfolder,0.0,0.0,False,False
+44,activiti,ProcessDefinitionResourceFinderIT,org.activiti.spring.boot.processdefinitionresourcefinderit.shouldreturnemptylistwhenprocessdefinitionsfolderisnotfound,0.0,0.0,False,False
+44,activiti,SecurityPoliciesProcessDefinitionRestrictionApplier,org.activiti.spring.security.policies.securitypoliciesprocessdefinitionrestrictionappliertest.denyallshouldaddunmatchablefilter,0.0,0.0,False,False
+44,activiti,SecurityPoliciesServiceIT,org.activiti.spring.security.policies.securitypoliciesserviceit.shouldgetkeysforread,0.0,0.0,False,False
+44,activiti,DefaultAutoDeploymentStrategy,org.activiti.spring.test.autodeployment.defaultautodeploymentstrategytest.testdeployresources,0.0,0.0,False,False
+44,activiti,DefaultAutoDeploymentStrategy,org.activiti.spring.test.autodeployment.defaultautodeploymentstrategytest.testdetermineresourcenamewithexceptionfailsgracefully,0.0,2.0,True,False
+44,activiti,ResourceParentFolderAutoDeploymentStrategy,org.activiti.spring.test.autodeployment.resourceparentfolderautodeploymentstrategytest.testhandlesmode,0.0,0.0,False,False
+44,activiti,SingleResourceAutoDeploymentStrategy,org.activiti.spring.test.autodeployment.singleresourceautodeploymentstrategytest.testdeployresources,0.0,0.0,False,False
+44,activiti,DurationHelper,org.activiti.standalone.calendar.durationhelpertest.daylightsaving23hourday,0.0,0.0,False,False
+44,activiti,DurationHelper,org.activiti.standalone.calendar.durationhelpertest.daylightsaving25hourdayeurope,0.0,0.0,False,False
+44,activiti,DurationHelper,org.activiti.standalone.calendar.durationhelpertest.daylightsavingfall,0.0,0.0,False,False
+44,activiti,DurationHelper,org.activiti.standalone.calendar.durationhelpertest.daylightsavingfallfirsthour,0.0,0.0,False,False
+44,activiti,DurationHelper,org.activiti.standalone.calendar.durationhelpertest.daylightsavingfallobservedsecondhour,0.0,0.0,False,False
+44,activiti,DurationHelper,org.activiti.standalone.calendar.durationhelpertest.shouldnotexceednumber,0.0,0.0,False,False
+44,activiti,ServiceTaskValidator,org.activiti.validation.validator.impl.servicetaskvalidatortest.executevalidationshouldnotriseerrorsforservicetaskssettingonlytheimplementation,0.0,0.0,False,False

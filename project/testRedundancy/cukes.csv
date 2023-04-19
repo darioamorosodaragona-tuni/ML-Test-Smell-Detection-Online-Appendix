@@ -1,0 +1,16 @@
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+36,cukes,BaseContextHandler,lv.ctco.cukes.core.internal.context.basecontexthandlertest.shouldextractsinglegroupinpattern,0.0,0.0,False,False
+36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldcapturevaluesfromsimplepattern,0.0,0.0,False,False
+36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldinvokecapturevaluesfrompatternifatleastonegroupfound,0.0,0.0,False,False
+36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldnotinvokecapturevaluesfrompatternifregexdoesnotmatchvalue,0.0,0.0,False,False
+36,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups,0.0,0.0,False,False
+36,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_halfempty,0.0,0.0,False,False
+36,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_multiplesameexist,0.0,0.0,False,False
+36,cukes,HttpAssertionFacadeImpl,lv.ctco.cukes.http.facade.httpassertionfacadeimpltest.shouldnotreturnbodywhenenabledbutcontenttypeoctet,0.0,0.0,False,False
+36,cukes,HttpAssertionFacadeImpl,lv.ctco.cukes.http.facade.httpassertionfacadeimpltest.shouldnotreturnbodywhenenabledbutlongerthanmaxsize,0.0,0.0,False,False
+36,cukes,EndsWithRegexp,lv.ctco.cukes.http.matchers.endswithregexptest.matchesnotendwith,0.0,0.0,False,False
+36,cukes,EntityFacade,lv.ctco.cukes.ldap.facade.entityfacadetest.stringvalueischeckedasstring,0.0,0.0,False,False
+36,cukes,DnComparator,lv.ctco.cukes.ldap.internal.dncomparatortest.compare_sametree,0.0392954990215264,0.0,False,False
+36,cukes,LDIFUtils,lv.ctco.cukes.ldap.internal.ldif.ldifutilstest.read,0.0,0.0,False,False
+36,cukes,LDIFUtils,lv.ctco.cukes.ldap.internal.ldif.ldifutilstest.readmultipleentities,0.0,0.0,False,False
+36,cukes,LoadRunnerTransaction,lv.ctco.cukes.rest.loadrunner.dto.loadrunnertransactiontest.formatshouldescapewhitespaces,0.0,0.0,False,False
