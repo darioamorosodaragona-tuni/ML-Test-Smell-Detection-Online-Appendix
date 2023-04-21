@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 6,sawmill,FieldHasValueCondition,io.logz.sawmill.conditions.fieldhasvalueconditiontest.testfieldhasvalue,0.0,0.0,False,False
 6,sawmill,FieldTypeCondition,io.logz.sawmill.conditions.fieldtypeconditiontest.testfieldtypelist,0.0,0.0,False,False
 6,sawmill,FieldTypeCondition,io.logz.sawmill.conditions.fieldtypeconditiontest.testfieldtypelong,0.0,0.0,False,False

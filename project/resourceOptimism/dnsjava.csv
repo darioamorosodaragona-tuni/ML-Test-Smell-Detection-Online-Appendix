@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 7,dnsjava,A6Record,org.xbill.dns.a6recordtest.test_ctor_0arg,0,0,False,False
 7,dnsjava,A6Record,org.xbill.dns.a6recordtest.test_rdatafromstring,0,0,False,False
 7,dnsjava,A6Record,org.xbill.dns.a6recordtest.test_rrtostring,0,0,False,False

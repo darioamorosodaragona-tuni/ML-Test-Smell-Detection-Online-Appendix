@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,"isTestRedundancy ",isTestRedundancyManual
 49,hbase,BackupHFileCleaner,org.apache.hadoop.hbase.backup.testbackuphfilecleaner.testgetdeletablefiles,0.0,0.0,False,False
 49,hbase,BackupManager,org.apache.hadoop.hbase.backup.testbackupmanager.teststartbackupexclusiveoperation,0.0,0.0,False,False
 49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.createbackupinfolist,0.0,0.0,False,False
@@ -7,7 +7,7 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRed
 49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testbackupsetaddnotexists,0.0,0.0,False,False
 49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testbackupsetlist,0.0,0.0,False,False
 49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testbackupsetremove,0.0,0.0,False,False
-49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testincrementalbackuptableset,0.0,0.0,False,
+49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testincrementalbackuptableset,0.0,0.0,False,False
 49,hbase,AsyncClientExample,org.apache.hadoop.hbase.client.example.testasyncclientexample.test,0.0,0.0,False,False
 49,hbase,ReplicationAdmin,org.apache.hadoop.hbase.client.replication.testreplicationadmin.testremovepeertablecfs,0.0,0.0,False,False
 49,hbase,ReplicationAdmin,org.apache.hadoop.hbase.client.replication.testreplicationadmin.testsetreplicateallusertables,0.0,0.0,False,False
@@ -521,8 +521,8 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRed
 49,hbase,VerifyReplication,org.apache.hadoop.hbase.replication.testverifyreplication.testhbase14905,0.0,0.0,False,False
 49,hbase,ZKReplicationPeerStorage,org.apache.hadoop.hbase.replication.testzkreplicationpeerstorage.test,0.0,0.0,False,False
 49,hbase,ZKReplicationQueueStorage,org.apache.hadoop.hbase.replication.testzkreplicationqueuestorage.testremovealllastpushedseqidsforpeer,0.0,0.0,False,False
-49,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.tesincorrecttfilterthrowsjpe,0.0,0.0,False,
-49,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.testexistingfilter,0.0,0.0,False,
+49,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.tesincorrecttfilterthrowsjpe,0.0,0.0,False,False
+49,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.testexistingfilter,0.0,0.0,False,False
 49,hbase,GZIPResponseWrapper,org.apache.hadoop.hbase.rest.testgzipresponsewrapper.testreset,0.0,0.0,False,False
 49,hbase,MultiRowResource,org.apache.hadoop.hbase.rest.testmultirowresource.testmulticellgetjson,0.0192922374429224,0.0,False,False
 49,hbase,MultiRowResource,org.apache.hadoop.hbase.rest.testmultirowresource.testmulticellgetjsonnotfound,0.3775096202991479,0.0,False,False

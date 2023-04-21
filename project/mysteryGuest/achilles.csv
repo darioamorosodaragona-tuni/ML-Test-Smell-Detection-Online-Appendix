@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 22,achilles,ManagerCodeGen,info.archinnov.achilles.internals.codegen.managercodegentest.should_generate_manager_class_for_index_dsl,0.0,0.0,False,True
 22,achilles,EntityMetaCodeGen,info.archinnov.achilles.internals.codegen.meta.entitymetacodegentest.should_build_entity_with_static_counter_column,0.0,0.0,False,True
 22,achilles,EntityMetaCodeGen,info.archinnov.achilles.internals.codegen.meta.entitymetacodegentest.should_build_view_meta,0.0,0.0,False,True

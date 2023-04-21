@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 14,elastic-job-lite,ShardingContext,io.elasticjob.lite.api.shardingcontexttest.assertnew,12,0,True,False
 14,elastic-job-lite,AverageAllocationJobShardingStrategy,io.elasticjob.lite.api.strategy.impl.averageallocationjobshardingstrategytest.shardingforserverslessthanshardingcountaliquot,0,0,False,False
 14,elastic-job-lite,OdevitySortByNameJobShardingStrategy,io.elasticjob.lite.api.strategy.impl.odevitysortbynamejobshardingstrategytest.assertshardingbydesc,0,0,False,False

@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 43,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.get_scheduled_by_task_name,0,0,False,False
 43,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.reschedule_should_move_execution_in_time,0,0,False,False
 43,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.should_not_be_able_to_pick_execution_that_has_been_rescheduled,0,0,False,False

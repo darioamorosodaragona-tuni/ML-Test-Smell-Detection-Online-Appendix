@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 21,oci-java-sdk,ConfigFileReader,com.oracle.bmc.configfilereadertest.defaultprofile,0,9,True,True
 21,oci-java-sdk,ConfigFileReader,com.oracle.bmc.configfilereadertest.linewithemptykey,0,1,True,True
 21,oci-java-sdk,ConfigFileReader,com.oracle.bmc.configfilereadertest.noconfigfile,0,3,True,True

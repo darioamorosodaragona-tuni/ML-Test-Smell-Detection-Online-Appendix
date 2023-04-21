@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 20,jfreechart,CategoryLineAnnotation,org.jfree.chart.annotations.categorylineannotationtest.testhashcode,0.0,0.0,False,False
 20,jfreechart,CategoryTextAnnotation,org.jfree.chart.annotations.categorytextannotationtest.testpubliccloneable,0.0,0.0,False,False
 20,jfreechart,CategoryTextAnnotation,org.jfree.chart.annotations.categorytextannotationtest.testserialization,0.0,0.0,False,False

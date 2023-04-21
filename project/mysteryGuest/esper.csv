@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 19,esper,TimePeriod,com.espertech.esper.common.client.util.testtimeperiod.testlargestabsolutevalue,0.0,0.0,False,False
 19,esper,AvroEventType,com.espertech.esper.common.internal.avro.core.testavroeventtype.asserttypesboxed,0.0,0.0,False,False
 19,esper,AvroSchemaUtil,com.espertech.esper.common.internal.avro.core.testavroschemautil.testassemble,0.0,0.0,False,False

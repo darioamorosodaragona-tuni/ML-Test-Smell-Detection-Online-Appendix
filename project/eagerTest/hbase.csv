@@ -7,7 +7,7 @@ idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,proba
 35,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testbackupsetaddnotexists,1,0.5517749814860191,0.4482250185139809,False,True
 35,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testbackupsetlist,1,0.5348601051592543,0.4651398948407457,False,True
 35,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testbackupsetremove,1,0.534656895130448,0.465343104869552,False,True
-35,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testincrementalbackuptableset,1,0.4787477103379816,0.5212522896620184,False,
+35,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.testincrementalbackuptableset,1,0.4787477103379816,0.5212522896620184,False,False
 35,hbase,AsyncClientExample,org.apache.hadoop.hbase.client.example.testasyncclientexample.test,0,0.2224852663124505,0.7775147336875494,True,False
 35,hbase,ReplicationAdmin,org.apache.hadoop.hbase.client.replication.testreplicationadmin.testremovepeertablecfs,0,0.396297800710108,0.603702199289892,True,True
 35,hbase,ReplicationAdmin,org.apache.hadoop.hbase.client.replication.testreplicationadmin.testsetreplicateallusertables,0,0.5709986900803773,0.4290013099196227,False,True
@@ -521,8 +521,8 @@ idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,proba
 35,hbase,VerifyReplication,org.apache.hadoop.hbase.replication.testverifyreplication.testhbase14905,1,0.3589791880113389,0.6410208119886611,True,True
 35,hbase,ZKReplicationPeerStorage,org.apache.hadoop.hbase.replication.testzkreplicationpeerstorage.test,2,0.208549168596268,0.791450831403732,True,True
 35,hbase,ZKReplicationQueueStorage,org.apache.hadoop.hbase.replication.testzkreplicationqueuestorage.testremovealllastpushedseqidsforpeer,0,0.3272713728069793,0.6727286271930206,True,True
-35,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.tesincorrecttfilterthrowsjpe,0,0.3981017969510609,0.601898203048939,True,
-35,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.testexistingfilter,0,0.4111643340287779,0.588835665971222,False,
+35,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.tesincorrecttfilterthrowsjpe,0,0.3981017969510609,0.601898203048939,True,False
+35,hbase,ScannerModel,org.apache.hadoop.hbase.rest.model.testscannermodel.testexistingfilter,0,0.4111643340287779,0.588835665971222,False,False
 35,hbase,GZIPResponseWrapper,org.apache.hadoop.hbase.rest.testgzipresponsewrapper.testreset,0,0.4643432890728247,0.5356567109271753,False,False
 35,hbase,MultiRowResource,org.apache.hadoop.hbase.rest.testmultirowresource.testmulticellgetjson,0,0.4854053578573585,0.5145946421426415,False,True
 35,hbase,MultiRowResource,org.apache.hadoop.hbase.rest.testmultirowresource.testmulticellgetjsonnotfound,0,0.4990623438156674,0.5009376561843326,False,False

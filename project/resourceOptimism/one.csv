@@ -1,3 +1,3 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 32,one,PomUtils,com.lcw.one.codegen.pomutilstest.testgetpackagefrommodule,0,0,False,False
 32,one,LocalFileStoreImpl,com.lcw.one.main.localfilestoreimpltest.testlocalfilestore,0,9,True,False

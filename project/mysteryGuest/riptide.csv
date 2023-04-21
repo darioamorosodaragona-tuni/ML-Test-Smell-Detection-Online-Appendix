@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 17,riptide,BackupRequestPlugin,org.zalando.riptide.backup.backuprequestplugintest.shouldsendbackuprequestsforgetwithbody,0.0,0.0,False,False
 17,riptide,CancelableCompletableFuture,org.zalando.riptide.cancelablecompletablefuturetest.shouldforwardresult,0.0,0.0,False,False
 17,riptide,Capture,org.zalando.riptide.capture.capturetest.shouldcapturenull,0.0,0.0,False,False

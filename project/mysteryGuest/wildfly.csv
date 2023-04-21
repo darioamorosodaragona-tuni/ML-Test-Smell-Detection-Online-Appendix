@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.closedatagramsocket,0.0,0.0,False,False
 11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.closeserversocket,0.0,0.0,False,False
 11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createdatagramsocket,0.0,0.0,False,False

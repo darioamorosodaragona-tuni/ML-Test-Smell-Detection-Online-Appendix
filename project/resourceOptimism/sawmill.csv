@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 6,sawmill,FieldHasValueCondition,io.logz.sawmill.conditions.fieldhasvalueconditiontest.testfieldhasvalue,0,0,False,False
 6,sawmill,FieldTypeCondition,io.logz.sawmill.conditions.fieldtypeconditiontest.testfieldtypelist,0,0,False,False
 6,sawmill,FieldTypeCondition,io.logz.sawmill.conditions.fieldtypeconditiontest.testfieldtypelong,0,0,False,False

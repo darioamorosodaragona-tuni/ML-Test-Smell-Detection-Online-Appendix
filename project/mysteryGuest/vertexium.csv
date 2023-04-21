@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,NRDB, NRF, isMysteryGuest ,isMysteryGuestManual
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
 16,vertexium,EdgeBuilderBase,org.vertexium.edgebuilderbasetest.testhaschangesalteredgelabel,0.0,0.0,False,False
 16,vertexium,Elasticsearch5SearchIndex,org.vertexium.elasticsearch5.elasticsearch5searchindextest.testdisallowleadingwildcardsinquerystring,0.0,0.0,False,False
 16,vertexium,Elasticsearch5SearchIndex,org.vertexium.elasticsearch5.elasticsearch5searchindextest.testqueryexecutioncountwhenpaging,0.0,0.0,False,False

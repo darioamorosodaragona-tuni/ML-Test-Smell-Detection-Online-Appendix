@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 47,rxjava2-extras,Actions,com.github.davidmoten.rx2.actionstest.testisutility,0,0,False,False
 47,rxjava2-extras,Actions,com.github.davidmoten.rx2.actionstest.testsettotrue,0,0,False,False
 47,rxjava2-extras,BiFunctions,com.github.davidmoten.rx2.bifunctionstest.testconstant,0,0,False,False

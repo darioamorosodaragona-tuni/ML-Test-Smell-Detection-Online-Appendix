@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 13,fastjson,IgnoreTypeDeserializer,com.alibaba.fastjson.deserializer.ignoretypedeserializer.parseobjectwithnotexisttypethrowexception,0,0,False,False
 13,fastjson,JSONPath,com.alibaba.fastjson.jsonpathtest.eq1,0,0,False,False
 13,fastjson,JSONPath,com.alibaba.fastjson.jsonpathtest.iseof2,0,0,False,False

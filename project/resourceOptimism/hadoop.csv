@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 34,hadoop,ApplicationClassLoader,org.apache.hadoop.util.testapplicationclassloader.testconstructurlsfromclasspath,0,25,True,False
 34,hadoop,ApplicationClassLoader,org.apache.hadoop.util.testapplicationclassloader.testgetresource,0,0,False,True
 34,hadoop,CacheableIPList,org.apache.hadoop.util.testcacheableiplist.testaddwithsleepforcachetimeout,0,9,True,False

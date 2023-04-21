@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 40,dropwizard,ResilentSocketOutputStream,ch.qos.logback.core.recovery.resilentsocketoutputstreamtest.testcreatescleanoutputstream,0,0,False,False
 40,dropwizard,ResilentSocketOutputStream,ch.qos.logback.core.recovery.resilentsocketoutputstreamtest.testthrowsexceptionifcantcreateoutputstream,0,0,False,False
 40,dropwizard,App1,com.example.app1.app1test.custom204onemptyoptional,0,0,False,False

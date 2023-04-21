@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 2,search-highlighter,ElasticsearchQueryFlattener,org.wikimedia.highlighter.experimental.elasticsearch.elasticsearchqueryflattenertest.phraseprefixqueryphraseasphrase,0,0,False,False
 2,search-highlighter,AutomatonHitEnum,org.wikimedia.highlighter.experimental.lucene.hit.automatonhitenumtest.detectwildcard,0,0,False,False
 2,search-highlighter,AutomatonHitEnum,org.wikimedia.highlighter.experimental.lucene.hit.automatonhitenumtest.leadingwildcardperformance,0,0,False,False

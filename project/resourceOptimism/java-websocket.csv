@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 18,java-websocket,AutobahnServerResults,org.java_websocket.autobahn.autobahnserverresults.test1_1_2,0,0,False,False
 18,java-websocket,AutobahnServerResults,org.java_websocket.autobahn.autobahnserverresults.test1_1_4,0,0,False,False
 18,java-websocket,AutobahnServerResults,org.java_websocket.autobahn.autobahnserverresults.test1_1_5,0,0,False,False

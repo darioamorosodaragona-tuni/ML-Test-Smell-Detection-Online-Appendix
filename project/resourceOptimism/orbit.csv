@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 5,orbit,CloneHelper,cloud.orbit.actors.cloner.clonehelpertest.testmessagewithobjectarraypayload,0,0,False,False
 5,orbit,ExecutionSerializer,cloud.orbit.actors.executionserializertest.testexception,0,0,False,False
 5,orbit,ExecutionSerializer,cloud.orbit.actors.executionserializertest.testmulti,0,0,False,False

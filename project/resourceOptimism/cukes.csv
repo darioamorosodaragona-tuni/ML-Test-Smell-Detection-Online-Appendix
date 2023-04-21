@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 37,cukes,BaseContextHandler,lv.ctco.cukes.core.internal.context.basecontexthandlertest.shouldextractsinglegroupinpattern,0,0,False,False
 37,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldcapturevaluesfromsimplepattern,0,0,False,False
 37,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldinvokecapturevaluesfrompatternifatleastonegroupfound,0,0,False,False

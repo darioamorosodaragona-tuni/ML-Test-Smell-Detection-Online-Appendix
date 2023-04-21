@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 1,spring-ws,SimpleFaultMessageResolver,org.springframework.ws.client.core.simplefaultmessageresolvertest.testresolvefault,0,0,False,False
 1,spring-ws,WebServiceTemplate,org.springframework.ws.client.core.webservicetemplatetest.testmarshalandsendnounmarshallerset,0,0,False,False
 1,spring-ws,WebServiceTemplate,org.springframework.ws.client.core.webservicetemplatetest.testsendandreceivemarshalnoresponse,0,0,False,False

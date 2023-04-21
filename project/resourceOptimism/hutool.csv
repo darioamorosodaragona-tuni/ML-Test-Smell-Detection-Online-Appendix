@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 8,hutool,BeanPath,cn.hutool.core.bean.beanpathtest.beanpathtest3,0,0,False,False
 8,hutool,BeanUtil,cn.hutool.core.bean.beanutiltest.beantomaptest,0,0,False,False
 8,hutool,BeanUtil,cn.hutool.core.bean.beanutiltest.fillbeanwithmapignorecasetest,0,0,False,False

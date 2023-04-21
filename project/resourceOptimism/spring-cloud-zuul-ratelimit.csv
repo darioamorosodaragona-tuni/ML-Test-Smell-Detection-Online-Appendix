@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 4,spring-cloud-zuul-ratelimit,DefaultRateLimitKeyGenerator,com.marcosbarbero.cloud.autoconfigure.zuul.ratelimit.config.defaultratelimitkeygeneratortest.testkeyemptytypes,0,0,False,False
 4,spring-cloud-zuul-ratelimit,DefaultRateLimitKeyGenerator,com.marcosbarbero.cloud.autoconfigure.zuul.ratelimit.config.defaultratelimitkeygeneratortest.testkeyurlwithmatcher,0,0,False,False
 4,spring-cloud-zuul-ratelimit,DefaultRateLimitKeyGenerator,com.marcosbarbero.cloud.autoconfigure.zuul.ratelimit.config.defaultratelimitkeygeneratortest.testkeyusernullprincipal,0,0,False,False

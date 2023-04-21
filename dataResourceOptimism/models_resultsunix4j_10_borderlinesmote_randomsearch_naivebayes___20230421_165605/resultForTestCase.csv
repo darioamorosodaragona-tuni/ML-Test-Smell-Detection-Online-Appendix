@@ -1,0 +1,9 @@
+,idProject,nameProject,productionClass,testCase,isResourceOptimism,isResourceOptimismManual,prediction
+0,36.0,unix4j,CommandBuilder,org.unix4j.builder.commandbuildertest.testechogrepnomatch,False,False,False
+3,36.0,unix4j,CommandBuilder,org.unix4j.builder.commandbuildertest.testlssortreverse,False,False,False
+18,36.0,unix4j,CutCommand,org.unix4j.unix.cuttest.testcharactercut1,False,False,False
+28,36.0,unix4j,HeadCommand,org.unix4j.unix.headtest.testhead_6,False,False,False
+40,36.0,unix4j,MultilineString,org.unix4j.unix.sorttest.testsortignoreblanks,False,False,False
+45,36.0,unix4j,MultilineString,org.unix4j.unix.sorttest.testsortwithduplicatesignorecase,False,False,False
+67,36.0,unix4j,RelativePathBase,org.unix4j.util.relativepathbasetest.testrelativepath_3_indirectparent,False,False,False
+70,36.0,unix4j,ScientificNumberStringComparator,org.unix4j.util.scientificnumberstringcomparatortest.testrandomverylongintegerpairs,False,False,False

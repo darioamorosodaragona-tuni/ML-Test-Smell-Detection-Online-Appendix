@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism ,isResourceOptimismManual
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
 49,spring-boot,OperationMethodParameters,org.springframework.boot.actuate.endpoint.invoke.reflect.operationmethodparametertests.ismandatorywhennoannotationshouldreturntrue,0,0,False,False
 49,spring-boot,OperationMethodParameters,org.springframework.boot.actuate.endpoint.invoke.reflect.operationmethodparametertests.ismandatorywhennullableannotationshouldreturnfalse,0,0,False,False
 49,spring-boot,CommandLineIT,org.springframework.boot.cli.commandlineit.help,0,0,False,False
