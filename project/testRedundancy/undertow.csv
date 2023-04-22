@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 27,undertow,WebSocketServlet,io.undertow.servlet.test.websocket.websocketservlettest.testtext,0.0,0.0,False,False
 27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testannotatedclientendpoint,0.0,0.0,False,False
 27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testclientsideidletimeout,0.0,0.0,False,False

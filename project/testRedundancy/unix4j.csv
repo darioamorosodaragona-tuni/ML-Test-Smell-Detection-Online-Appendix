@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 35,unix4j,CommandBuilder,org.unix4j.builder.commandbuildertest.testechogrepnomatch,0.0,0.0,False,False
 35,unix4j,CommandBuilder,org.unix4j.builder.commandbuildertest.testls,0.0,0.0,False,False
 35,unix4j,CommandBuilder,org.unix4j.builder.commandbuildertest.testlsfile,0.0,0.0,False,False

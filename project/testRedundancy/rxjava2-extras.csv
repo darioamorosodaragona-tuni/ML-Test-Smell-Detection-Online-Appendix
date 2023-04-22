@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 45,rxjava2-extras,Actions,com.github.davidmoten.rx2.actionstest.testisutility,0.0,0.0,False,False
 45,rxjava2-extras,Actions,com.github.davidmoten.rx2.actionstest.testsettotrue,0.0,0.0,False,False
 45,rxjava2-extras,BiFunctions,com.github.davidmoten.rx2.bifunctionstest.testconstant,0.0,0.0,False,False

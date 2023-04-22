@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 36,cukes,BaseContextHandler,lv.ctco.cukes.core.internal.context.basecontexthandlertest.shouldextractsinglegroupinpattern,0.0,0.0,False,False
 36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldcapturevaluesfromsimplepattern,0.0,0.0,False,False
 36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldinvokecapturevaluesfrompatternifatleastonegroupfound,0.0,0.0,False,False

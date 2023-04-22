@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 13,fastjson,IgnoreTypeDeserializer,com.alibaba.fastjson.deserializer.ignoretypedeserializer.parseobjectwithnotexisttypethrowexception,0.0,0.0,False,False
 13,fastjson,JSONPath,com.alibaba.fastjson.jsonpathtest.eq1,0.0,0.0,False,False
 13,fastjson,JSONPath,com.alibaba.fastjson.jsonpathtest.iseof2,0.0,0.0,False,False
@@ -157,7 +157,7 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRed
 13,fastjson,Issue1165,com.alibaba.json.bvt.issue_1100.issue1165.test_for_issue,0.0,0.0,False,False
 13,fastjson,Issue1177_2,com.alibaba.json.bvt.issue_1100.issue1177_2.test_for_issue,0.0,0.0,False,False
 13,fastjson,Issue969,com.alibaba.json.bvt.issue_1100.issue969.test_for_issue,0.0,0.0,False,False
-13,fastjson,Issue969,com.alibaba.json.bvt.issue_1100.issue969.test_for_issue_1,0.0,0.0,False,
+13,fastjson,Issue969,com.alibaba.json.bvt.issue_1100.issue969.test_for_issue_1,0.0,0.0,False,False
 13,fastjson,Issue1226,com.alibaba.json.bvt.issue_1200.issue1226.test_for_issue,0.0,0.0,False,False
 13,fastjson,Issue1231,com.alibaba.json.bvt.issue_1200.issue1231.test_for_issue,0.0,0.0,False,False
 13,fastjson,Issue1235,com.alibaba.json.bvt.issue_1200.issue1235.test_for_issue,0.0,0.0,False,False
@@ -430,7 +430,7 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRed
 13,fastjson,WriteAsArray_double_private,com.alibaba.json.bvt.writeasarray.writeasarray_double_private.test_error1,0.0,0.0,False,False
 13,fastjson,WriteAsArray_double_public,com.alibaba.json.bvt.writeasarray.writeasarray_double_public.test_error1,0.0,0.0,False,False
 13,fastjson,WriteAsArray_float2_private,com.alibaba.json.bvt.writeasarray.writeasarray_float2_private.test_error,0.0,0.0,False,False
-13,fastjson,WriteAsArray_float2_public,com.alibaba.json.bvt.writeasarray.writeasarray_float2_public.test_error2,0.0,0.0,False,
+13,fastjson,WriteAsArray_float2_public,com.alibaba.json.bvt.writeasarray.writeasarray_float2_public.test_error2,0.0,0.0,False,False
 13,fastjson,WriteAsArray_int_public,com.alibaba.json.bvt.writeasarray.writeasarray_int_public.test_2_stream,0.0,0.0,False,False
 13,fastjson,WriteAsArray_int_public,com.alibaba.json.bvt.writeasarray.writeasarray_int_public.test_error,0.0,0.0,False,False
 13,fastjson,WriteAsArray_int_public,com.alibaba.json.bvt.writeasarray.writeasarray_int_public.test_error_overflow,0.0,0.0,False,False

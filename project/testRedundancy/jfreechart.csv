@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 20,jfreechart,CategoryLineAnnotation,org.jfree.chart.annotations.categorylineannotationtest.testhashcode,0.0,0.0,False,False
 20,jfreechart,CategoryTextAnnotation,org.jfree.chart.annotations.categorytextannotationtest.testpubliccloneable,0.0,0.0,False,False
 20,jfreechart,CategoryTextAnnotation,org.jfree.chart.annotations.categorytextannotationtest.testserialization,0.0,0.0,False,False
@@ -365,8 +365,8 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRed
 20,jfreechart,DatasetUtils,org.jfree.data.general.datasetutilstest.testiteraterangebounds_categorydataset,0.0,0.0,False,False
 20,jfreechart,DatasetUtils,org.jfree.data.general.datasetutilstest.testiteratetofindrangebounds2_xydataset,0.0,0.0,False,False
 20,jfreechart,DatasetUtils,org.jfree.data.general.datasetutilstest.teststackedrangewithmap,0.0,0.0,False,False
-20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testgeneral,0.0,0.0,False,
-20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testserialization,0.0,0.0,False,
+20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testgeneral,0.0,0.0,False,False
+20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testserialization,0.0,0.0,False,False
 20,jfreechart,DefaultKeyedValueDataset,org.jfree.data.general.defaultkeyedvaluedatasettest.testcloning,0.0,0.0307692307692307,False,False
 20,jfreechart,DefaultKeyedValueDataset,org.jfree.data.general.defaultkeyedvaluedatasettest.testequals,0.0,0.0296296296296295,False,False
 20,jfreechart,DefaultKeyedValues2DDataset,org.jfree.data.general.defaultkeyedvalues2ddatasettest.testserialization,0.0,0.0,False,False

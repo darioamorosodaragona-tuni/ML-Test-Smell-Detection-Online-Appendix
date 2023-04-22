@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 4,spring-cloud-zuul-ratelimit,DefaultRateLimitKeyGenerator,com.marcosbarbero.cloud.autoconfigure.zuul.ratelimit.config.defaultratelimitkeygeneratortest.testkeyemptytypes,0.0,0.0,False,False
 4,spring-cloud-zuul-ratelimit,DefaultRateLimitKeyGenerator,com.marcosbarbero.cloud.autoconfigure.zuul.ratelimit.config.defaultratelimitkeygeneratortest.testkeyurlwithmatcher,0.0620689655172413,0.0,False,False
 4,spring-cloud-zuul-ratelimit,DefaultRateLimitKeyGenerator,com.marcosbarbero.cloud.autoconfigure.zuul.ratelimit.config.defaultratelimitkeygeneratortest.testkeyusernullprincipal,0.049056603773585,0.0,False,False

@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 19,esper,TimePeriod,com.espertech.esper.common.client.util.testtimeperiod.testlargestabsolutevalue,0.1502710641778836,0.0,False,False
 19,esper,AvroEventType,com.espertech.esper.common.internal.avro.core.testavroeventtype.asserttypesboxed,0.0,0.0,False,False
 19,esper,AvroSchemaUtil,com.espertech.esper.common.internal.avro.core.testavroschemautil.testassemble,0.0,0.0,False,False

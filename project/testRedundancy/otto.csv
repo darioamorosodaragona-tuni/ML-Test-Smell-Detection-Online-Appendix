@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 40,otto,Bus,com.squareup.otto.bustest.deadeventposting,0.0,0.0,False,False
 40,otto,Bus,com.squareup.otto.bustest.missingsubscribe,0.0,0.0,False,False
 40,otto,Bus,com.squareup.otto.bustest.polymorphicdistribution,0.0,0.0,False,False

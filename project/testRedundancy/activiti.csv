@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 42,activiti,Task,org.activiti.editor.language.subprocesstest.doubleconversionvalidation,0.0,0.0,False,False
 42,activiti,CommaSplitter,org.activiti.editor.language.xml.commasplittertest.testomanycomainexpression,0.0,0.0,False,False
 42,activiti,ServiceTaskParseHandler,org.activiti.engine.impl.bpmn.parser.handler.servicetaskparsehandlertest.executeparseshouldusedefaultbehaviorwhennoinformationisprovided,0.0,0.0,False,False

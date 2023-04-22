@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 21,oci-java-sdk,ConfigFileReader,com.oracle.bmc.configfilereadertest.defaultprofile,0.0,0.0,False,False
 21,oci-java-sdk,ConfigFileReader,com.oracle.bmc.configfilereadertest.linewithemptykey,0.0,0.0,False,False
 21,oci-java-sdk,ConfigFileReader,com.oracle.bmc.configfilereadertest.noconfigfile,0.0,0.0,False,False

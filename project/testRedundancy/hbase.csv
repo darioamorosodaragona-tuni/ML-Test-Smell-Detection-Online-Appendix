@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,"isTestRedundancy ",isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 49,hbase,BackupHFileCleaner,org.apache.hadoop.hbase.backup.testbackuphfilecleaner.testgetdeletablefiles,0.0,0.0,False,False
 49,hbase,BackupManager,org.apache.hadoop.hbase.backup.testbackupmanager.teststartbackupexclusiveoperation,0.0,0.0,False,False
 49,hbase,BackupSystemTable,org.apache.hadoop.hbase.backup.testbackupsystemtable.createbackupinfolist,0.0,0.0,False,False

@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 33,noxy,FixedDiscoveryService,com.spinn3r.noxy.discovery.fixed.init.fixeddiscoveryservicetest.testinit,0.0,0.0,False,False
 33,noxy,DefaultProxyAuthenticator,com.spinn3r.noxy.forward.authenticator.defaultproxyauthenticatortest.testauthenticatewithnullpassword,0.0467849223946784,0.0467849223946784,False,False
 33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithnoaddresses,0.0,0.0,False,False

@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 46,jhipster-registry,SwaggerBasePathRewritingFilter,io.github.jhipster.registry.filters.responserewriting.swaggerbasepathrewritingfiltertest.shouldfilter_on_default_swagger_url_with_param,0.0,0.0,False,False
 46,jhipster-registry,AccountResource,io.github.jhipster.registry.web.rest.accountresourcetest.testauthenticateduser,0.0,0.0,False,False
 46,jhipster-registry,ExceptionTranslator,io.github.jhipster.registry.web.rest.errors.exceptiontranslatortest.processvalidationerrortest,0.0,0.0,False,False

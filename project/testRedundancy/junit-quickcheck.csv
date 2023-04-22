@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 25,junit-quickcheck,HashtableGenerator,com.pholser.junit.quickcheck.generator.java.util.hashtablegeneratortest.allowskeyandvaluewhenneitherisnull,0.0,0.0,False,False
 25,junit-quickcheck,HashtableGenerator,com.pholser.junit.quickcheck.generator.java.util.hashtablegeneratortest.disallowsnullkeyandnullvalue,0.0,0.0,False,False
 25,junit-quickcheck,Generator,com.pholser.junit.quickcheck.generatortest.addingcomponentsdoesnothing,0.0,0.0,False,False

@@ -1,4 +1,4 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy ,isTestRedundancyManual
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
 5,orbit,CloneHelper,cloud.orbit.actors.cloner.clonehelpertest.testmessagewithobjectarraypayload,0.0,0.0,False,False
 5,orbit,ExecutionSerializer,cloud.orbit.actors.executionserializertest.testexception,0.0,0.0,False,False
 5,orbit,ExecutionSerializer,cloud.orbit.actors.executionserializertest.testmulti,0.0,0.0,False,False
