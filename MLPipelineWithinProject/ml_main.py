@@ -35,7 +35,7 @@ recall_list = []
 print("Started: " + start_time.strftime("%d %m %Y H%H:%M:%S"))
 print("Results will be saved to dir: " + out_dir)
 # get dataset
-dataset_dir = "/home/vale/Scrivania/ML-Test-Smell-Detection-Online-Appendix/project/resourceOptimism/" + params[
+dataset_dir = "/home/vale/Scrivania/ML-Test-Smell-Detection-Online-Appendix/project/testRedundancy/" + params[
     "data"] + ".csv"  # Insert here your path
 
 #this line is for RQ3    
@@ -51,9 +51,9 @@ kfold = StratifiedKFold(n_splits=k, shuffle=True, random_state=42)
 #X = df.iloc[: , [0,1,2,3,4,5,6,7]].copy() #this line is for EagerTestPrediction
 X = df.iloc[: , [0,1,2,3,4,5,6]].copy() #this line is for MysteryGuestPrediction
 
-X = df.iloc[:, df.columns != 'isResourceOptimismManual'].copy()
+X = df.iloc[:, df.columns != 'isTestRedundancyManual'].copy()
 #y = df.iloc[: , [29]].copy()
-y = df["isResourceOptimismManual"]
+y = df["isTestRedundancyManual"]
 folds = kfold.split(X,y)
 
 # del df
@@ -75,20 +75,20 @@ for fold in folds:
 
 
 
-    y_train = train["isResourceOptimismManual"]
+    y_train = train["isTestRedundancyManual"]
     y_train = y_train.astype(int)
     #this line is for RQ3
-    X_train = train.drop(columns=["idProject","nameProject","productionClass","testCase","isResourceOptimism","isResourceOptimismManual"])
-    testset_sample = test[["idProject","nameProject","productionClass","testCase","isResourceOptimism","isResourceOptimismManual"]]
+    X_train = train.drop(columns=["idProject","nameProject","productionClass","testCase","isTestRedundancy","isTestRedundancyManual"])
+    testset_sample = test[["idProject","nameProject","productionClass","testCase","isTestRedundancy","isTestRedundancyManual"]]
     
     #lines 92-92 are for RQ4
     #X_train = train.drop(columns=["id","projectName", "test_name", "isFlaky", "java_keywords"])
     #testset_sample = test[["id", "projectName","test_name","isFlaky", "java_keywords"]]
     
-    y_test = test["isResourceOptimismManual"]
+    y_test = test["isTestRedundancyManual"]
     y_test = y_test.astype(int)
     
-    X_test = test.drop(columns = ["idProject","nameProject","productionClass","testCase","isResourceOptimism","isResourceOptimismManual"])
+    X_test = test.drop(columns = ["idProject","nameProject","productionClass","testCase","isTestRedundancy","isTestRedundancyManual"])
     #line 99 is for RQ4
     #X_test = test.drop(columns=["id", "projectName", "test_name", "isFlaky", "java_keywords"])
     
