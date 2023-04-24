@@ -1,0 +1,5 @@
+,idProject,nameProject,productionClass,testCase,isTestRedundancy,isTestRedundancyManual,prediction
+17,25.0,junit-quickcheck,EnumGenerator,com.pholser.junit.quickcheck.internal.generator.enumgeneratortest.capabilityofshrinkingnonenum,False,False,False
+21,25.0,junit-quickcheck,GeometricDistribution,com.pholser.junit.quickcheck.internal.geometricdistributiontest.samplewithnoncertainprobability,False,False,False
+24,25.0,junit-quickcheck,Lists,com.pholser.junit.quickcheck.internal.liststest.shrinksofnonemptylist,False,False,False
+27,25.0,junit-quickcheck,Reflection,com.pholser.junit.quickcheck.internal.reflectiontest.aclassisnotasingleabstractmethodtype,False,False,False

@@ -1,3 +1,0 @@
-,idProject,nameProject,productionClass,testCase,isResourceOptimism,isResourceOptimismManual,prediction
-2,37.0,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldinvokecapturevaluesfrompatternifatleastonegroupfound,False,False,True
-6,37.0,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_multiplesameexist,False,False,True
