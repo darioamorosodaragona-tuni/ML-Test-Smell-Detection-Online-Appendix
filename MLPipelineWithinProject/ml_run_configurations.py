@@ -10,7 +10,10 @@ def get_configurations():
                        "esper", "fastjson", "hadoop", "hbase", "hutool", "java-websocket", "jfreechart", "jhipster-registry",
                        "junit-quickcheck", "noxy", "oci-java-sdk", "orbit", "otto", "retrofit", "riptide", "rxjava2-extras",
                        "sawmill", "search-highlighter", "spring-boot", "spring-cloud-zuul-ratelimit", "spring-ws",
-                       "timely", "undertow", "unix4j", "vertexium", "wildfly"]
+                       "timely", "undertow", "unix4j", "vertexium", "wildfly","admiral","aismessages","alien4cloud","c2mon",
+                       "carbon-apimgt","fluent-logger-java","hadoop","hsac-fitnesse-fixtures","http-request","incubator-dubbo",
+                       "jimfs","joda-time","luwak","marine-api","oryx","querydsl","tyrus","vertx-completable-future","webcollector",
+                       "yawp","aletheia","helios","nexus-repository-helm","openpojo","pippo","struts","wikidata-toolkit","wro4j"]
 
 
     with open('configuration.txt', 'r') as f:

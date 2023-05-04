@@ -1,0 +1,13 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+10,aismessages,AidToNavigationReport,dk.tbsalling.aismessages.ais.messages.aidtonavigationreporttest.testdatafields,0,0.5911631589197092,0.4088368410802908,False,False
+10,aismessages,AISMessage,dk.tbsalling.aismessages.ais.messages.aismessagetest.isserializable,0,0.0146237279212549,0.985376272078745,True,False
+10,aismessages,BaseStationReport,dk.tbsalling.aismessages.ais.messages.basestationreporttest.candecode,0,0.8863949539831603,0.1136050460168397,False,False
+10,aismessages,BinaryBroadcastMessage,dk.tbsalling.aismessages.ais.messages.binarybroadcastmessagetest.candecodedac200fi10inlandshipstaticandvoyagerelateddata1,0,0.7659417536108881,0.2340582463891118,False,False
+10,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant1,0,0.9981323072198012,0.0018676927801988,False,False
+10,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant2,0,0.9981323072198012,0.0018676927801988,False,False
+10,aismessages,PositionReportClassAAssignedSchedule,dk.tbsalling.aismessages.ais.messages.positionreportclassaassignedscheduletest.candecode,0,0.0,1.0,True,False
+10,aismessages,PositionReportClassAScheduled,dk.tbsalling.aismessages.ais.messages.positionreportclassascheduledtest.candecodecommunicationstate,0,0.8257120222245796,0.1742879777754203,False,False
+10,aismessages,ShipAndVoyageData,dk.tbsalling.aismessages.ais.messages.shipandvoyagedatatest.digest,1,0.4116231873686816,0.5883768126313184,False,False
+10,aismessages,StandardClassBCSPositionReport,dk.tbsalling.aismessages.ais.messages.standardclassbcspositionreporttest.candecode1,0,0.9355374071369812,0.0644625928630187,False,False
+10,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canflushempty,0,0.8710807075283591,0.1289192924716409,False,False
+10,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canhandleunfragmentedmessagereceived,0,0.8544912434438935,0.1455087565561065,False,False

@@ -1,0 +1,8 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+8,aletheia,BreadcrumbDispatcher,com.outbrain.aletheia.breadcrumbs.breadcrumbdispatchertest.whenbucketcollisionthenrejectolddata,0,0.3954948621445719,0.604505137855428,True,False
+8,aletheia,AletheiaConfig,com.outbrain.aletheia.configuration.aletheiaconfigtest.testendpointdefaultconfig,0,0.6177840120361201,0.3822159879638799,False,False
+8,aletheia,AletheiaConfig,com.outbrain.aletheia.configuration.aletheiaconfigtest.testroutingconfigreading,0,0.4114226579571244,0.5885773420428756,False,False
+8,aletheia,PropertyUtils,com.outbrain.aletheia.configuration.propertyutilstest.test_whenoverridingpropertieswithkeepall_oldvaluesgetoverriddennewonesarecopied,0,0.9253314953128756,0.0746685046871243,False,False
+8,aletheia,AletheiaStreams,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.ondeserialize,0,0.4307581005377875,0.5692418994622125,False,False
+8,aletheia,AletheiaStreams,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.whenbootstrapserversconfiguredshouldtakeprecedence,0,0.3454249810130407,0.6545750189869592,True,False
+8,aletheia,AletheiaStreams,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.whennostreamcreatedshouldthrow,0,0.3001698022473675,0.6998301977526324,True,False
