@@ -1,0 +1,13 @@
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testacceptasync,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteither,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteitherasync,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testapplytoeither,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombineasyncwithexecutor,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombinefailurepropagation,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombinewithfailures,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testexceptionally,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testfromcompletablestagejavadoc,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testrun,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testrunasync,0,0,False,False
+11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testwhencompleteasync,0,0,False,False

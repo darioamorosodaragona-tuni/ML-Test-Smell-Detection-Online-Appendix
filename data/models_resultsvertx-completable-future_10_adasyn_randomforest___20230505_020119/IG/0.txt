@@ -1,3 +1,0 @@
-                    NMC  0.0
-SimilaritiesCoefficient  0.0
-   probabilityEagerTest  0.0
