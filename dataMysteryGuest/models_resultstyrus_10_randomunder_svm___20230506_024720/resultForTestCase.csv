@@ -1,0 +1,17 @@
+,idProject,nameProject,productionClass,testCase,isMysteryGuest,isMysteryGuestManual,prediction
+2,8.0,tyrus,Credentials,org.glassfish.tyrus.client.auth.credentialstest.testnullpassword2,False,False,False
+7,8.0,tyrus,TyrusClientEngine,org.glassfish.tyrus.client.tyrusclientenginetest.testtrasformlocationhttptows,False,False,False
+15,8.0,tyrus,Frame,org.glassfish.tyrus.core.frametest.testpayloaddatachange,False,False,False
+33,8.0,tyrus,ClientOnErrorDuplication,org.glassfish.tyrus.tests.qa.clientonerrorduplicationtest.testclientonerrorduplication,False,True,False
+8,8.0,tyrus,SslFilter,org.glassfish.tyrus.container.jdk.client.sslfiltertest.testcloseserver,False,True,True
+14,8.0,tyrus,Frame,org.glassfish.tyrus.core.frametest.testisrsv3,False,False,True
+18,8.0,tyrus,MessageHandlerManager,org.glassfish.tyrus.core.messagehandlermanagertest.multipletexthandlers,False,False,True
+19,8.0,tyrus,MessageHandlerManager,org.glassfish.tyrus.core.messagehandlermanagertest.multipletexthandlerspartial,False,False,True
+0,8.0,tyrus,AuthConfig,org.glassfish.tyrus.client.auth.authconfigtest.testoverridebasic,False,False,True
+24,8.0,tyrus,TyrusRemoteEndpoint,org.glassfish.tyrus.core.tyrusremoteendpointtest.testasyncsendtexthandler2,False,False,True
+29,8.0,tyrus,Utils,org.glassfish.tyrus.core.utilstest.testparsehttpdaterfc1036,False,False,True
+32,8.0,tyrus,TextAndBinaryProgrammaticDecoder,org.glassfish.tyrus.test.e2e.appconfig.textandbinaryprogrammaticdecoder.test2decoders1handler,False,True,True
+4,8.0,tyrus,TyrusClientEngine,org.glassfish.tyrus.client.tyrusclientenginetest.testcallcreaterequesttwice,False,False,True
+5,8.0,tyrus,TyrusClientEngine,org.glassfish.tyrus.client.tyrusclientenginetest.testerrorflow3,False,False,True
+25,8.0,tyrus,TyrusRemoteEndpoint,org.glassfish.tyrus.core.tyrusremoteendpointtest.testbasicsendbinary,False,False,True
+31,8.0,tyrus,SessionBuilder,org.glassfish.tyrus.ext.client.java8.sessionbuildertest.testencoderdecoder,False,True,True
