@@ -1,1 +1,0 @@
-{"solver": "adam", "learning_rate": "constant", "hidden_layer_sizes": [20], "alpha": 0.05, "activation": "tanh"}

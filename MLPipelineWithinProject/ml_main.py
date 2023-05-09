@@ -35,7 +35,7 @@ recall_list = []
 print("Started: " + start_time.strftime("%d %m %Y H%H:%M:%S"))
 print("Results will be saved to dir: " + out_dir)
 # get dataset
-dataset_dir = "/home/vale/Scrivania/ML-Test-Smell-Detection-Online-Appendix/project/testRedundancy/" + params[
+dataset_dir = "/Users/valeriapontillo/Desktop/ML-Test-Smell-Detection-Online-Appendix/project/mysteryGuest/" + params[
     "data"] + ".csv"  # Insert here your path
 
 #this line is for RQ3    
@@ -51,9 +51,9 @@ kfold = StratifiedKFold(n_splits=k, shuffle=True, random_state=42)
 #X = df.iloc[: , [0,1,2,3,4,5,6,7]].copy() #this line is for EagerTestPrediction
 X = df.iloc[: , [0,1,2,3,4,5,6]].copy() #this line is for MysteryGuestPrediction
 
-X = df.iloc[:, df.columns != 'isTestRedundancyManual'].copy()
+X = df.iloc[:, df.columns != 'isMysteryGuestManual'].copy()
 #y = df.iloc[: , [29]].copy()
-y = df["isTestRedundancyManual"]
+y = df["isMysteryGuestManual"]
 folds = kfold.split(X,y)
 
 # del df
@@ -75,27 +75,20 @@ for fold in folds:
 
 
 
-    y_train = train["isTestRedundancyManual"]
+    y_train = train["isMysteryGuestManual"]
     y_train = y_train.astype(int)
     #this line is for RQ3
-    X_train = train.drop(columns=["idProject","nameProject","productionClass","testCase","isTestRedundancy","isTestRedundancyManual"])
-    testset_sample = test[["idProject","nameProject","productionClass","testCase","isTestRedundancy","isTestRedundancyManual"]]
+    X_train = train.drop(columns=["idProject","nameProject","productionClass","testCase","isMysteryGuest","isMysteryGuestManual"])
+    testset_sample = test[["idProject","nameProject","productionClass","testCase","isMysteryGuest","isMysteryGuestManual"]]
     
-    #lines 92-92 are for RQ4
-    #X_train = train.drop(columns=["id","projectName", "test_name", "isFlaky", "java_keywords"])
-    #testset_sample = test[["id", "projectName","test_name","isFlaky", "java_keywords"]]
+
     
-    y_test = test["isTestRedundancyManual"]
+    y_test = test["isMysteryGuestManual"]
     y_test = y_test.astype(int)
     
-    X_test = test.drop(columns = ["idProject","nameProject","productionClass","testCase","isTestRedundancy","isTestRedundancyManual"])
-    #line 99 is for RQ4
-    #X_test = test.drop(columns=["id", "projectName", "test_name", "isFlaky", "java_keywords"])
+    X_test = test.drop(columns = ["idProject","nameProject","productionClass","testCase","isMysteryGuest","isMysteryGuestManual"])
     
     print("Round " + str(i + 1) + " of " + str(k) + ": " + "Data cleaning")
-
-    #X_train = data_scaling(X_train)
-    #X_test = data_scaling(X_test)
   
 
     columns_to_retain = X_train.columns

@@ -365,8 +365,8 @@ idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,proba
 20,jfreechart,DatasetUtils,org.jfree.data.general.datasetutilstest.testiteraterangebounds_categorydataset,1,0.5735565050519125,0.4264434949480875,False,False
 20,jfreechart,DatasetUtils,org.jfree.data.general.datasetutilstest.testiteratetofindrangebounds2_xydataset,0,0.520641504192255,0.479358495807745,False,True
 20,jfreechart,DatasetUtils,org.jfree.data.general.datasetutilstest.teststackedrangewithmap,1,0.4078985525597898,0.5921014474402102,False,True
-20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testgeneral,0,0.453064323061746,0.5469356769382541,False,
-20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testserialization,0,0.5145085764867374,0.4854914235132626,False,
+20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testgeneral,0,0.453064323061746,0.5469356769382541,False,False
+20,jfreechart,DefaultHeatMapDataset,org.jfree.data.general.defaultheatmapdatasettest.testserialization,0,0.5145085764867374,0.4854914235132626,False,False
 20,jfreechart,DefaultKeyedValueDataset,org.jfree.data.general.defaultkeyedvaluedatasettest.testcloning,0,0.7896160119639358,0.2103839880360641,False,False
 20,jfreechart,DefaultKeyedValueDataset,org.jfree.data.general.defaultkeyedvaluedatasettest.testequals,0,0.8002787072924423,0.1997212927075576,False,False
 20,jfreechart,DefaultKeyedValues2DDataset,org.jfree.data.general.defaultkeyedvalues2ddatasettest.testserialization,0,0.6636800629984939,0.3363199370015061,False,True
