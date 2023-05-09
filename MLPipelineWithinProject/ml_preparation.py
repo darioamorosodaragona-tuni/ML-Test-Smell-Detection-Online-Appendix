@@ -85,7 +85,7 @@ data_balancing_available = ["nearmissunder1", "nearmissunder2", "nearmissunder3"
 def data_balancing(param, X, y):
     if param == "smoteover":
         #oversample = SMOTE(random_state = 42, k_neighbors = 2)
-        oversample = SMOTE(random_state = 42, k_neighbors= 1)
+        oversample = SMOTE(random_state = 42, k_neighbors=1, sampling_strategy=0.1)
         X, y = oversample.fit_resample(X, y)
     elif param == "adasyn":
         #oversample = ADASYN(n_neighbors=2)
@@ -99,13 +99,13 @@ def data_balancing(param, X, y):
         oversample = RandomOverSampler(sampling_strategy='minority')
         X, y = oversample.fit_resample(X, y)
     elif param == "nearmissunder1":
-        undersample = NearMiss(version=1, n_neighbors=6)
+        undersample = NearMiss(version=1, n_neighbors=1)
         X, y = undersample.fit_resample(X, y)
     elif param == "nearmissunder2":
-        undersample = NearMiss(version=2, n_neighbors=6)
+        undersample = NearMiss(version=2, n_neighbors=1)
         X, y = undersample.fit_resample(X, y)
     elif param == "nearmissunder3":
-        undersample = NearMiss(version=3, n_neighbors=6)
+        undersample = NearMiss(version=3, n_neighbors=1)
         X, y = undersample.fit_resample(X, y)
     elif param == "randomunder":
         undersample = RandomUnderSampler(sampling_strategy='majority', random_state=42)

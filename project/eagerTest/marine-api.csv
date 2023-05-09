@@ -47,7 +47,7 @@ idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,proba
 15,marine-api,AbstractSentenceListener,net.sf.marineapi.nmea.event.abstractsentencelistenertest.testgenericshidinglistenerwithunexpectedsentence,0,0.5196428093599861,0.4803571906400139,False,False
 15,marine-api,SentenceReader,net.sf.marineapi.nmea.io.sentencereadertest.testaddsentencelistenersentencelistenerstring,0,0.2756448050232057,0.7243551949767942,True,False
 15,marine-api,SentenceReader,net.sf.marineapi.nmea.io.sentencereadertest.testdatalistener,0,0.2967144156719012,0.7032855843280987,True,False
-15,marine-api,SentenceReader,net.sf.marineapi.nmea.io.sentencereadertest.testfirereadingpaused,0,0.3399034373551366,0.6600965626448634,True,False
+15,marine-api,SentenceReader,net.sf.marineapi.nmea.io.sentencereadertest.testfirereadingpaused,0,0.3399034373551366,0.6600965626448634,True,True
 15,marine-api,SentenceReader,net.sf.marineapi.nmea.io.sentencereadertest.testfirereadingstarted,0,0.3336679194927253,0.6663320805072747,True,False
 15,marine-api,SentenceReader,net.sf.marineapi.nmea.io.sentencereadertest.testremovesentencelistener,0,0.4200733246391303,0.5799266753608697,False,False
 15,marine-api,Checksum,net.sf.marineapi.nmea.parser.checksumtest.testadd,0,0.4126774386451678,0.5873225613548322,False,False
