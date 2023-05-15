@@ -1,0 +1,17 @@
+,idProject,nameProject,productionClass,testCase,isResourceOptimism,isResourceOptimismManual,prediction
+10,8.0,tyrus,SslFilter,org.glassfish.tyrus.container.jdk.client.sslfiltertest.testecho100k,False,False,True
+17,8.0,tyrus,MessageHandlerManager,org.glassfish.tyrus.core.messagehandlermanagertest.multiplebinaryhandlerswithbytearraypartial,False,False,True
+18,8.0,tyrus,MessageHandlerManager,org.glassfish.tyrus.core.messagehandlermanagertest.multipletexthandlers,False,False,True
+20,8.0,tyrus,TyrusExtension,org.glassfish.tyrus.core.tyrusextensiontest.testparseheadersquoted1,False,False,True
+11,8.0,tyrus,SslFilter,org.glassfish.tyrus.container.jdk.client.sslfiltertest.testrehandshakeclient,False,False,True
+14,8.0,tyrus,Frame,org.glassfish.tyrus.core.frametest.testisrsv3,False,False,True
+28,8.0,tyrus,Utils,org.glassfish.tyrus.core.utilstest.testparsehttpdatefail,False,False,True
+34,8.0,tyrus,ClientOnOpenDuplication,org.glassfish.tyrus.tests.qa.clientonopenduplicationtest.testclientonopenduplication,False,False,True
+4,8.0,tyrus,TyrusClientEngine,org.glassfish.tyrus.client.tyrusclientenginetest.testcallcreaterequesttwice,False,False,True
+9,8.0,tyrus,SslFilter,org.glassfish.tyrus.container.jdk.client.sslfiltertest.testcustomhostameverificationfail,False,False,True
+16,8.0,tyrus,MessageHandlerManager,org.glassfish.tyrus.core.messagehandlermanagertest.multiplebinaryhandlerswithbytearray,False,False,True
+35,8.0,tyrus,MaxMessageSizeOnServer,org.glassfish.tyrus.tests.qa.maxmessagesizeonservertest.testmaxmessagesizeonserver,False,False,True
+0,8.0,tyrus,AuthConfig,org.glassfish.tyrus.client.auth.authconfigtest.testoverridebasic,False,False,True
+7,8.0,tyrus,TyrusClientEngine,org.glassfish.tyrus.client.tyrusclientenginetest.testtrasformlocationhttptows,False,False,True
+15,8.0,tyrus,Frame,org.glassfish.tyrus.core.frametest.testpayloaddatachange,False,False,True
+36,8.0,tyrus,ServerOnOpenDuplication,org.glassfish.tyrus.tests.qa.serveronopenduplicationtest.testserveronopenduplication,False,False,True

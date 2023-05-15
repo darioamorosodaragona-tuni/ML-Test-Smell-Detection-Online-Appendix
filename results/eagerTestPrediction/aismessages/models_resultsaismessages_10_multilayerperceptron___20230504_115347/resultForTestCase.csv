@@ -1,5 +1,0 @@
-,idProject,nameProject,productionClass,testCase,isEagerTest,isEagerTestManual,prediction
-2,10.0,aismessages,BaseStationReport,dk.tbsalling.aismessages.ais.messages.basestationreporttest.candecode,False,False,False
-6,10.0,aismessages,PositionReportClassAAssignedSchedule,dk.tbsalling.aismessages.ais.messages.positionreportclassaassignedscheduletest.candecode,True,False,False
-5,10.0,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant2,False,False,False
-10,10.0,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canflushempty,False,False,False
