@@ -1,0 +1,14 @@
+7810,48,jhipster-registry,UserVM,io.github.jhipster.registry.web.rest.vm.uservmtest.getlogintest,False,False
+7801,48,jhipster-registry,ParameterizedErrorVM,io.github.jhipster.registry.web.rest.errors.parameterizederrorvmtest.getmessagetest,False,False
+7806,48,jhipster-registry,LoggerVM,io.github.jhipster.registry.web.rest.vm.loggervmtest.getleveltest,False,False
+7803,48,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.getapplicationstest,False,False
+7805,48,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.setstatustest,False,False
+7808,48,jhipster-registry,LoginVM,io.github.jhipster.registry.web.rest.vm.loginvmtest.setremembermetest,False,False
+7798,48,jhipster-registry,AccountResource,io.github.jhipster.registry.web.rest.accountresourcetest.testauthenticateduser,False,False
+7802,48,jhipster-registry,SshResource,io.github.jhipster.registry.web.rest.sshresourcetest.eurekatest,False,False
+7799,48,jhipster-registry,ExceptionTranslator,io.github.jhipster.registry.web.rest.errors.exceptiontranslatortest.processvalidationerrortest,False,False
+7807,48,jhipster-registry,LoggerVM,io.github.jhipster.registry.web.rest.vm.loggervmtest.setnametest,False,False
+7797,48,jhipster-registry,SwaggerBasePathRewritingFilter,io.github.jhipster.registry.filters.responserewriting.swaggerbasepathrewritingfiltertest.shouldfilter_on_default_swagger_url_with_param,True,False
+7800,48,jhipster-registry,FieldErrorVM,io.github.jhipster.registry.web.rest.errors.fielderrorvmtest.getobjectnametest,False,False
+7804,48,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.setapplicationstest,False,False
+7809,48,jhipster-registry,UserVM,io.github.jhipster.registry.web.rest.vm.uservmtest.constructortest,False,False

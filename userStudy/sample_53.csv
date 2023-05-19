@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+26333,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfairscheduler.testqueueunamewithperiods,1.0,0.0,0.0,0.0
+38933,45.0_hbase,org.apache.hadoop.hbase.regionserver.testcompactionlifecycletracker.testrequestonstore,1.0,0.0,0.0,0.0
+9383,27.0_querydsl,com.querydsl.core.types.dsl.booleanexpressiontest.orallof,0.0,0.0,0.0,0.0
+41894,56.0_oci-java-sdk,com.oracle.bmc.objectstorage.transfer.internal.multipartutilstest.shouldusemultipart_objectnottoolarge_shouldreturntrue,0.0,0.0,0.0,0.0

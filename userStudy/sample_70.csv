@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+20111,4.0_hdoop,org.apache.hadoop.hdfs.client.impl.testblockreaderlocal.testblockreaderlocalbytebufferfastlanereadsnochecksumnoreadahead,0.0,1.0,1.0,0.0
+29759,4.0_hdoop,org.apache.hadoop.util.testcacheableiplist.testaddwithsleepforcachetimeout,1.0,1.0,0.0,1.0
+29384,4.0_hdoop,org.apache.hadoop.io.testmapwritable.testtostring,0.0,0.0,0.0,0.0
+22321,4.0_hdoop,org.apache.hadoop.hdfs.server.sps.testexternalstoragepolicysatisfier.testblksstoragemovementattemptfinishedreport,0.0,1.0,1.0,0.0

@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+7455,27.0_querydsl,com.querydsl.jpa.jpaprovidertest.hibernate_for_proxy,0.0,0.0,0.0,0.0
+42421,10.0_helios,com.spotify.helios.testing.defaultdeployertest.testfailsonalldown,0.0,0.0,0.0,0.0
+22746,4.0_hdoop,org.apache.hadoop.hdfs.server.blockmanagement.testavailablespaceblockplacementpolicy.testchoosedatanode,0.0,0.0,0.0,0.0
+30417,4.0_hdoop,org.apache.hadoop.ha.testfailovercontroller.testfailuretofenceonfailbackfailsthefailback,0.0,0.0,0.0,0.0

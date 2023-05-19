@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+20780,4.0_hdoop,org.apache.hadoop.hdfs.server.namenode.testfsdirectory.testxattrmultisetremove,1.0,0.0,0.0,0.0
+38622,45.0_hbase,org.apache.hadoop.hbase.filter.testbigdecimalcomparator.testgreaterthanvalue,1.0,0.0,0.0,0.0
+12913,15.0_wro4j,ro.isdc.wro.manager.factory.testconfigurablewromanagerfactory.cannotconfigureinvalidrequesthandler,0.0,0.0,0.0,0.0
+47322,53.0_retrofit,retrofit2.adapter.guava.guavacalladapterfactorytest.responsetype,1.0,0.0,0.0,0.0

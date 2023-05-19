@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+14207,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.itemidvalueimpltest.idvalidatedforlength,0.0,0.0,0.0,0.0
+13352,15.0_wro4j,ro.isdc.wro.model.resource.processor.decorator.testsupportawareprocessordecorator.cannotdecoratenullprocessor,0.0,0.0,0.0,0.0
+28320,4.0_hdoop,org.apache.hadoop.mapred.testfileoutputcommitter.testmaponlynooutputv2,0.0,1.0,0.0,0.0
+35130,30.0_joda-time,org.joda.time.field.testbasedatetimefield.test_get,0.0,0.0,0.0,0.0

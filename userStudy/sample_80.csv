@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+15865,72.0_java-websocket,org.java_websocket.autobahn.autobahnserverresults.test3_4,1.0,1.0,0.0,0.0
+40997,45.0_hbase,org.apache.hadoop.hbase.quotas.policies.testnowritescompactionsviolationpolicyenforcement.testcheckdelete,0.0,0.0,0.0,0.0
+25977,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.capacity.testparentqueue.testsinglelevelqueues,1.0,0.0,0.0,0.0
+2547,60.0_vertexium,org.vertexium.test.graphtestbase.testgraphqueryhas,1.0,1.0,0.0,0.0

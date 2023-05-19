@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+8469,27.0_querydsl,com.querydsl.lucene4.lucenequerytest.list_not_sorted_limit_0,0.0,0.0,0.0,0.0
+49485,5.0_jfreechart,org.jfree.chart.renderer.graypaintscaletest.testgetpaint,1.0,0.0,0.0,0.0
+4172,18.0_admiral,com.vmware.admiral.request.containerdifftest.testequals,0.0,0.0,0.0,0.0
+14089,11.0_wikidata-toolkit,org.wikidata.wdtk.testing.mockwebresourcefetchertest.setconcentsfromresource,0.0,0.0,0.0,0.0

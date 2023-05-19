@@ -1,0 +1,3 @@
+                    NMC  0.029641
+SimilaritiesCoefficient  0.618668
+   probabilityEagerTest  0.618668

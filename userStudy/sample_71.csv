@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+22355,4.0_hdoop,org.apache.hadoop.hdfs.server.datanode.web.webhdfs.testdatanodeugiprovider.testugicacheinsecure,0.0,0.0,0.0,0.0
+38217,45.0_hbase,org.apache.hadoop.hbase.util.testfstabledescriptors.testtabledescriptors,1.0,1.0,0.0,0.0
+13241,15.0_wro4j,ro.isdc.wro.model.resource.processor.testlesscssimportpreprocessor.shouldsupportcorrectresourcetypes,0.0,0.0,0.0,0.0
+15526,7.0_dnsjava,org.xbill.dns.serialtest.test_compare_argsequal,1.0,0.0,0.0,0.0

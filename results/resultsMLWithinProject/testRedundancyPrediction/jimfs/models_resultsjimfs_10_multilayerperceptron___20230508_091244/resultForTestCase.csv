@@ -1,0 +1,8 @@
+,idProject,nameProject,productionClass,testCase,isTestRedundancy,isTestRedundancyManual,prediction
+2,12.0,jimfs,AbstractWatchService,com.google.common.jimfs.abstractwatchservicetest.testpostevent,False,False,False
+7,12.0,jimfs,AttributeService,com.google.common.jimfs.attributeservicetest.testsetattribute_failsforattributethatisnotsettable,False,False,False
+13,12.0,jimfs,Configuration,com.google.common.jimfs.configurationtest.testsettingrootsunsupportedbypathtype,False,False,False
+29,12.0,jimfs,HeapDisk,com.google.common.jimfs.heapdisktest.testfulldisk,False,False,False
+34,12.0,jimfs,JimfsAsynchronousFileChannel,com.google.common.jimfs.jimfsasynchronousfilechanneltest.testasyncclose_write,False,False,False
+50,12.0,jimfs,JimfsPath,com.google.common.jimfs.jimfspathtest.testresolvesibling_givenemptypath,False,False,False
+52,12.0,jimfs,PathService,com.google.common.jimfs.pathservicetest.testpathcreation,False,False,False

@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+21017,4.0_hdoop,org.apache.hadoop.hdfs.server.federation.router.testconnectionmanager.testvalidclientindex,1.0,0.0,0.0,0.0
+26261,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfairschedulerconfiguration.testparseresourceconfigvalue,1.0,0.0,0.0,0.0

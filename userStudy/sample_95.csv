@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+15336,7.0_dnsjava,org.xbill.dns.reversemaptest.test_fromaddress_invalid,1.0,0.0,0.0,0.0
+29009,4.0_hdoop,org.apache.hadoop.mapreduce.v2.app.job.impl.testtaskimpl.testlaunchtaskattempt,0.0,0.0,0.0,0.0
+14283,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.datatypeidimpltest.testirifortime,0.0,0.0,0.0,0.0
+10729,66.0_sawmill,io.logz.sawmill.conditions.fieldtypeconditiontest.testwrongconfigs,0.0,0.0,0.0,0.0

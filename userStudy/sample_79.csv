@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+12676,15.0_wro4j,ro.isdc.wro.config.factory.testpropertywroconfigurationfactory.createdefaultconfig,0.0,0.0,0.0,0.0
+15626,7.0_dnsjava,org.xbill.dns.recordtest.test_fromstring_invalid,1.0,0.0,0.0,0.0
+17197,21.0_incubator-dubbo,org.apache.dubbo.common.utils.stringutilstest.testisnumeric,0.0,0.0,0.0,0.0
+11949,15.0_wro4j,ro.isdc.wro.extensions.processor.css.testlesscssprocessor.shouldusefallbackprocessorwhennodenotsupported,0.0,0.0,0.0,0.0

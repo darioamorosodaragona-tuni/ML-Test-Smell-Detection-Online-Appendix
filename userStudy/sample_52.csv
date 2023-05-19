@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+38068,45.0_hbase,org.apache.hadoop.hbase.util.testbytebufferutils.testputint,1.0,0.0,0.0,0.0
+27235,4.0_hdoop,org.apache.hadoop.yarn.client.cli.testrmadmincli.testcheckhealth,0.0,0.0,0.0,0.0
+2500,60.0_vertexium,org.vertexium.test.graphtestbase.testsoftdeletepropertythroughmutationwithvisibility,1.0,0.0,0.0,0.0
+49813,5.0_jfreechart,org.jfree.data.xy.tablexydatasettest.testequals,0.0,0.0,0.0,0.0

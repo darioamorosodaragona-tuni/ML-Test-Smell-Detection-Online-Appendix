@@ -1,2 +1,0 @@
-idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
-45,delight-nashorn-sandbox,JsSanitizer,delight.nashornsandbox.internal.jssanitizertest.testsecurejs,0,0.4586011453040285,0.5413988546959715,False,True

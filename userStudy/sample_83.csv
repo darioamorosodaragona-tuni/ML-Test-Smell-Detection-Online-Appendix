@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+24939,4.0_hdoop,org.apache.hadoop.yarn.server.timeline.security.testtimelineaclsmanager.testcorruptedownerinfofordomain,1.0,0.0,0.0,0.0
+1144,29.0_c2mon,cern.c2mon.shared.common.datatag.address.impl.datatagaddresstest.parsebasichardwareaddresstoxml,0.0,0.0,0.0,0.0
+2899,18.0_admiral,com.vmware.admiral.closures.closuresnodejsit.executejsextsourceaszipnopackagejsonentrypointtest,1.0,0.0,0.0,0.0
+1704,29.0_c2mon,cern.c2mon.server.cache.dbaccess.equipmentmappertest.testinsertandretrieve,0.0,0.0,0.0,0.0

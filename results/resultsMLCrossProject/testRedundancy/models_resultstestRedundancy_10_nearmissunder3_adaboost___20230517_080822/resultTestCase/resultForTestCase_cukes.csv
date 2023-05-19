@@ -1,0 +1,15 @@
+3494,36,cukes,LoadRunnerTransaction,lv.ctco.cukes.rest.loadrunner.dto.loadrunnertransactiontest.formatshouldescapewhitespaces,False,True
+3483,36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldnotinvokecapturevaluesfrompatternifregexdoesnotmatchvalue,False,True
+3484,36,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups,False,True
+3487,36,cukes,HttpAssertionFacadeImpl,lv.ctco.cukes.http.facade.httpassertionfacadeimpltest.shouldnotreturnbodywhenenabledbutcontenttypeoctet,False,True
+3485,36,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_halfempty,False,True
+3488,36,cukes,HttpAssertionFacadeImpl,lv.ctco.cukes.http.facade.httpassertionfacadeimpltest.shouldnotreturnbodywhenenabledbutlongerthanmaxsize,False,True
+3480,36,cukes,BaseContextHandler,lv.ctco.cukes.core.internal.context.basecontexthandlertest.shouldextractsinglegroupinpattern,False,True
+3481,36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldcapturevaluesfromsimplepattern,False,True
+3490,36,cukes,EntityFacade,lv.ctco.cukes.ldap.facade.entityfacadetest.stringvalueischeckedasstring,False,True
+3492,36,cukes,LDIFUtils,lv.ctco.cukes.ldap.internal.ldif.ldifutilstest.read,False,True
+3493,36,cukes,LDIFUtils,lv.ctco.cukes.ldap.internal.ldif.ldifutilstest.readmultipleentities,False,True
+3489,36,cukes,EndsWithRegexp,lv.ctco.cukes.http.matchers.endswithregexptest.matchesnotendwith,False,True
+3491,36,cukes,DnComparator,lv.ctco.cukes.ldap.internal.dncomparatortest.compare_sametree,False,True
+3482,36,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldinvokecapturevaluesfrompatternifatleastonegroupfound,False,True
+3486,36,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_multiplesameexist,False,True

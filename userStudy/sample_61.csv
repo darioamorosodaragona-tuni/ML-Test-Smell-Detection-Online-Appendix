@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+9938,57.0_riptide,org.zalando.riptide.routetest.shoulddonothing,0.0,0.0,0.0,0.0
+13848,11.0_wikidata-toolkit,org.wikidata.wdtk.dumpfiles.wmf.wmfonlinestandarddumpfiletest.validcurrentdumppropertiesoldformat,0.0,0.0,0.0,0.0
+7678,27.0_querydsl,com.querydsl.sql.sqlserver2012templatestest.union,0.0,0.0,0.0,0.0
+29962,4.0_hdoop,org.apache.hadoop.util.testshell.testhadoophomevalid,0.0,0.0,0.0,0.0

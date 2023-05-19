@@ -1,4 +1,0 @@
-idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
-4,webcollector,CrawlDatums,cn.edu.hfut.dmic.webcollector.util.crawldatumstest.testaddandreturn,0,0,False,False
-4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testinject,6,0,True,False
-4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testrocksdbinjector,2,0,True,True

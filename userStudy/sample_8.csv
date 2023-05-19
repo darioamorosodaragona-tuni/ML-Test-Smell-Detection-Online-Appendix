@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+38310,45.0_hbase,org.apache.hadoop.hbase.zookeeper.testzkconfig.testclusterkey,0.0,0.0,0.0,0.0
+16117,72.0_java-websocket,org.java_websocket.autobahn.autobahnserverresults.test9_5_6,1.0,1.0,0.0,0.0
+445,28.0_oryx,com.cloudera.oryx.common.lang.classutilstest.testloadnonexistentclass,0.0,1.0,1.0,0.0
+33505,67.0_hutool,cn.hutool.core.text.strbuildertest.inserttest2,0.0,0.0,0.0,0.0

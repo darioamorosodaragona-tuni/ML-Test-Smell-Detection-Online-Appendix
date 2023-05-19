@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+35043,30.0_joda-time,org.joda.time.field.testprecisedatetimefield.test_set_rp_int_intarray_string_locale,0.0,0.0,0.0,0.0
+25082,4.0_hdoop,org.apache.hadoop.yarn.server.applicationhistoryservice.testapplicationhistoryclientservice.testapplicationnotfound,1.0,0.0,0.0,0.0
+35808,30.0_joda-time,org.joda.time.format.testperiodformatterbuilder.testappendliteralthrowsillegalargumentexception,0.0,0.0,0.0,0.0
+22417,4.0_hdoop,org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.testfsdatasetimpl.testmoveblockfailure,0.0,1.0,1.0,0.0

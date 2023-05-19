@@ -1,3 +1,0 @@
-idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
-17,fluent-logger-java,RawSocketSender,org.fluentd.logger.sender.testrawsocketsender.testnormal01,0,0.4644322445888806,0.5355677554111193,False,True
-17,fluent-logger-java,FluentLogger,org.fluentd.logger.testfluentlogger.testreconnection,0,0.4737555642574916,0.5262444357425085,False,True

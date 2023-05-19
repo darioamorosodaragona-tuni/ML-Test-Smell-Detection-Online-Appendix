@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+48770,5.0_jfreechart,org.jfree.chart.plot.dial.dialcaptest.testhashcode,1.0,0.0,0.0,0.0
+11425,69.0_search-highlighter,org.wikimedia.highlighter.experimental.lucene.hit.automatonhitenumtest.twophasematchcorrectness,1.0,0.0,0.0,0.0
+48775,5.0_jfreechart,org.jfree.chart.plot.dial.dialpointertest.testequalspointer,0.0,0.0,0.0,0.0
+7980,27.0_querydsl,com.querydsl.sql.selectbase.where_exists,0.0,1.0,0.0,0.0

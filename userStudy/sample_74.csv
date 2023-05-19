@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+27228,4.0_hdoop,org.apache.hadoop.yarn.client.cli.testrmadmincli.testrefreshnodesgracefulinvalidargs,1.0,0.0,0.0,0.0
+28221,4.0_hdoop,org.apache.hadoop.mapred.testjobendnotifier.testlocaljobrunnerurisubstitution,0.0,0.0,0.0,0.0
+10723,66.0_sawmill,io.logz.sawmill.conditions.inconditiontest.testfieldnotexists,1.0,0.0,0.0,0.0
+8290,27.0_querydsl,com.querydsl.sql.dml.sqlinsertclausetest.getsqlwithpreservedcolumnorder,0.0,1.0,0.0,0.0

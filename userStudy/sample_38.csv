@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+18529,58.0_esper,com.espertech.esper.common.internal.util.testmethodresolver.testresolvemethodstaticandinstance,1.0,0.0,0.0,0.0
+16122,72.0_java-websocket,org.java_websocket.autobahn.autobahnserverresults.test9_6_5,1.0,1.0,0.0,0.0
+50177,5.0_jfreechart,org.jfree.data.keyedobjectstest.testremovevalueint,0.0,0.0,0.0,0.0
+38599,45.0_hbase,org.apache.hadoop.hbase.filter.testmultirowrangefilter.testmergeandsortwithoverlap,0.0,0.0,0.0,0.0

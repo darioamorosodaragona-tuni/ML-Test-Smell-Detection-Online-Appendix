@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+2805,18.0_admiral,com.vmware.admiral.closures.drivers.closureservicetest.executejsstringparameterstest,1.0,0.0,0.0,0.0
+11009,35.0_hsac-fitnesse-fixtures,nl.hsac.fitnesse.fixture.util.namespacecontextimpltest.addduplicateprefixotheruri,0.0,0.0,0.0,0.0
+34748,30.0_joda-time,org.joda.time.convert.teststringconverter.testsetintoperiod_object6,0.0,0.0,0.0,0.0
+48473,5.0_jfreechart,org.jfree.chart.chartrenderinginfotest.testequals,0.0,0.0,0.0,0.0

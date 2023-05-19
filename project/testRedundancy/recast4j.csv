@@ -1,4 +1,0 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
-24,recast4j,UnityAStarPathfindingImporter,org.recast4j.detour.extras.unity.astar.unityastarpathfindingimportertest.test_v4_1_16,0.0,0.0,False,False
-24,recast4j,MeshSetReader,org.recast4j.detour.io.meshsetreadertest.testdungeon32bit,0.0,0.0,False,False
-24,recast4j,TileCache,org.recast4j.detour.tilecache.tilecachetest.testlz4,0.0,0.0,False,False

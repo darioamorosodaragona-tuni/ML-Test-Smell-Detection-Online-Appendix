@@ -1,0 +1,4 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+4,webcollector,CrawlDatums,cn.edu.hfut.dmic.webcollector.util.crawldatumstest.testaddandreturn,0,0.8889126977494021,0.1110873022505979,False,False
+4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testinject,0,0.4187070193135534,0.5812929806864466,False,True
+4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testrocksdbinjector,0,0.6441361183524289,0.3558638816475711,False,False

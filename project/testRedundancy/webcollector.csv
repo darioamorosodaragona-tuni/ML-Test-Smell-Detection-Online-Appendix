@@ -1,4 +1,0 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
-4,webcollector,CrawlDatums,cn.edu.hfut.dmic.webcollector.util.crawldatumstest.testaddandreturn,0.0,0.0,False,False
-4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testinject,0.0,0.0,False,False
-4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testrocksdbinjector,0.0,0.0,False,False

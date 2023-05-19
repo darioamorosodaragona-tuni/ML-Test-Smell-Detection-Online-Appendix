@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+769,25.0_marine-api,net.sf.marineapi.nmea.util.timetest.testparsetimewithoutdecimals,0.0,0.0,0.0,0.0
+2338,60.0_vertexium,org.vertexium.elasticsearch5.elasticsearch5searchindextest.testretrievingverticesfromelasticsearchedge,0.0,0.0,0.0,0.0

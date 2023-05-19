@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+1208,29.0_c2mon,cern.c2mon.shared.common.type.typeconvertertest.testexceptiontodoublecastexception,0.0,0.0,0.0,0.0
+20421,4.0_hdoop,org.apache.hadoop.hdfs.server.datanode.testdirectoryscanner.testretainblockonpersistentstorage,0.0,1.0,1.0,0.0

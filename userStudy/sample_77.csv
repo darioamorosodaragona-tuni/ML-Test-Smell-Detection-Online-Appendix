@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+30415,4.0_hdoop,org.apache.hadoop.ha.testfailovercontroller.testwefenceonfailbackiftransitiontoactivefails,0.0,0.0,0.0,0.0
+43499,17.0_fastjson,com.alibaba.json.bvt.bug.bug_for_primitive_byte.test_emptystr,0.0,0.0,0.0,0.0
+43984,17.0_fastjson,com.alibaba.json.bvt.util.ryufloattest.test_0,1.0,0.0,0.0,0.0
+773,25.0_marine-api,net.sf.marineapi.nmea.util.timetest.testsetinvalidseconds,0.0,0.0,0.0,0.0

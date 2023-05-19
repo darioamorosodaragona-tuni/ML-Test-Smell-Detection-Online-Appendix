@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+17264,21.0_incubator-dubbo,org.apache.dubbo.common.utils.pojoutilstest.test_looppojoinlist,0.0,0.0,0.0,0.0
+3643,18.0_admiral,com.vmware.admiral.auth.util.securitycontextutiltest.testsecuritycontextcontainsallrolesformultipleprojects,1.0,0.0,0.0,0.0
+33990,30.0_joda-time,org.joda.time.testmonths.testtostring,0.0,0.0,0.0,0.0
+19025,4.0_hdoop,org.apache.hadoop.fs.testfileutil.testcomparefsnull,0.0,0.0,0.0,0.0

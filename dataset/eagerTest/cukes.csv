@@ -1,0 +1,16 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+37,cukes,BaseContextHandler,lv.ctco.cukes.core.internal.context.basecontexthandlertest.shouldextractsinglegroupinpattern,0,0.8947517003471768,0.1052482996528232,False,False
+37,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldcapturevaluesfromsimplepattern,0,0.6043520964250962,0.3956479035749037,False,False
+37,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldinvokecapturevaluesfrompatternifatleastonegroupfound,0,0.6386099763482754,0.3613900236517245,False,False
+37,cukes,ContextCapturer,lv.ctco.cukes.core.internal.context.contextcapturertest.shouldnotinvokecapturevaluesfrompatternifregexdoesnotmatchvalue,0,0.6582758945145204,0.3417241054854796,False,False
+37,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups,0,0.8538130878578529,0.146186912142147,False,False
+37,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_halfempty,0,0.8467791818591135,0.1532208181408865,False,False
+37,cukes,ContextInflater,lv.ctco.cukes.core.internal.context.contextinflatertest.testinflategroups_multiplesameexist,0,0.7966075192008766,0.2033924807991234,False,False
+37,cukes,HttpAssertionFacadeImpl,lv.ctco.cukes.http.facade.httpassertionfacadeimpltest.shouldnotreturnbodywhenenabledbutcontenttypeoctet,2,0.6934606621141804,0.3065393378858195,False,False
+37,cukes,HttpAssertionFacadeImpl,lv.ctco.cukes.http.facade.httpassertionfacadeimpltest.shouldnotreturnbodywhenenabledbutlongerthanmaxsize,2,0.7085720861128014,0.2914279138871986,False,False
+37,cukes,EndsWithRegexp,lv.ctco.cukes.http.matchers.endswithregexptest.matchesnotendwith,0,0.8303534786912614,0.1696465213087385,False,False
+37,cukes,EntityFacade,lv.ctco.cukes.ldap.facade.entityfacadetest.stringvalueischeckedasstring,0,0.8757274882940465,0.1242725117059535,False,False
+37,cukes,DnComparator,lv.ctco.cukes.ldap.internal.dncomparatortest.compare_sametree,3,0.3931827494657846,0.6068172505342154,True,False
+37,cukes,LDIFUtils,lv.ctco.cukes.ldap.internal.ldif.ldifutilstest.read,1,0.6055164641850115,0.3944835358149885,False,False
+37,cukes,LDIFUtils,lv.ctco.cukes.ldap.internal.ldif.ldifutilstest.readmultipleentities,1,0.687534373552511,0.312465626447489,False,False
+37,cukes,LoadRunnerTransaction,lv.ctco.cukes.rest.loadrunner.dto.loadrunnertransactiontest.formatshouldescapewhitespaces,0,0.0,1.0,True,False

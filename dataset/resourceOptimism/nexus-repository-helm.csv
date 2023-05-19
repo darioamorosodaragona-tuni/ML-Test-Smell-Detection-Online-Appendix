@@ -1,0 +1,5 @@
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
+2,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.donotmodifyurlswhenalreadyrelative,0,0,False,False
+2,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.ensurenoexclamationmarksinyaml,0,0,False,False
+2,nexus-repository-helm,HelmPathUtils,org.sonatype.repository.helm.internal.util.helmpathutilstest.filename,0,0,False,False
+2,nexus-repository-helm,TgzParser,org.sonatype.repository.helm.internal.util.tgzparsertest.getyamlfromtgztest,1,0,True,False

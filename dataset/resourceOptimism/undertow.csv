@@ -1,0 +1,6 @@
+idProject,nameProject,productionClass,testCase,ERNC,FRNC,isResourceOptimism,isResourceOptimismManual
+27,undertow,WebSocketServlet,io.undertow.servlet.test.websocket.websocketservlettest.testtext,1,0,True,False
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testannotatedclientendpoint,0,0,False,False
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testclientsideidletimeout,0,0,False,False
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testencodinganddecodingbinary,0,0,False,False
+27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testtimeoutclosereason,0,0,False,False

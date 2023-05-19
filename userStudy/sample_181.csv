@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+45583,71.0_spring-ws,org.springframework.ws.transport.xmpp.support.xmppconnectionfactorybeantest.nohost,0.0,0.0,0.0,0.0
+49942,5.0_jfreechart,org.jfree.data.xy.xyseriestest.testgetminx,0.0,0.0,0.0,0.0

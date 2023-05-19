@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+14283,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.datatypeidimpltest.testirifortime,0.0,0.0,0.0,0.0
+10729,66.0_sawmill,io.logz.sawmill.conditions.fieldtypeconditiontest.testwrongconfigs,0.0,0.0,0.0,0.0

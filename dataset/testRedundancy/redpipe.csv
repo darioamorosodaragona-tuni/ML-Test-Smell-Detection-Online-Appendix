@@ -1,0 +1,2 @@
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
+30,redpipe,App,net.redpipe.fastclasspathscanner.apptest.apptest,0.0,0.0,False,

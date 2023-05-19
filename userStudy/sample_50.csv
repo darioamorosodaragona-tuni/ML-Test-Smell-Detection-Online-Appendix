@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+31653,4.0_hdoop,org.apache.hadoop.utils.db.testdbstorebuilder.builderwithoneparamv2,1.0,0.0,0.0,0.0
+11740,15.0_wro4j,ro.isdc.wro.extensions.processor.testnodetypescriptprocessor.testfromfolder,0.0,1.0,1.0,0.0
+49347,5.0_jfreechart,org.jfree.chart.renderer.xy.xyerrorrenderertest.testpubliccloneable,0.0,0.0,0.0,0.0
+15157,41.0_elastic-job-lite,io.elasticjob.lite.internal.failover.failoverservicetest.assertsetcrashedfailoverflagwhenitemisnotassigned,0.0,0.0,0.0,0.0

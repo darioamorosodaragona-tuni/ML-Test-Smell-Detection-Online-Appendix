@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+27878,4.0_hdoop,org.apache.hadoop.mapreduce.testtaskid.testgettasktypechar,0.0,0.0,0.0,0.0
+19760,4.0_hdoop,org.apache.hadoop.hdfs.testquota.testsetandclearspacequotadirectorynotexist,0.0,0.0,0.0,0.0

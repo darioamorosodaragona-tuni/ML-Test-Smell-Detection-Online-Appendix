@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+14095,11.0_wikidata-toolkit,org.wikidata.wdtk.testing.mockdirectorymanagertest.hassubdirectory,0.0,0.0,0.0,0.0
+14086,11.0_wikidata-toolkit,org.wikidata.wdtk.client.clienttest.testnonexistinglocaldump,0.0,0.0,0.0,0.0
+20573,4.0_hdoop,org.apache.hadoop.hdfs.server.namenode.testbackupnode.testbackupnode,1.0,1.0,1.0,0.0
+43539,17.0_fastjson,com.alibaba.json.bvt.bug.bug_for_stv_liu.test,1.0,0.0,0.0,0.0

@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+12125,15.0_wro4j,ro.isdc.wro.extensions.support.lint.testresourcelintreport.shouldhaveunknownpathwhennullpathisset,0.0,0.0,0.0,0.0
+37966,45.0_hbase,org.apache.hadoop.hbase.util.testorderedbytes.teststring,1.0,0.0,0.0,0.0

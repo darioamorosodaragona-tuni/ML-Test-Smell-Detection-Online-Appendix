@@ -1,0 +1,3 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+12,wildfly-maven-plugin,DeploymentManager,org.wildfly.plugin.core.domaindeploymentmanagerit.testfailedundeploy,0,0.455785970284366,0.5442140297156339,False,True
+12,wildfly-maven-plugin,DeploymentManager,org.wildfly.plugin.core.standalonedeploymentmanagerit.testdeploymentqueries,0,0.2068950268696693,0.7931049731303307,True,False

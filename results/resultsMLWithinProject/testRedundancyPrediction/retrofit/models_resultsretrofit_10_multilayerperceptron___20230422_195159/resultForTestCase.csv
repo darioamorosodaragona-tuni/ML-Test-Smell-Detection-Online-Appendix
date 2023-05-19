@@ -1,0 +1,11 @@
+,idProject,nameProject,productionClass,testCase,isTestRedundancy,isTestRedundancyManual,prediction
+9,31.0,retrofit,RxJava2CallAdapterFactory,retrofit2.adapter.rxjava2.rxjava2calladapterfactorytest.responsetypes,False,False,False
+15,31.0,retrofit,JaxbConverterFactory,retrofit2.converter.jaxb.jaxbconverterfactorytest.xmlrequestbody,False,False,False
+26,31.0,retrofit,ExecutorCallAdapterFactory,retrofit2.executorcalladapterfactorytest.responsetype,False,False,False
+34,31.0,retrofit,NetworkBehavior,retrofit2.mock.networkbehaviortest.errorpercentageisaccurate,False,False,False
+41,31.0,retrofit,RequestFactory,retrofit2.requestfactorytest.fieldparamsskippedifconvertedtonull,False,False,False
+50,31.0,retrofit,RequestFactory,retrofit2.requestfactorytest.getwithencodedpathstillpreventsrequestsplitting,False,False,False
+53,31.0,retrofit,RequestFactory,retrofit2.requestfactorytest.getwithjavauriurl,False,False,False
+55,31.0,retrofit,RequestFactory,retrofit2.requestfactorytest.getwithquerymapthenurlthrows,False,False,False
+82,31.0,retrofit,Retrofit,retrofit2.retrofittest.baseurlstringpropagated,False,False,False
+85,31.0,retrofit,Retrofit,retrofit2.retrofittest.callbackexecutornullthrows,False,False,False

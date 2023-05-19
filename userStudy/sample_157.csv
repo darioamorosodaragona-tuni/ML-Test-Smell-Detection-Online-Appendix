@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+34062,30.0_joda-time,org.joda.time.testminutes.testnegated,0.0,0.0,0.0,0.0
+46599,39.0_yawp,io.yawp.repository.repositorytest.testsavefornotendpointobjects,0.0,0.0,0.0,0.0

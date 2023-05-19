@@ -1,8 +1,0 @@
-idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
-40,otto,Bus,com.squareup.otto.bustest.deadeventposting,0.0,0.0,False,False
-40,otto,Bus,com.squareup.otto.bustest.missingsubscribe,0.0,0.0,False,False
-40,otto,Bus,com.squareup.otto.bustest.polymorphicdistribution,0.0,0.0,False,False
-40,otto,Bus,com.squareup.otto.bustest.producerunregisterallowsreregistering,0.0,0.0,False,False
-40,otto,EventHandler,com.squareup.otto.eventhandlertest.exceptionwrapping,0.0,0.0,False,False
-40,otto,EventHandler,com.squareup.otto.eventhandlertest.rejectionofnulltargets,0.0,0.0,False,False
-40,otto,EventProducer,com.squareup.otto.eventproducertest.returnvaluenotcached,0.0,0.0,False,False

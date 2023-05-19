@@ -1,7 +1,0 @@
-idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
-33,noxy,FixedDiscoveryService,com.spinn3r.noxy.discovery.fixed.init.fixeddiscoveryservicetest.testinit,0.0,0.0,False,False
-33,noxy,DefaultProxyAuthenticator,com.spinn3r.noxy.forward.authenticator.defaultproxyauthenticatortest.testauthenticatewithnullpassword,0.0,0.0,False,False
-33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithnoaddresses,0.0,0.0,False,False
-33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithoneipv4addresses,0.0,0.0,False,False
-33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithoneipv6addresses,0.0,0.0,False,False
-33,noxy,ReverseProxyService,com.spinn3r.noxy.reverse.reverseproxyservicetest.testbasicrequests,0.0,0.0,False,False

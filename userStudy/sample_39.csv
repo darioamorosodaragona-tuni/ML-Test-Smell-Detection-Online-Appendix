@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+23029,4.0_hdoop,org.apache.hadoop.yarn.nodelabels.testfilesystemnodelabelsstore.testrecoverwithdistributednodelabels,1.0,0.0,0.0,0.0
+21475,4.0_hdoop,org.apache.hadoop.security.testshellbasedidmapping.teststaticmapupdate,1.0,1.0,0.0,0.0
+36345,33.0_alien4cloud,alien4cloud.utils.version.comparableversiontest.testversionsequal,1.0,0.0,0.0,0.0
+9336,27.0_querydsl,com.querydsl.core.types.dsl.casebuildertest.numbertyped,0.0,0.0,0.0,0.0

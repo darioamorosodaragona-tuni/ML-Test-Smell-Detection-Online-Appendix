@@ -1,0 +1,6 @@
+adaboost,38
+decisiontree,38
+multilayerperceptron,38
+naivebayes,38
+randomforest,38
+svm,38

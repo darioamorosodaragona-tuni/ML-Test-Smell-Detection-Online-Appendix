@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+5575,49.0_dropwizard,io.dropwizard.assets.assetsbundletest.canhavedifferenturiandresourcepaths,0.0,1.0,0.0,0.0
+14164,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.quantityvalueimpltest.gettersworking,0.0,0.0,0.0,0.0

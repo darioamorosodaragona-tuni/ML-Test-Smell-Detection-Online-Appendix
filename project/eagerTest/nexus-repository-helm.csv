@@ -1,5 +1,0 @@
-idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
-2,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.donotmodifyurlswhenalreadyrelative,2,0.5022492204060404,0.4977507795939596,False,False
-9,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.ensurenoexclamationmarksinyaml,1,0.4467861451690602,0.5532138548309398,False,False
-9,nexus-repository-helm,HelmPathUtils,org.sonatype.repository.helm.internal.util.helmpathutilstest.filename,1,0.2351924128151419,0.7648075871848581,True,False
-9,nexus-repository-helm,TgzParser,org.sonatype.repository.helm.internal.util.tgzparsertest.getyamlfromtgztest,0,0.2500781616401776,0.7499218383598223,True,False

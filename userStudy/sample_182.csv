@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+22205,4.0_hdoop,org.apache.hadoop.hdfs.qjournal.client.testquorumjournalmanager.testoutofsyncatbeginningofsegment1,0.0,0.0,0.0,0.0
+9793,57.0_riptide,org.zalando.riptide.spring.timespantest.shouldfailonunsupportedtimespanformat,0.0,0.0,0.0,0.0

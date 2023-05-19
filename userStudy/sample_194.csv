@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+35974,76.0_achilles,info.archinnov.achilles.internals.codegen.meta.entitymetacodegentest.should_fail_building_class_with_no_partition_key,1.0,0.0,0.0,0.0
+14758,41.0_elastic-job-lite,io.elasticjob.lite.exception.exceptionutiltest.asserttransformwitherror,0.0,0.0,0.0,0.0

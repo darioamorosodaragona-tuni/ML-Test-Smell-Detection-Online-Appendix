@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+17984,21.0_incubator-dubbo,org.apache.dubbo.rpc.cluster.configurator.absent.absentconfiguratortest.testoverrideapplication,0.0,1.0,1.0,0.0
+42,28.0_oryx,com.cloudera.oryx.app.speed.als.alsspeedmodeltest.testuseritemvector,0.0,0.0,0.0,0.0
+11439,15.0_wro4j,ro.isdc.wro.extensions.model.factory.testjsonmodelfactory.testinvalidcontent,0.0,0.0,0.0,0.0
+24934,4.0_hdoop,org.apache.hadoop.yarn.server.timeline.security.testtimelineaclsmanager.testyarnaclsnotenabledforentity,1.0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+30152,4.0_hdoop,org.apache.hadoop.mapreduce.v2.jobhistory.testfilenameindexutils.testusernamepercentencoding,0.0,0.0,0.0,0.0
+23586,4.0_hdoop,org.apache.hadoop.yarn.service.utils.testserviceapiutil.testexternalcomponent,1.0,0.0,0.0,0.0
+7719,27.0_querydsl,com.querydsl.sql.updatebase.update_with_subquery_notexists,0.0,1.0,0.0,0.0
+11329,69.0_search-highlighter,org.wikimedia.search.highlighter.experimental.hit.merginghitenumtest.ofcollectionofempty,0.0,0.0,0.0,0.0

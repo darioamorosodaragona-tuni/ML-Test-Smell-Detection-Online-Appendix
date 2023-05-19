@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+5509,18.0_admiral,com.vmware.admiral.upgrade.transformation.compositecomponentstransformationservicetest.testthereshouldnotbeduplicatedtenantlinks,0.0,1.0,1.0,0.0
+9200,27.0_querydsl,com.querydsl.core.types.qtupletest.nestedprojection_newinstance2,0.0,0.0,0.0,0.0
+6695,49.0_dropwizard,io.dropwizard.testing.junit5.personresourcetest.testgetimmutablelistofpersons,0.0,0.0,0.0,0.0
+45438,12.0_openpojo,com.openpojo.reflection.construct.instancefactorytest.shouldskipsyntheticconstructor,0.0,0.0,0.0,0.0

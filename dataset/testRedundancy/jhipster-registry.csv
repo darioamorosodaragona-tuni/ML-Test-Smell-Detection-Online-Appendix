@@ -1,0 +1,15 @@
+idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedundancyManual
+46,jhipster-registry,SwaggerBasePathRewritingFilter,io.github.jhipster.registry.filters.responserewriting.swaggerbasepathrewritingfiltertest.shouldfilter_on_default_swagger_url_with_param,0.0,0.0,False,False
+46,jhipster-registry,AccountResource,io.github.jhipster.registry.web.rest.accountresourcetest.testauthenticateduser,0.0,0.0,False,False
+46,jhipster-registry,ExceptionTranslator,io.github.jhipster.registry.web.rest.errors.exceptiontranslatortest.processvalidationerrortest,0.0,0.0,False,False
+46,jhipster-registry,FieldErrorVM,io.github.jhipster.registry.web.rest.errors.fielderrorvmtest.getobjectnametest,0.0,0.0,False,False
+46,jhipster-registry,ParameterizedErrorVM,io.github.jhipster.registry.web.rest.errors.parameterizederrorvmtest.getmessagetest,0.0,0.0,False,False
+46,jhipster-registry,SshResource,io.github.jhipster.registry.web.rest.sshresourcetest.eurekatest,0.0,0.0,False,False
+46,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.getapplicationstest,0.0,0.0,False,False
+46,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.setapplicationstest,0.0,0.0,False,False
+46,jhipster-registry,EurekaVM,io.github.jhipster.registry.web.rest.vm.eurekavmtest.setstatustest,0.0,0.0,False,False
+46,jhipster-registry,LoggerVM,io.github.jhipster.registry.web.rest.vm.loggervmtest.getleveltest,0.0,0.0,False,False
+46,jhipster-registry,LoggerVM,io.github.jhipster.registry.web.rest.vm.loggervmtest.setnametest,0.0,0.0,False,False
+46,jhipster-registry,LoginVM,io.github.jhipster.registry.web.rest.vm.loginvmtest.setremembermetest,0.0,0.0,False,False
+46,jhipster-registry,UserVM,io.github.jhipster.registry.web.rest.vm.uservmtest.constructortest,0.0,0.0,False,False
+46,jhipster-registry,UserVM,io.github.jhipster.registry.web.rest.vm.uservmtest.getlogintest,0.0,0.0,False,False

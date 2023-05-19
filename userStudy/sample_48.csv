@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+27062,4.0_hdoop,org.apache.hadoop.registry.client.impl.testcuratorservice.testverifyexists,0.0,1.0,0.0,0.0
+4605,18.0_admiral,com.vmware.admiral.adapter.docker.util.dockerportmappingtest.testdockerportstringparsing,0.0,0.0,0.0,0.0
+1881,47.0_rxjava2-extras,com.github.davidmoten.rx2.retrywhentest.testretrywhenspecificexceptionfailsbecauseisnotinstanceof,1.0,0.0,0.0,0.0
+31728,4.0_hdoop,org.apache.hadoop.ozone.container.keyvalue.testkeyvalueblockiterator.testkeyvalueblockiteratorwithonlydeletedblocks,0.0,1.0,1.0,0.0

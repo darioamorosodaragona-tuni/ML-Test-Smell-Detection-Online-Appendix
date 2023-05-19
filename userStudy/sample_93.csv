@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+9593,27.0_querydsl,com.querydsl.lucene5.lucenequerytest.uniqueresult_finds_more_than_one_result,0.0,0.0,0.0,0.0
+41438,45.0_hbase,org.apache.hadoop.hbase.procedure2.store.wal.testwalprocedurestore.testwalcleanerwithemptyrolls,1.0,1.0,0.0,0.0
+31627,4.0_hdoop,org.apache.hadoop.ozone.lease.testleasemanager.testcustomleasetimeout,0.0,0.0,0.0,0.0
+7924,27.0_querydsl,com.querydsl.sql.selectbase.projection2,1.0,1.0,0.0,0.0

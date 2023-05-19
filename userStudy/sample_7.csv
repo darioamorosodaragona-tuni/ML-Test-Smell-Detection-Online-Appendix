@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+44068,17.0_fastjson,com.alibaba.json.bvt.issue_1400.issue1498.test_for_issue,0.0,0.0,0.0,0.0
+10403,1.0_struts,org.apache.struts2.dispatcher.mapper.restfulactionmappertest.testgeturiparamid,0.0,0.0,0.0,0.0
+16400,21.0_incubator-dubbo,org.apache.dubbo.config.providerconfigtest.testaccepts,0.0,0.0,0.0,0.0
+33646,67.0_hutool,cn.hutool.core.util.idutiltest.benchtest,1.0,0.0,0.0,0.0

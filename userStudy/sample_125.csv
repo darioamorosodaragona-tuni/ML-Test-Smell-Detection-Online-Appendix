@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+38393,45.0_hbase,org.apache.hadoop.hbase.types.testterminatedwrapper.testskipnonskippable,1.0,0.0,0.0,0.0
+9697,27.0_querydsl,com.querydsl.lucene5.luceneserializertest.goe_numeric_integer_equal,0.0,0.0,0.0,0.0

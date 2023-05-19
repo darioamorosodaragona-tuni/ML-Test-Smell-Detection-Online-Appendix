@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+41946,56.0_oci-java-sdk,com.oracle.bmc.configfilereadertest.linewithemptykey,0.0,1.0,1.0,0.0
+18734,58.0_esper,com.espertech.esper.common.internal.epl.expression.funcs.testexprpropertyexistsnode.testtoexpressionstring,0.0,0.0,0.0,0.0

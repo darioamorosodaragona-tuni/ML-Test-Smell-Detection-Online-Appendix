@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+40913,45.0_hbase,org.apache.hadoop.hbase.master.procedure.testcreatenamespaceprocedure.testcreatesamenamespacetwice,1.0,0.0,0.0,0.0
+43197,17.0_fastjson,com.alibaba.json.bvt.bug.bug_for_issue_265.test_for_issue,1.0,0.0,0.0,0.0
+48529,5.0_jfreechart,org.jfree.chart.plot.xyplottest.testcloning_quadrantorigin,1.0,0.0,0.0,0.0
+736,25.0_marine-api,net.sf.marineapi.nmea.util.datetest.testtoiso8601fourdigityear,0.0,0.0,0.0,0.0

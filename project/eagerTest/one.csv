@@ -1,3 +1,0 @@
-idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
-32,one,PomUtils,com.lcw.one.codegen.pomutilstest.testgetpackagefrommodule,0,0.0537215309350253,0.9462784690649746,True,False
-32,one,LocalFileStoreImpl,com.lcw.one.main.localfilestoreimpltest.testlocalfilestore,0,0.5074996035160896,0.4925003964839104,False,True

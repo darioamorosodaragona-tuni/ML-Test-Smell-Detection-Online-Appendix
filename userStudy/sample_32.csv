@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+14757,41.0_elastic-job-lite,io.elasticjob.lite.exception.jobstatisticexceptiontest.assertgetcause,0.0,0.0,0.0,0.0
+4253,18.0_admiral,com.vmware.admiral.request.requeststatusservicetest.testapicallswithoutauthentication,0.0,0.0,0.0,0.0
+19558,4.0_hdoop,org.apache.hadoop.hdfs.testdistributedfilesystem.testinvalidscriptmappingfilereadstatistics,1.0,1.0,1.0,0.0
+23715,4.0_hdoop,org.apache.hadoop.yarn.server.timeline.testleveldbtimelinestore.testdeleteentities,0.0,0.0,0.0,0.0

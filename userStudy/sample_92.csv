@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+22014,4.0_hdoop,org.apache.hadoop.tracing.testtraceutils.testextraconfig,0.0,0.0,0.0,0.0
+6949,65.0_vertx-mqtt,io.vertx.mqtt.test.server.mqttserverconnectiontest.refusedunacceptableprotocolversion,1.0,0.0,0.0,0.0
+24041,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.recovery.testnmleveldbstatestoreservice.testremovelocalizedresource,1.0,0.0,0.0,0.0
+45513,12.0_openpojo,com.openpojo.business.identity.impl.identityfactorytest.whennoidentityhandlerfoundshouldthrowexception,0.0,0.0,0.0,0.0

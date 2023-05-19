@@ -1,4 +1,0 @@
-idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
-24,recast4j,UnityAStarPathfindingImporter,org.recast4j.detour.extras.unity.astar.unityastarpathfindingimportertest.test_v4_1_16,3,0.4950573440980466,0.5049426559019534,False,True
-24,recast4j,MeshSetReader,org.recast4j.detour.io.meshsetreadertest.testdungeon32bit,0,0.9960460926522336,0.0039539073477663,False,True
-24,recast4j,TileCache,org.recast4j.detour.tilecache.tilecachetest.testlz4,2,0.3314728145019203,0.6685271854980797,True,False

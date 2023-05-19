@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+17968,21.0_incubator-dubbo,org.apache.dubbo.rpc.cluster.support.wrapper.mockclusterinvokertest.testmockinvokerfromoverride_invoke_check_int,0.0,1.0,1.0,0.0
+34076,30.0_joda-time,org.joda.time.testweeks.testgetmethods,0.0,0.0,0.0,0.0

@@ -1,0 +1,3 @@
+idProject,nameProject,productionClass,testCase,NRDB,NRF,isMysteryGuest,isMysteryGuestManual
+17,fluent-logger-java,RawSocketSender,org.fluentd.logger.sender.testrawsocketsender.testnormal01,0.0,0.0,False,True
+17,fluent-logger-java,FluentLogger,org.fluentd.logger.testfluentlogger.testreconnection,0.0,0.0,False,True

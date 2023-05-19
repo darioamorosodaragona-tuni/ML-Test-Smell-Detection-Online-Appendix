@@ -1,8 +1,0 @@
-idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
-42,otto,Bus,com.squareup.otto.bustest.deadeventposting,0,0.2337944064330015,0.7662055935669985,True,True
-42,otto,Bus,com.squareup.otto.bustest.missingsubscribe,0,0.313935516841566,0.6860644831584339,True,False
-42,otto,Bus,com.squareup.otto.bustest.polymorphicdistribution,0,0.3141528743703121,0.6858471256296879,True,True
-42,otto,Bus,com.squareup.otto.bustest.producerunregisterallowsreregistering,1,0.2551722567055929,0.744827743294407,True,True
-42,otto,EventHandler,com.squareup.otto.eventhandlertest.exceptionwrapping,1,0.5809717748492415,0.4190282251507585,False,False
-42,otto,EventHandler,com.squareup.otto.eventhandlertest.rejectionofnulltargets,1,0.5192042987040363,0.4807957012959637,False,False
-42,otto,EventProducer,com.squareup.otto.eventproducertest.returnvaluenotcached,1,0.5327388474069346,0.4672611525930654,False,True

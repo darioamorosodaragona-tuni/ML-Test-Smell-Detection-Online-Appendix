@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+29560,4.0_hdoop,org.apache.hadoop.ipc.testrpc.testrpcinterruptedsimple,0.0,0.0,0.0,0.0
+44427,17.0_fastjson,com.alibaba.json.bvt.path.jsonpath_field_access_filter_like.test_list_like_contains,1.0,0.0,0.0,0.0
+18027,58.0_esper,com.espertech.esper.runtime.internal.filtersvcimpl.testeventtypeindex.testmatch,0.0,0.0,0.0,0.0
+18884,58.0_esper,com.espertech.esper.compiler.internal.util.testeplmoduleutil.testparse,1.0,0.0,0.0,0.0

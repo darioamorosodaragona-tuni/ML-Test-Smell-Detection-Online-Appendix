@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+11702,15.0_wro4j,ro.isdc.wro.extensions.processor.testless4jprocessor.shouldbethreadsafe,0.0,0.0,0.0,0.0
+41601,16.0_pippo,ro.pippo.core.pipposettingstest.testgetnumber,1.0,0.0,0.0,0.0
+12694,15.0_wro4j,ro.isdc.wro.config.factory.testpropertiesandfilterconfigwroconfigurationfactory.testconfiguredebugwithpropertiesfileset,0.0,0.0,0.0,0.0
+11951,15.0_wro4j,ro.isdc.wro.extensions.processor.css.testlesscssprocessor.shouldsupportcorrectresourcetypes,0.0,0.0,0.0,0.0

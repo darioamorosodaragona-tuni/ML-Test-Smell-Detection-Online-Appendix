@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+28800,4.0_hdoop,org.apache.hadoop.mapreduce.v2.app.rm.testrmcontainerallocator.testresource,0.0,0.0,0.0,0.0
+14731,41.0_elastic-job-lite,io.elasticjob.lite.event.rdb.jobeventrdbsearchtest.assertfindjobstatustraceeventswithtime,1.0,1.0,0.0,0.0
+36153,76.0_achilles,info.archinnov.achilles.internals.parser.fieldparsertest.should_fail_parsing_non_frozen_nested_udt,1.0,0.0,0.0,0.0
+41751,16.0_pippo,ro.pippo.controller.controllerregistrytest.testwithpathwithmultivalue,0.0,0.0,0.0,0.0

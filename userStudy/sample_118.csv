@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+43193,17.0_fastjson,com.alibaba.json.bvt.bug.issue_for_oschina_3087749_2215732.test_for_issue,0.0,0.0,0.0,0.0
+45673,71.0_spring-ws,org.springframework.ws.test.server.mockwebserviceclienttest.createserverapplicationcontextdefaults,0.0,0.0,0.0,0.0
+17533,21.0_incubator-dubbo,org.apache.dubbo.rpc.filter.timeoutfiltertest.testinvokewithouttimeout,0.0,1.0,1.0,0.0
+11282,69.0_search-highlighter,org.wikimedia.search.highlighter.experimental.hit.phrasehitenumwrappertest.largeandbasicspeedtest,1.0,0.0,0.0,0.0

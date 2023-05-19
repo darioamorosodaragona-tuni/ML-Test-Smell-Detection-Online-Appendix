@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+48251,38.0_carbon-apimgt,org.wso2.carbon.apimgt.rest.api.admin.throttling.mappings.applicationthrottlepolicymappingutiltest.fromapplicationthrottlepolicydtotomodeltest,0.0,0.0,0.0,0.0
+28271,4.0_hdoop,org.apache.hadoop.mapred.testtask.teststatusupdatedoesnotexitinubermode,1.0,0.0,0.0,0.0
+544,70.0_jhipster-registry,io.github.jhipster.registry.web.rest.vm.uservmtest.getlogintest,0.0,0.0,0.0,0.0
+9396,27.0_querydsl,com.querydsl.core.support.querymixintest.leftjoin,0.0,0.0,0.0,0.0

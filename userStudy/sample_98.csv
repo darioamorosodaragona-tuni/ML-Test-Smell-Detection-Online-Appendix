@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+36864,45.0_hbase,org.apache.hadoop.hbase.client.testattributes.testscanid,0.0,0.0,0.0,0.0
+44468,17.0_fastjson,com.alibaba.json.bvt.path.jsonpath_9.test_paths_1,0.0,0.0,0.0,0.0
+34062,30.0_joda-time,org.joda.time.testminutes.testnegated,0.0,0.0,0.0,0.0
+46599,39.0_yawp,io.yawp.repository.repositorytest.testsavefornotendpointobjects,0.0,0.0,0.0,0.0

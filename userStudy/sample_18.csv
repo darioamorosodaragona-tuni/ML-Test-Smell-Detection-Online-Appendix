@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+4477,18.0_admiral,com.vmware.admiral.adapter.registry.service.registryadapterservicetest.testsameregistrytwodifferentprojectsnotremoveoldtenantlinkshouldfail,0.0,0.0,0.0,0.0
+1475,29.0_c2mon,cern.c2mon.server.configuration.configurationloadertest.testremovecommand,0.0,0.0,0.0,0.0
+7672,27.0_querydsl,com.querydsl.sql.sqlbindingstest.params,0.0,1.0,0.0,0.0
+4642,18.0_admiral,com.vmware.admiral.adapter.docker.service.dockeradapterservicetest.testinspectcontainer,0.0,0.0,0.0,0.0

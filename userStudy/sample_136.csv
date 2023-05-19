@@ -1,0 +1,3 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
+24530,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.containermanager.linux.resources.numa.testnumaresourceallocator.testreleasenumaresourcess,1.0,0.0,0.0,0.0
+37539,45.0_hbase,org.apache.hadoop.hbase.http.jmx.testjmxjsonservlet.assertrefind,0.0,0.0,0.0,0.0

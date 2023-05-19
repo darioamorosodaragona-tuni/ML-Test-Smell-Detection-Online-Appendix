@@ -1,0 +1,2 @@
+idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual
+30,redpipe,App,net.redpipe.fastclasspathscanner.apptest.apptest,0,0.5594963441992378,0.4405036558007622,False,True
