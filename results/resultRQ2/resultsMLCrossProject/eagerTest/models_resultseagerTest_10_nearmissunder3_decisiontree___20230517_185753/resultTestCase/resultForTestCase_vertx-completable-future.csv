@@ -1,0 +1,12 @@
+5037,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testapplytoeither,False,False
+5038,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombineasyncwithexecutor,False,False
+5040,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombinewithfailures,False,False
+5041,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testexceptionally,False,False
+5042,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testfromcompletablestagejavadoc,False,True
+5034,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testacceptasync,False,False
+5044,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testrunasync,False,False
+5036,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteitherasync,False,False
+5043,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testrun,False,False
+5045,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testwhencompleteasync,False,False
+5035,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteither,False,False
+5039,11,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombinefailurepropagation,False,True

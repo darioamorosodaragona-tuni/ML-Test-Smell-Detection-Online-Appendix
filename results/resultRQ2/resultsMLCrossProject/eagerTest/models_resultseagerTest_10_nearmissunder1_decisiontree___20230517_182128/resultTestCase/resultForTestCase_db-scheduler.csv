@@ -1,0 +1,8 @@
+3472,43,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.get_scheduled_by_task_name,True,False
+3476,43,db-scheduler,Scheduler,com.github.kagkarlsson.scheduler.schedulertest.scheduler_should_execute_task_when_exactly_due,False,True
+3473,43,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.reschedule_should_move_execution_in_time,False,False
+3478,43,db-scheduler,Daily,com.github.kagkarlsson.scheduler.task.dailytest.should_generate_next_date_correctly,True,True
+3479,43,db-scheduler,Waiter,com.github.kagkarlsson.scheduler.waitertest.should_wait_until_woken,False,True
+3477,43,db-scheduler,Scheduler,com.github.kagkarlsson.scheduler.schedulertest.scheduler_should_not_execute_canceled_tasks,False,True
+3474,43,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.should_not_be_able_to_pick_execution_that_has_been_rescheduled,False,True
+3475,43,db-scheduler,ScheduledExecution,com.github.kagkarlsson.scheduler.scheduledexecutiontest.test_equals,True,True

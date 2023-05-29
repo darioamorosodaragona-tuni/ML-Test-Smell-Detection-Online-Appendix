@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-51510,36.0_vertx-completable-future,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteither,0.0,0.0,0.0,0.0
-7433,27.0_querydsl,com.querydsl.jpa.hibernatebase.with_comment,0.0,0.0,0.0,0.0

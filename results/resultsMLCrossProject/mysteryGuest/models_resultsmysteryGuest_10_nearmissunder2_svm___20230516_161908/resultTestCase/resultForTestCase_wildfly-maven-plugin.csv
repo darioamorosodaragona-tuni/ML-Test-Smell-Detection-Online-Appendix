@@ -1,2 +1,0 @@
-7977,12,wildfly-maven-plugin,DeploymentManager,org.wildfly.plugin.core.standalonedeploymentmanagerit.testdeploymentqueries,False,True
-7976,12,wildfly-maven-plugin,DeploymentManager,org.wildfly.plugin.core.domaindeploymentmanagerit.testfailedundeploy,False,True

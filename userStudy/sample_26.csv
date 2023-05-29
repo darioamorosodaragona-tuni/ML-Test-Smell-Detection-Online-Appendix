@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-25306,4.0_hdoop,org.apache.hadoop.yarn.server.timelineservice.reader.testtimelinereaderwebservicesutils.testeventfiltersparsing,1.0,0.0,0.0,0.0
-32444,4.0_hdoop,org.apache.hadoop.tools.util.testdistcputils.testreplfactornotpreservedonerasurecodedfile,0.0,1.0,0.0,0.0
-10153,1.0_struts,org.apache.struts2.convention.seoactionnamebuildertest.testemptyactionname,0.0,0.0,0.0,0.0
-41696,16.0_pippo,ro.pippo.core.route.defaultroutertest.testfindroutes,0.0,0.0,0.0,0.0

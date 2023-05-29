@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-48393,55.0_db-scheduler,com.github.kagkarlsson.scheduler.waitertest.should_wait_until_woken,1.0,0.0,0.0,0.0
-928,25.0_marine-api,net.sf.marineapi.ais.util.latitude27test.zeroisavailable,0.0,0.0,0.0,0.0
-18582,58.0_esper,com.espertech.esper.common.internal.epl.spatial.quadtree.core.testboundingbox.testtreeforpath,1.0,0.0,0.0,0.0
-19008,4.0_hdoop,org.apache.hadoop.fs.testfileutil.testcopy5,0.0,1.0,0.0,0.0

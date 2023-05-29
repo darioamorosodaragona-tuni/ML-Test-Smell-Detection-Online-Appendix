@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-31038,4.0_hdoop,org.apache.hadoop.service.testcompositeservice.testservicestartup,1.0,0.0,0.0,0.0
-41006,45.0_hbase,org.apache.hadoop.hbase.quotas.policies.testnoinsertsviolationpolicyenforcement.testcheckappend,0.0,0.0,0.0,0.0
-1208,29.0_c2mon,cern.c2mon.shared.common.type.typeconvertertest.testexceptiontodoublecastexception,0.0,0.0,0.0,0.0
-20421,4.0_hdoop,org.apache.hadoop.hdfs.server.datanode.testdirectoryscanner.testretainblockonpersistentstorage,0.0,1.0,1.0,0.0

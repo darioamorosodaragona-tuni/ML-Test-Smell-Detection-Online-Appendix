@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-49999,5.0_jfreechart,org.jfree.data.statistics.defaultboxandwhiskerxydatasettest.testcloning,1.0,0.0,0.0,0.0
-26883,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.reservation.testreservationinputvalidator.testupdatereservationvalidrecurrenceexpression,0.0,0.0,0.0,0.0
-23856,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.testnmauditlogger.testsuccesslogformat,1.0,0.0,0.0,0.0
-45094,12.0_openpojo,com.openpojo.validation.affirm.abstractaffirmationtest.testfailwithnullmessage,0.0,0.0,0.0,0.0

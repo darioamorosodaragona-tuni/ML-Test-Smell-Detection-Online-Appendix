@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4748,18.0_admiral,com.vmware.admiral.adapter.docker.service.containerstatemappertest.testcomparerunningcontainerinusernetworkwithdefaultpropertiesandmatchedcontainerstateshouldpass,0.0,0.0,0.0,0.0
-22620,4.0_hdoop,org.apache.hadoop.hdfs.server.namenode.snapshot.testsnapshotdiffreport.testdiffreportwithrenameandsnapshotdeletion,0.0,0.0,0.0,0.0
-14857,41.0_elastic-job-lite,io.elasticjob.lite.executor.jobexecutorfactorytest.assertgetjobexecutorwhenjobclasswhenunsupportedjob,0.0,0.0,0.0,0.0
-21780,4.0_hdoop,org.apache.hadoop.tools.testoptionsparser.testdiffoption,0.0,0.0,0.0,0.0

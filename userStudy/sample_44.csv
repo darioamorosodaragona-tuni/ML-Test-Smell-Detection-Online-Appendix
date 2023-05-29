@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-40177,45.0_hbase,org.apache.hadoop.hbase.master.testdeadserver.testsortextract,0.0,0.0,0.0,0.0
-24332,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.containermanager.linux.runtime.testdelegatinglinuxcontainerruntime.testjavasandboxnotallowedbutpermissivedockerrequested,1.0,0.0,0.0,0.0
-20140,4.0_hdoop,org.apache.hadoop.hdfs.client.impl.testblockreaderlocalmetrics.testslowshortcircuitreadsaveragelatencyvalue,1.0,1.0,1.0,0.0
-13606,15.0_wro4j,ro.isdc.wro.model.resource.support.change.testresourcechangeinfo.cannotupdatehashfornullgroup,0.0,0.0,0.0,0.0

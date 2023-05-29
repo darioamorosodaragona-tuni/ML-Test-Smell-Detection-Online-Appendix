@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-38013,45.0_hbase,org.apache.hadoop.hbase.util.testbytes.testbinarysearch,1.0,0.0,0.0,0.0
-35272,30.0_joda-time,org.joda.time.field.testprecisedurationfield.testserialization,0.0,0.0,0.0,0.0
-6303,49.0_dropwizard,io.dropwizard.client.httpclientbuildertest.usesproxy,0.0,0.0,0.0,0.0
-43331,17.0_fastjson,com.alibaba.json.bvt.bug.bug_for_spitfire.test_for_spitfire,1.0,0.0,0.0,0.0

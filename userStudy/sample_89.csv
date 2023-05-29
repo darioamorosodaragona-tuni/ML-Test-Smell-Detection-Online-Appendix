@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4593,18.0_admiral,com.vmware.admiral.adapter.pks.service.pksclusterconfigservicetest.testaddpksclusterfail,0.0,0.0,0.0,0.0
-19994,4.0_hdoop,org.apache.hadoop.hdfs.util.testxmlutils.testinvalidsequence,0.0,0.0,0.0,0.0
-51510,36.0_vertx-completable-future,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteither,0.0,0.0,0.0,0.0
-7433,27.0_querydsl,com.querydsl.jpa.hibernatebase.with_comment,0.0,0.0,0.0,0.0

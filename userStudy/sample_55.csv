@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-43018,17.0_fastjson,com.alibaba.json.bvt.jsonarraytest.test_getarray_1,0.0,0.0,0.0,0.0
-17888,21.0_incubator-dubbo,org.apache.dubbo.rpc.cluster.router.condition.conditionroutertest.testroute_noforce,0.0,1.0,1.0,0.0
-24351,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.containermanager.linux.runtime.docker.testdockerstartcommand.testgetcommandwitharguments,0.0,0.0,0.0,0.0
-6325,49.0_dropwizard,io.dropwizard.client.httpclientbuildertest.configurecredentialreturnsntcredentialsforbasicconfig,0.0,0.0,0.0,0.0

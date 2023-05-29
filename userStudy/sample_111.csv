@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-22205,4.0_hdoop,org.apache.hadoop.hdfs.qjournal.client.testquorumjournalmanager.testoutofsyncatbeginningofsegment1,0.0,0.0,0.0,0.0
-9793,57.0_riptide,org.zalando.riptide.spring.timespantest.shouldfailonunsupportedtimespanformat,0.0,0.0,0.0,0.0
-2181,47.0_rxjava2-extras,com.github.davidmoten.rx2.internal.flowable.flowablecollectwhiletest.testaddthrows,0.0,0.0,0.0,0.0
-25136,4.0_hdoop,org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.testahswebservices.testcontainerlogsmetaforfinishedapps,0.0,0.0,0.0,0.0

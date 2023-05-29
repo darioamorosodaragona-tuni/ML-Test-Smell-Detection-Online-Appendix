@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4024,18.0_admiral,com.vmware.admiral.request.allocation.filter.serviceaffinityhostfiltertest.testerrorwhenmorethanonecontainersbutdifferenthostsinaffinity,0.0,0.0,0.0,0.0
-38272,45.0_hbase,org.apache.hadoop.hbase.io.testfilelink.testequals,0.0,0.0,0.0,0.0
-3467,18.0_admiral,com.vmware.admiral.log.eventlogservicetest.testgetsingleeventlog,0.0,1.0,1.0,0.0
-10081,1.0_struts,org.apache.struts2.embeddedjspresulttest.testsimple,0.0,1.0,0.0,0.0

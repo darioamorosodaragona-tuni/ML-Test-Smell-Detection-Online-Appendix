@@ -1,0 +1,2 @@
+SimilaritiesCoefficient  0.668573
+   probabilityEagerTest  0.668573

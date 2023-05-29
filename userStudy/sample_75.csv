@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-48094,38.0_carbon-apimgt,org.wso2.carbon.apimgt.core.dao.impl.apidaoimplit.testgetendpointbyname,0.0,1.0,1.0,0.0
-48047,38.0_carbon-apimgt,org.wso2.carbon.apimgt.core.auth.defaultscoperegistrationimpltest.testupdatescope,0.0,0.0,0.0,0.0
-39154,45.0_hbase,org.apache.hadoop.hbase.regionserver.testhstore.testcreatescannerandsnapshotconcurrently,1.0,0.0,0.0,0.0
-31082,4.0_hdoop,org.apache.hadoop.service.testcompositeservice.testaddstoppedsiblinginstart,0.0,0.0,0.0,0.0

@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-38378,45.0_hbase,org.apache.hadoop.hbase.codec.testkeyvaluecodec.testone,1.0,0.0,0.0,0.0
-17550,21.0_incubator-dubbo,org.apache.dubbo.rpc.filter.exceptionfiltertest.testconverttoruntimeexception,0.0,0.0,0.0,0.0

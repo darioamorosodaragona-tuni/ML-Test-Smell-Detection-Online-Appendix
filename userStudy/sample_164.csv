@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-23230,4.0_hdoop,org.apache.hadoop.yarn.util.resource.testresourcecalculator.testcomparedominantwithonlymandatory,0.0,0.0,0.0,0.0
-14218,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.itemdocumentimpltest.equalitybasedoncontent,1.0,0.0,0.0,0.0

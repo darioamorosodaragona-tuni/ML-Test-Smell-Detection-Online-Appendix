@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-28022,4.0_hdoop,org.apache.hadoop.mapreduce.lib.output.testpathoutputcommitterfactory.testnamedcommitterfactory,0.0,0.0,0.0,0.0
-1500,29.0_c2mon,cern.c2mon.server.configuration.configurationloadertest.testremovedevice,0.0,0.0,0.0,0.0
-9079,27.0_querydsl,com.querydsl.core.util.reflectionutilstest.getimplementedinterfaces,0.0,0.0,0.0,0.0
-16244,21.0_incubator-dubbo,org.apache.dubbo.config.applicationconfigtest.testparameters,0.0,0.0,0.0,0.0

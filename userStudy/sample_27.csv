@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-27842,4.0_hdoop,org.apache.hadoop.mapreduce.task.reduce.testfetcher.testinterruptinmemory,0.0,0.0,0.0,0.0
-19123,4.0_hdoop,org.apache.hadoop.fs.testfilterfs.testfilterfilesystem,1.0,0.0,0.0,0.0
-1728,29.0_c2mon,cern.c2mon.server.cache.dbaccess.ruletagmappertest.testgetnumberitems,0.0,0.0,0.0,0.0
-25401,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.testresourcetrackerservice.testnoderegistrationwithinvalidlabels,1.0,0.0,0.0,0.0

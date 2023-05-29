@@ -1,0 +1,1 @@
+SimilaritiesCoefficient  0.664832

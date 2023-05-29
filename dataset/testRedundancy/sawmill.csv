@@ -25,7 +25,7 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedu
 6,sawmill,AnonymizeProcessor,io.logz.sawmill.processors.anonymizeprocessortest.testbadconfig,0.0,0.0,False,False
 6,sawmill,AppendListProcessor,io.logz.sawmill.processors.appendlistprocessortest.testappendvalueswhilefieldexist,0.0,0.0,False,False
 6,sawmill,AppendListProcessor,io.logz.sawmill.processors.appendlistprocessortest.testappendvalueswithtemplate,0.0,0.0,False,False
-6,sawmill,ConvertFieldProcessor,io.logz.sawmill.processors.convertfieldprocessortest.testconversion,0.0,0.0,False,
+6,sawmill,ConvertFieldProcessor,io.logz.sawmill.processors.convertfieldprocessortest.testconversion,0.0,0.0,False,False
 6,sawmill,ConvertFieldProcessor,io.logz.sawmill.processors.convertfieldprocessortest.testconverttodouble,0.0,0.0,False,False
 6,sawmill,ConvertFieldProcessor,io.logz.sawmill.processors.convertfieldprocessortest.testconverttodoubledefaultiszero,0.0,0.0,False,False
 6,sawmill,ConvertFieldProcessor,io.logz.sawmill.processors.convertfieldprocessortest.testconverttolongdefaultiszero,0.0,0.0,False,False

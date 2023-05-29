@@ -1,0 +1,9 @@
+,idProject,nameProject,productionClass,testCase,isEagerTest,isEagerTestManual,prediction
+0,43.0,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.get_scheduled_by_task_name,True,True,False
+1,43.0,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.reschedule_should_move_execution_in_time,False,True,True
+4,43.0,db-scheduler,Scheduler,com.github.kagkarlsson.scheduler.schedulertest.scheduler_should_execute_task_when_exactly_due,False,True,True
+6,43.0,db-scheduler,Daily,com.github.kagkarlsson.scheduler.task.dailytest.should_generate_next_date_correctly,True,False,False
+2,43.0,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.should_not_be_able_to_pick_execution_that_has_been_rescheduled,False,True,True
+3,43.0,db-scheduler,ScheduledExecution,com.github.kagkarlsson.scheduler.scheduledexecutiontest.test_equals,True,False,False
+5,43.0,db-scheduler,Scheduler,com.github.kagkarlsson.scheduler.schedulertest.scheduler_should_not_execute_canceled_tasks,False,True,True
+7,43.0,db-scheduler,Waiter,com.github.kagkarlsson.scheduler.waitertest.should_wait_until_woken,False,True,True

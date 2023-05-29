@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-8802,27.0_querydsl,com.querydsl.lucene3.lucenequerytest.list_not_sorted_limit_2,0.0,0.0,0.0,0.0
-24980,4.0_hdoop,org.apache.hadoop.yarn.server.api.protocolrecords.testregisternodemanagerresponse.testroundtrip,1.0,0.0,0.0,0.0
-39808,45.0_hbase,org.apache.hadoop.hbase.thrift2.testthrifthbaseservicehandler.testexistsall,1.0,0.0,0.0,0.0
-49074,5.0_jfreechart,org.jfree.chart.util.relativedateformattest.testcloning,0.0,0.0,0.0,0.0

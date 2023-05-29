@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-26935,4.0_hdoop,org.apache.hadoop.yarn.server.router.testroutermetrics.testappsfailedcreated,0.0,0.0,0.0,0.0
-27532,4.0_hdoop,org.apache.hadoop.ozone.web.client.testvolume.testdeletevolume,0.0,0.0,0.0,0.0

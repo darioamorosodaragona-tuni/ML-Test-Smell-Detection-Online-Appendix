@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-39768,45.0_hbase,org.apache.hadoop.hbase.security.access.testcoprocessorwhitelistmasterobserver.testdifferentfilesystemnonwhitelisted,0.0,0.0,0.0,0.0
-45705,71.0_spring-ws,org.springframework.ws.wsdl.wsdl11.provider.suffixbasedmessagesprovidertest.testaddmessages,1.0,1.0,0.0,0.0

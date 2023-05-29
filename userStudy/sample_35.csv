@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-20271,4.0_hdoop,org.apache.hadoop.hdfs.protocolpb.testpbhelper.testconvertblock,0.0,0.0,0.0,0.0
-22471,4.0_hdoop,org.apache.hadoop.hdfs.server.common.blockaliasmap.impl.testleveldbfileregionaliasmap.testiterate,1.0,1.0,0.0,0.0
-44971,12.0_openpojo,com.openpojo.random.randomfactorytest.generaterandomwithnoregisteredrandomgenerator,0.0,0.0,0.0,0.0
-9662,27.0_querydsl,com.querydsl.lucene5.luceneserializertest.contains_ignore_case_phrase,0.0,0.0,0.0,0.0

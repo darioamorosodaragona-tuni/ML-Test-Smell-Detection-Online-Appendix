@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-30810,4.0_hdoop,org.apache.hadoop.io.retry.testretryproxy.testtryoncethenfail,0.0,0.0,0.0,0.0
-49534,5.0_jfreechart,org.jfree.chart.renderer.category.intervalbarrenderertest.testserialization,0.0,0.0,0.0,0.0

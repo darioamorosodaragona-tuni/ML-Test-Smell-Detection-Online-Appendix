@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-41750,16.0_pippo,ro.pippo.controller.controllerregistrytest.testwithpathwithsinglevalue,0.0,0.0,0.0,0.0
-14813,41.0_elastic-job-lite,io.elasticjob.lite.api.strategy.impl.rotateserverbynamejobshardingstrategytest.assertsharding3,0.0,0.0,0.0,0.0
-29650,4.0_hdoop,org.apache.hadoop.util.testlinereader.testcustomdelimiter,0.0,0.0,0.0,0.0
-2422,60.0_vertexium,org.vertexium.mutation.existingelementmutationimpltest.testhaschangesproperties,0.0,0.0,0.0,0.0

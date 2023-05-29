@@ -1,0 +1,6 @@
+,idProject,nameProject,productionClass,testCase,isEagerTest,isEagerTestManual,prediction
+0,27.0,undertow,WebSocketServlet,io.undertow.servlet.test.websocket.websocketservlettest.testtext,False,True,False
+2,27.0,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testclientsideidletimeout,False,True,True
+4,27.0,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testtimeoutclosereason,True,False,True
+1,27.0,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testannotatedclientendpoint,False,False,True
+3,27.0,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testencodinganddecodingbinary,False,True,True

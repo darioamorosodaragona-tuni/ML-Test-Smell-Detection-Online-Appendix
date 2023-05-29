@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-12977,15.0_wro4j,ro.isdc.wro.model.factory.testxmlmodelfactory.recursivegroupthrowsexception,0.0,1.0,1.0,0.0
-28161,4.0_hdoop,org.apache.hadoop.mapreduce.lib.input.testfixedlengthinputformat.testnorecordlength,0.0,1.0,0.0,0.0
-22122,4.0_hdoop,org.apache.hadoop.hdfs.tools.testdfsadmin.testgetdatanodeinfo,1.0,0.0,0.0,0.0
-17313,21.0_incubator-dubbo,org.apache.dubbo.common.utils.configutilstest.testgetproperty,0.0,0.0,0.0,0.0

@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-24041,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.recovery.testnmleveldbstatestoreservice.testremovelocalizedresource,1.0,0.0,0.0,0.0
-45513,12.0_openpojo,com.openpojo.business.identity.impl.identityfactorytest.whennoidentityhandlerfoundshouldthrowexception,0.0,0.0,0.0,0.0

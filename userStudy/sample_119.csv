@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-15491,7.0_dnsjava,org.xbill.dns.addresstest.test_isdottedquad,0.0,0.0,0.0,0.0
-8915,27.0_querydsl,com.querydsl.lucene3.luceneserializertest.between_does_not_find_results,0.0,0.0,0.0,0.0
-16507,21.0_incubator-dubbo,org.apache.dubbo.common.extension.extensionloadertest.test_hasextension_wrapperisnotext,0.0,0.0,0.0,0.0
-1784,29.0_c2mon,cern.c2mon.server.supervision.impl.supervisiontagnotifiertest.testnotifysubequipmentevent,0.0,0.0,0.0,0.0

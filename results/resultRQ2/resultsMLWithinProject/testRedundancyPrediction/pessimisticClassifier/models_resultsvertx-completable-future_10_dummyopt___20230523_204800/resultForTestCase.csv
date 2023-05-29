@@ -1,0 +1,13 @@
+,idProject,nameProject,productionClass,testCase,isTestRedundancy,isTestRedundancyManual,prediction
+2,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteitherasync,False,False,False
+6,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombinewithfailures,False,False,False
+5,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombinefailurepropagation,False,False,False
+10,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testrunasync,False,False,False
+8,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testfromcompletablestagejavadoc,False,False,False
+4,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testcombineasyncwithexecutor,False,False,False
+11,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testwhencompleteasync,False,False,False
+9,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testrun,False,False,False
+3,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testapplytoeither,False,False,False
+1,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testaccepteither,False,False,False
+0,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testacceptasync,False,False,False
+7,11.0,vertx-completable-future,VertxCompletableFuture,me.escoffier.vertx.completablefuture.vertxcompletablefuturetest.testexceptionally,False,False,False

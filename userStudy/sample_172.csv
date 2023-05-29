@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-35315,30.0_joda-time,org.joda.time.field.testmillisdurationfield.test_getvalue_long_long,0.0,0.0,0.0,0.0
-1013,29.0_c2mon,cern.c2mon.daq.common.impl.equipmentmessagesendertest.testsendtagfilteredtwicesamevaluesbutdiffvaluedesc,0.0,0.0,0.0,0.0

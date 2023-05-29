@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-29633,4.0_hdoop,org.apache.hadoop.util.testrunjar.testbigjar,1.0,1.0,1.0,0.0
-30513,4.0_hdoop,org.apache.hadoop.ha.testshellcommandfencer.testbasicsuccessfailure,0.0,0.0,0.0,0.0

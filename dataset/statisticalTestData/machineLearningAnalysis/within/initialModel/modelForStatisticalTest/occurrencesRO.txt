@@ -1,0 +1,6 @@
+adaboost,27
+decisiontree,27
+multilayerperceptron,27
+naivebayes,27
+randomforest,27
+svm,27

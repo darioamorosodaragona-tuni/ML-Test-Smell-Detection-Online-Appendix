@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-50321,5.0_jfreechart,org.jfree.data.general.defaultheatmapdatasettest.testserialization,0.0,0.0,0.0,0.0
-6900,49.0_dropwizard,io.dropwizard.logging.fileappenderfactorytest.includescallerdata,0.0,0.0,0.0,0.0
-50220,5.0_jfreechart,org.jfree.data.category.defaultintervalcategorydatasettest.testgetvalue,1.0,0.0,0.0,0.0
-11314,69.0_search-highlighter,org.wikimedia.search.highlighter.experimental.hit.phrasehitenumwrappertest.basic,0.0,0.0,0.0,0.0

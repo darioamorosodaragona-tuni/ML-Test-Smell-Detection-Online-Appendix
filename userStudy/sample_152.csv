@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-44276,17.0_fastjson,com.alibaba.json.bvt.issue_1300.issue1330_short.test_for_issue_2,0.0,0.0,0.0,0.0
-44251,17.0_fastjson,com.alibaba.json.bvt.issue_2000.issue2040.test_for_issue_2040,0.0,0.0,0.0,0.0

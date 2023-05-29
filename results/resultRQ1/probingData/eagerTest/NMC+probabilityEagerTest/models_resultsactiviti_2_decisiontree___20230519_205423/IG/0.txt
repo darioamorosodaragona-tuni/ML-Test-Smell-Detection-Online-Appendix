@@ -1,0 +1,2 @@
+                 NMC  0.062401
+probabilityEagerTest  0.693147

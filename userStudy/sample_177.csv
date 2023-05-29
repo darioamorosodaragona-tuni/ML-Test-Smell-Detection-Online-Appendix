@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-37092,45.0_hbase,org.apache.hadoop.hbase.testcellutil.testclonecellfieldsfrombytebufferedcell,1.0,0.0,0.0,0.0
-38870,45.0_hbase,org.apache.hadoop.hbase.replication.testreplicationendpoint.testwalentryfilteraddvalidation,0.0,0.0,0.0,0.0

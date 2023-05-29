@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-35700,30.0_joda-time,org.joda.time.format.testperiodformat.test_wordbased_fr_from_nl,0.0,0.0,0.0,0.0
-21686,4.0_hdoop,org.apache.hadoop.tools.testdistcpsync.testsync7,0.0,1.0,0.0,0.0
-48245,38.0_carbon-apimgt,org.wso2.carbon.apimgt.rest.api.admin.throttling.impl.blacklistapiserviceimpltest.blacklistgettest,0.0,0.0,0.0,0.0
-50265,5.0_jfreechart,org.jfree.data.general.datasetutilstest.test803660,1.0,0.0,0.0,0.0

@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-33714,67.0_hutool,cn.hutool.core.util.classutiltest.getpublicmethod,1.0,0.0,0.0,0.0
-39205,45.0_hbase,org.apache.hadoop.hbase.regionserver.teststripestorefilemanager.testemptyresultsforstripes,0.0,0.0,0.0,0.0
-14987,41.0_elastic-job-lite,io.elasticjob.lite.internal.instance.shutdownlistenermanagertest.assertremovelocalinstancepath,0.0,1.0,0.0,0.0
-19255,4.0_hdoop,org.apache.hadoop.fs.testfilterfilesystem.testfilterembednoinit,0.0,0.0,0.0,0.0

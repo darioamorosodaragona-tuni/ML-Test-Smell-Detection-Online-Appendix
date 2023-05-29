@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-14475,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.dataobjectfactoryimpltest.testgetlexemeid,0.0,0.0,0.0,0.0
-28192,4.0_hdoop,org.apache.hadoop.mapred.testcounters.testcounterlimits,1.0,0.0,0.0,0.0
-3423,18.0_admiral,com.vmware.admiral.common.util.deferredutilstest.testwrap,0.0,0.0,0.0,0.0
-24951,4.0_hdoop,org.apache.hadoop.yarn.server.scheduler.testopportunisticcontainerallocator.testnodelocalallocationsameschedkey,1.0,0.0,0.0,0.0

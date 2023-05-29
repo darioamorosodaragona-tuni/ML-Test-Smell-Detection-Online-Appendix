@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4380,18.0_admiral,com.vmware.admiral.request.pks.pksclusterprovisioningtaskservicetest.testgetfailedcallbackresponse,0.0,0.0,0.0,0.0
-13961,11.0_wikidata-toolkit,org.wikidata.wdtk.wikibaseapi.basicapiconnectiontest.testdeserialize,0.0,0.0,0.0,0.0
-35862,76.0_achilles,info.archinnov.achilles.it.testentitywithstaticannotations.should_insert_overriding_static_conf,1.0,0.0,0.0,0.0
-1649,29.0_c2mon,cern.c2mon.server.cache.rule.ruletagcachetest.testcacheloading,1.0,0.0,0.0,0.0

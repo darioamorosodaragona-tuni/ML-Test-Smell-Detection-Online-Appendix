@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-11538,15.0_wro4j,ro.isdc.wro.http.testwrofilter.testdofilterindeploymentmode,0.0,0.0,0.0,0.0
-26356,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfairscheduler.testmultiplenodessinglerackrequest,1.0,0.0,0.0,0.0
-17189,21.0_incubator-dubbo,org.apache.dubbo.common.utils.stringutilstest.testexceptiontostringwithmessage,0.0,0.0,0.0,0.0
-49016,5.0_jfreechart,org.jfree.chart.labels.standardcategoryserieslabelgeneratortest.testhashcode,0.0,0.0,0.0,0.0

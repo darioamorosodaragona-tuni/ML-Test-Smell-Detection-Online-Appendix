@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-43480,17.0_fastjson,com.alibaba.json.bvt.bug.issue799.test_for_issue,1.0,0.0,0.0,0.0
-44651,17.0_fastjson,com.alibaba.json.bvt.serializer.serializewritertest.test_15,0.0,0.0,0.0,0.0
-35024,30.0_joda-time,org.joda.time.field.testprecisedatetimefield.test_getastext_rp_int_locale,0.0,0.0,0.0,0.0
-40785,45.0_hbase,org.apache.hadoop.hbase.master.cleaner.testreplicationbarriercleaner.testnothing,0.0,0.0,0.0,0.0

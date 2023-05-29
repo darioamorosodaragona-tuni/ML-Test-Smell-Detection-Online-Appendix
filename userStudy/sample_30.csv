@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-25073,4.0_hdoop,org.apache.hadoop.yarn.server.applicationhistoryservice.testfilesystemapplicationhistorystore.testreadhistorydata,1.0,0.0,0.0,0.0
-46895,2.0_tyrus,org.glassfish.tyrus.ext.client.java8.sessionbuildertest.testencoderdecoder,0.0,1.0,1.0,0.0
-23360,4.0_hdoop,org.apache.hadoop.yarn.client.api.impl.testyarnclient.testsignalcontainer,1.0,0.0,0.0,0.0
-34527,30.0_joda-time,org.joda.time.chrono.testlenientchronology.test_lenientchrononolgy_chicago,0.0,0.0,0.0,0.0

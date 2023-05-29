@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-26935,4.0_hdoop,org.apache.hadoop.yarn.server.router.testroutermetrics.testappsfailedcreated,0.0,0.0,0.0,0.0
-27532,4.0_hdoop,org.apache.hadoop.ozone.web.client.testvolume.testdeletevolume,0.0,0.0,0.0,0.0
-48243,38.0_carbon-apimgt,org.wso2.carbon.apimgt.rest.api.admin.throttling.impl.blacklistapiserviceimpltest.blacklistconditioniddeletetest,0.0,0.0,0.0,0.0
-7692,27.0_querydsl,com.querydsl.sql.multikeytest.tostring_,0.0,0.0,0.0,0.0

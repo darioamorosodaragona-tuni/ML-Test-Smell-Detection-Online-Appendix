@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-43193,17.0_fastjson,com.alibaba.json.bvt.bug.issue_for_oschina_3087749_2215732.test_for_issue,0.0,0.0,0.0,0.0
-45673,71.0_spring-ws,org.springframework.ws.test.server.mockwebserviceclienttest.createserverapplicationcontextdefaults,0.0,0.0,0.0,0.0

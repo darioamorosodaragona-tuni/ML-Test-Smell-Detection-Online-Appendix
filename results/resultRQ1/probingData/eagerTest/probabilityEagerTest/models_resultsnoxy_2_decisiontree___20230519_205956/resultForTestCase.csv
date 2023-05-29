@@ -1,0 +1,7 @@
+,idProject,nameProject,productionClass,testCase,NMC,SimilaritiesCoefficient,isEagerTest,isEagerTestManual,prediction
+1,33.0,noxy,DefaultProxyAuthenticator,com.spinn3r.noxy.forward.authenticator.defaultproxyauthenticatortest.testauthenticatewithnullpassword,0.0,0.8476129248014903,False,False,False
+3,33.0,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithoneipv4addresses,0.0,0.7015038422645833,False,False,False
+5,33.0,noxy,ReverseProxyService,com.spinn3r.noxy.reverse.reverseproxyservicetest.testbasicrequests,0.0,0.3404640853772138,True,True,True
+0,33.0,noxy,FixedDiscoveryService,com.spinn3r.noxy.discovery.fixed.init.fixeddiscoveryservicetest.testinit,0.0,0.5299411243927572,False,True,False
+2,33.0,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithnoaddresses,0.0,0.6927107701999894,False,False,False
+4,33.0,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithoneipv6addresses,0.0,0.726108972764565,False,False,False

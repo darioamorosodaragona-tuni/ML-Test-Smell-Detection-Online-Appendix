@@ -1,0 +1,2 @@
+                    NMC  0.079106
+SimilaritiesCoefficient  0.610864

@@ -1,0 +1,4 @@
+,idProject,nameProject,productionClass,testCase,isResourceOptimism,isResourceOptimismManual,prediction
+2,44.0,activiti,ServiceTaskParseHandler,org.activiti.engine.impl.bpmn.parser.handler.servicetaskparsehandlertest.executeparseshouldusedefaultbehaviorwhennoinformationisprovided,False,False,True
+8,44.0,activiti,DefaultServiceTaskBehavior,org.activiti.runtime.api.connector.defaultservicetaskbehaviortest.hasconnectorbeanshouldreturnfalseifabeanofdifferenttypeisfound,False,False,True
+11,44.0,activiti,ProcessDefinitionResourceFinderIT,org.activiti.spring.boot.processdefinitionresourcefinderit.shouldreturnemptylistwhenprocessdefinitionsfolderisnotfound,False,False,True

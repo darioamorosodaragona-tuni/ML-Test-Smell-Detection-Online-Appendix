@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-46025,71.0_spring-ws,org.springframework.ws.server.endpoint.adapter.defaultmethodendpointadaptertest.supportssupported,0.0,0.0,0.0,0.0
-15340,7.0_dnsjava,org.xbill.dns.optionstest.test_check,0.0,0.0,0.0,0.0
-49623,5.0_jfreechart,org.jfree.chart.renderer.category.statisticallineandshaperenderertest.testpubliccloneable,0.0,0.0,0.0,0.0
-5709,49.0_dropwizard,io.dropwizard.jersey.optional.optionalintmessagebodywritertest.presentoptionalsreturntheirvaluewithresponse,0.0,0.0,0.0,0.0

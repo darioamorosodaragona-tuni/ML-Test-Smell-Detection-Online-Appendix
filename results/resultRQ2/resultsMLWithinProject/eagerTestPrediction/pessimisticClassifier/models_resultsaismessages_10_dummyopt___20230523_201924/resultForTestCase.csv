@@ -1,0 +1,13 @@
+,idProject,nameProject,productionClass,testCase,isEagerTest,isEagerTestManual,prediction
+2,10.0,aismessages,BaseStationReport,dk.tbsalling.aismessages.ais.messages.basestationreporttest.candecode,False,False,False
+6,10.0,aismessages,PositionReportClassAAssignedSchedule,dk.tbsalling.aismessages.ais.messages.positionreportclassaassignedscheduletest.candecode,True,False,False
+5,10.0,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant2,False,False,False
+10,10.0,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canflushempty,False,False,False
+8,10.0,aismessages,ShipAndVoyageData,dk.tbsalling.aismessages.ais.messages.shipandvoyagedatatest.digest,False,False,False
+4,10.0,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant1,False,False,False
+11,10.0,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canhandleunfragmentedmessagereceived,False,False,False
+9,10.0,aismessages,StandardClassBCSPositionReport,dk.tbsalling.aismessages.ais.messages.standardclassbcspositionreporttest.candecode1,False,False,False
+3,10.0,aismessages,BinaryBroadcastMessage,dk.tbsalling.aismessages.ais.messages.binarybroadcastmessagetest.candecodedac200fi10inlandshipstaticandvoyagerelateddata1,False,False,False
+1,10.0,aismessages,AISMessage,dk.tbsalling.aismessages.ais.messages.aismessagetest.isserializable,True,False,False
+0,10.0,aismessages,AidToNavigationReport,dk.tbsalling.aismessages.ais.messages.aidtonavigationreporttest.testdatafields,False,False,False
+7,10.0,aismessages,PositionReportClassAScheduled,dk.tbsalling.aismessages.ais.messages.positionreportclassascheduledtest.candecodecommunicationstate,False,False,False

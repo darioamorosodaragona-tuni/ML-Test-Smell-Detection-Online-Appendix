@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-26268,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfairschedulerconfiguration.testcpupercentagememoryabsolute,0.0,0.0,0.0,0.0
-20485,4.0_hdoop,org.apache.hadoop.hdfs.server.datanode.testfsdatasetcache.testfilesexceedmaxlockedmemory,1.0,1.0,1.0,0.0

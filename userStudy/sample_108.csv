@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-17163,21.0_incubator-dubbo,org.apache.dubbo.common.utils.namedthreadfactorytest.testnewthread,0.0,0.0,0.0,0.0
-17555,21.0_incubator-dubbo,org.apache.dubbo.rpc.filter.tps.statitemtest.testisallowable,0.0,0.0,0.0,0.0
-37092,45.0_hbase,org.apache.hadoop.hbase.testcellutil.testclonecellfieldsfrombytebufferedcell,1.0,0.0,0.0,0.0
-38870,45.0_hbase,org.apache.hadoop.hbase.replication.testreplicationendpoint.testwalentryfilteraddvalidation,0.0,0.0,0.0,0.0

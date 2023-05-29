@@ -1,0 +1,12 @@
+,idProject,nameProject,productionClass,testCase,isTestRedundancy,isTestRedundancyManual,prediction
+1,5.0,orbit,ExecutionSerializer,cloud.orbit.actors.executionserializertest.testexception,False,False,False
+5,5.0,orbit,ClassPathSearch,cloud.orbit.actors.runtime.classpathsearchtest.testearlyremovalbug,False,False,False
+4,5.0,orbit,LengthFieldHandler,cloud.orbit.actors.extensions.test.lengthfieldhandlertest.testtwomessages,False,False,False
+9,5.0,orbit,OnlyIfActivated,cloud.orbit.actors.test.onlyifactivatedtest.onlyifactivatedtest,False,False,False
+7,5.0,orbit,ClassPathSearch,cloud.orbit.actors.runtime.classpathsearchtest.testfindwithabstractclass,False,False,False
+0,5.0,orbit,CloneHelper,cloud.orbit.actors.cloner.clonehelpertest.testmessagewithobjectarraypayload,False,False,False
+10,5.0,orbit,ExceptionUtils,cloud.orbit.concurrent.test.exceptionutilstest.testgetcauseinchain,False,False,False
+8,5.0,orbit,ClassPathSearch,cloud.orbit.actors.runtime.classpathsearchtest.testutilityfunctions,False,False,False
+6,5.0,orbit,ClassPathSearch,cloud.orbit.actors.runtime.classpathsearchtest.testfind,False,False,False
+2,5.0,orbit,ExecutionSerializer,cloud.orbit.actors.executionserializertest.testmulti,False,False,False
+3,5.0,orbit,LengthFieldHandler,cloud.orbit.actors.extensions.test.lengthfieldhandlertest.testpartialmessage,False,False,False

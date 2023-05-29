@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4593,18.0_admiral,com.vmware.admiral.adapter.pks.service.pksclusterconfigservicetest.testaddpksclusterfail,0.0,0.0,0.0,0.0
-19994,4.0_hdoop,org.apache.hadoop.hdfs.util.testxmlutils.testinvalidsequence,0.0,0.0,0.0,0.0

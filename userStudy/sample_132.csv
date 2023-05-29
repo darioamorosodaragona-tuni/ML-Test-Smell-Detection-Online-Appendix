@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-48251,38.0_carbon-apimgt,org.wso2.carbon.apimgt.rest.api.admin.throttling.mappings.applicationthrottlepolicymappingutiltest.fromapplicationthrottlepolicydtotomodeltest,0.0,0.0,0.0,0.0
-28271,4.0_hdoop,org.apache.hadoop.mapred.testtask.teststatusupdatedoesnotexitinubermode,1.0,0.0,0.0,0.0

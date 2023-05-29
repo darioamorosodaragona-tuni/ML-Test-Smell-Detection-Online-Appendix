@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-34331,30.0_joda-time,org.joda.time.testyears.testconstants,0.0,0.0,0.0,0.0
-40671,45.0_hbase,org.apache.hadoop.hbase.master.assignment.testassignmentmanager.testassignwithgoodexec,0.0,0.0,0.0,0.0
-17866,21.0_incubator-dubbo,org.apache.dubbo.rpc.cluster.router.script.scriptroutertest.testroutereturnall,0.0,0.0,0.0,0.0
-7508,27.0_querydsl,com.querydsl.collections.collqueryfunctionstest.coalesce,0.0,0.0,0.0,0.0

@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-34624,30.0_joda-time,org.joda.time.chrono.testcopticchronology.testepoch,0.0,0.0,0.0,0.0
-48240,38.0_carbon-apimgt,org.wso2.carbon.apimgt.rest.api.admin.throttling.impl.policiesapiserviceimpltest.policiesthrottlingsubscriptionposttest,0.0,0.0,0.0,0.0
-50463,5.0_jfreechart,org.jfree.data.time.timetablexydatasettest.testgettimeperiod,0.0,0.0,0.0,0.0
-35570,30.0_joda-time,org.joda.time.format.testdatetimeformat.testformatparse_zoneid_nocolon,0.0,0.0,0.0,0.0

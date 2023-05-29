@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-31038,4.0_hdoop,org.apache.hadoop.service.testcompositeservice.testservicestartup,1.0,0.0,0.0,0.0
-41006,45.0_hbase,org.apache.hadoop.hbase.quotas.policies.testnoinsertsviolationpolicyenforcement.testcheckappend,0.0,0.0,0.0,0.0

@@ -1,0 +1,17 @@
+8730,11,wildfly,FSTree,org.jboss.as.jdr.fstreetest.testtree,False,False
+8727,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createserversocket,False,False
+8728,11,wildfly,MdbValidationsUtil,org.jboss.as.ejb3.util.mdbvalidationsutiltest.mdbwithstaticonmessagemethod,True,True
+8735,11,wildfly,ServletSecurityRoleNamesCommon,org.jboss.as.test.integration.web.security.servlet3.servletsecurityrolenamescommon.testpasswordbasedunsuccessfulauthnonexistentuser,False,False
+8738,11,wildfly,WarMetaDataProcessor,org.wildfly.extension.undertow.deployment.warmetadataprocessortest.test1,False,False
+8724,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.closeserversocket,False,False
+8739,11,wildfly,WarMetaDataProcessor,org.wildfly.extension.undertow.deployment.warmetadataprocessortest.test6,False,False
+8729,11,wildfly,Hibernate51CompatibilityTransformer,org.jboss.as.hibernate.test.hibernate51compatibilitytransformertest.rewriteprocedureparameternamedbindertype,False,False
+8736,11,wildfly,WeldClassFileServices,org.jboss.as.weld.discovery.weldclassfileservicestest.testisassignablefromobject,False,False
+8723,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.closedatagramsocket,False,False
+8725,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createdatagramsocket,False,False
+8734,11,wildfly,ServletSecurityRoleNamesCommon,org.jboss.as.test.integration.web.security.servlet3.servletsecurityrolenamescommon.testpasswordbasedsuccessfulauth,False,False
+8731,11,wildfly,CustomAuditProviderModule,org.jboss.as.test.integration.security.auditing.customauditprovidermoduletest.testbaduser1,True,False
+8737,11,wildfly,WeldClassFileServices,org.jboss.as.weld.discovery.weldclassfileservicestest.testtoplevelclass,False,False
+8726,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createmulticastsocket,False,False
+8733,11,wildfly,WebSecurityPasswordBasedBase,org.jboss.as.test.integration.security.websecuritypasswordbasedbase.testpasswordbasedsuccessfulauth,False,False
+8732,11,wildfly,CustomAuditProviderModule,org.jboss.as.test.integration.security.auditing.customauditprovidermoduletest.testgooduser1,True,False

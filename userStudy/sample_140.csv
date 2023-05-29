@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-36356,33.0_alien4cloud,alien4cloud.utils.version.versiontest.testequalsnullsafe,0.0,0.0,0.0,0.0
-3525,18.0_admiral,com.vmware.admiral.auth.idm.local.localprincipalservicetest.testdeleteprincipalshoulddeleteuserstate,0.0,1.0,1.0,0.0

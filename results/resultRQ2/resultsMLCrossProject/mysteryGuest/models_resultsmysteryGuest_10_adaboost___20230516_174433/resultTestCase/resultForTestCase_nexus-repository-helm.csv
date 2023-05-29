@@ -1,0 +1,4 @@
+5928,2,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.donotmodifyurlswhenalreadyrelative,False,False
+5929,2,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.ensurenoexclamationmarksinyaml,False,False
+5930,2,nexus-repository-helm,HelmPathUtils,org.sonatype.repository.helm.internal.util.helmpathutilstest.filename,False,False
+5931,2,nexus-repository-helm,TgzParser,org.sonatype.repository.helm.internal.util.tgzparsertest.getyamlfromtgztest,True,False

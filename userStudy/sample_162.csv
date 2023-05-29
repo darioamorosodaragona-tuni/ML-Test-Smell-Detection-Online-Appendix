@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-25417,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.testresourcetrackerservice.testsetrmidentifierinregistration,0.0,0.0,0.0,0.0
-29777,4.0_hdoop,org.apache.hadoop.util.testdiskchecker.testmkdirs_direxists_badumask,0.0,0.0,0.0,0.0

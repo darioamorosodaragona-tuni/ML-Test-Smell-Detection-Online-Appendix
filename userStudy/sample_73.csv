@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4162,18.0_admiral,com.vmware.admiral.request.servicedocumentdeletetaskservicetest.testdeleteeventswhennoneareavailable,0.0,1.0,1.0,0.0
-1676,29.0_c2mon,cern.c2mon.server.cache.dbaccess.subequipmentmappertest.testselectsubequipmentsbyequipment,0.0,0.0,0.0,0.0
-19830,4.0_hdoop,org.apache.hadoop.hdfs.testblockstoragepolicy.teststoragetype,0.0,0.0,0.0,0.0
-723,25.0_marine-api,net.sf.marineapi.nmea.util.datetest.testgetyear,0.0,0.0,0.0,0.0

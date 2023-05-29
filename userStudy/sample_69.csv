@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-7997,27.0_querydsl,com.querydsl.sql.selectbase.preexecute,0.0,1.0,0.0,0.0
-49817,5.0_jfreechart,org.jfree.data.xy.tablexydatasettest.testtablexydataset,1.0,0.0,0.0,0.0
-21796,4.0_hdoop,org.apache.hadoop.tools.testfilebasedcopylisting.testmultifiletargetpresent,0.0,1.0,0.0,0.0
-9058,27.0_querydsl,com.querydsl.core.booleanbuildertest.tostring_,0.0,0.0,0.0,0.0

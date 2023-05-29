@@ -2134,7 +2134,7 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedu
 50,hadoop,FSSchedulerNode,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfsschedulernode.testpreemptiontocompletedapp,0.0,0.0,False,False
 50,hadoop,FSSchedulerNode,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfsschedulernode.testsimplepreemption,0.0,0.0,False,False
 50,hadoop,QueueManager,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testcheckqueuenodename,0.0,0.0,False,False
-50,hadoop,QueueManager,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testcreateleafqueue,0.0,0.0,False,
+50,hadoop,QueueManager,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testcreateleafqueue,0.0,0.0,False,False
 50,hadoop,QueueManager,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testnonemptystaticqueuebecomingdynamicqueue,0.0,0.0,False,False
 50,hadoop,QueueManager,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testremovalofdynamicparentqueue,0.0,0.0,False,False
 50,hadoop,QueuePlacementPolicy,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueueplacementpolicy.testnesteduserqueuedefaultrule,0.0,0.0,False,False
@@ -2154,7 +2154,7 @@ idProject,nameProject,productionClass,testCase,PR,SR,isTestRedundancy,isTestRedu
 50,hadoop,AbstractYarnScheduler,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testabstractyarnscheduler.testnodemanagerreconnect,0.0,0.0,False,False
 50,hadoop,ClusterNodeTracker,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testclusternodetracker.testgetnodesforresourcename,0.0,0.0,False,False
 50,hadoop,QueueMetrics,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.checkaggregatednodetypes,0.0,0.0,False,False
-50,hadoop,QueueMetrics,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.testcollectallmetrics,0.0,0.0,False,
+50,hadoop,QueueMetrics,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.testcollectallmetrics,0.0,0.0,False,False
 50,hadoop,QueueMetrics,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.testnodetypemetrics,0.0,0.0,False,False
 50,hadoop,SchedulerApplicationAttempt,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testschedulerapplicationattempt.testactiveuserswhenmove,0.0,0.0,False,False
 50,hadoop,SchedulerApplicationAttempt,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testschedulerapplicationattempt.testapppercentages,0.0,0.0,False,False

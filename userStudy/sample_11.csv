@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-10686,66.0_sawmill,io.logz.sawmill.executionstepsparsertest.testparseonsuccessexecutionstep,1.0,0.0,0.0,0.0
-51140,37.0_jimfs,com.google.common.jimfs.filesystemstatetest.testclose_multipletimesdonothing,0.0,0.0,0.0,0.0
-36315,33.0_alien4cloud,alien4cloud.utils.jsonmapentryarrayserializertest.serializationwithmapcontextshouldserializetoarray,0.0,0.0,0.0,0.0
-48577,5.0_jfreechart,org.jfree.chart.plot.categoryplottest.testserialization,1.0,0.0,0.0,0.0

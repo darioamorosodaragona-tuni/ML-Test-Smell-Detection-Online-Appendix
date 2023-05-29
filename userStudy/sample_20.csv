@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-23468,4.0_hdoop,org.apache.hadoop.yarn.conf.testhautil.testgetconfkeyforrminstance,0.0,0.0,0.0,0.0
-43251,17.0_fastjson,com.alibaba.json.bvt.bug.issue887.test_for_issue,1.0,0.0,0.0,0.0
-15707,7.0_dnsjava,org.xbill.dns.utils.base64test.test_tostring_basic5,0.0,0.0,0.0,0.0
-18641,58.0_esper,com.espertech.esper.common.internal.epl.expression.ops.testexprlikenode.testvalidate,1.0,0.0,0.0,0.0

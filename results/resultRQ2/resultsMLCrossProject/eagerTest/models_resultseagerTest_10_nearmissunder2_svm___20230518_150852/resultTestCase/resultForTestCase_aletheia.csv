@@ -1,0 +1,7 @@
+9632,8,aletheia,AletheiaStreams,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.whennostreamcreatedshouldthrow,True,True
+9627,8,aletheia,AletheiaConfig,com.outbrain.aletheia.configuration.aletheiaconfigtest.testendpointdefaultconfig,False,True
+9628,8,aletheia,AletheiaConfig,com.outbrain.aletheia.configuration.aletheiaconfigtest.testroutingconfigreading,False,True
+9629,8,aletheia,PropertyUtils,com.outbrain.aletheia.configuration.propertyutilstest.test_whenoverridingpropertieswithkeepall_oldvaluesgetoverriddennewonesarecopied,False,True
+9630,8,aletheia,AletheiaStreams,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.ondeserialize,False,True
+9631,8,aletheia,AletheiaStreams,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.whenbootstrapserversconfiguredshouldtakeprecedence,True,True
+9626,8,aletheia,BreadcrumbDispatcher,com.outbrain.aletheia.breadcrumbs.breadcrumbdispatchertest.whenbucketcollisionthenrejectolddata,True,True

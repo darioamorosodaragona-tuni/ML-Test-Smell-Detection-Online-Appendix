@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-13224,15.0_wro4j,ro.isdc.wro.model.resource.processor.testcssvariablesprocessor.shouldsupportcorrectresourcetypes,0.0,0.0,0.0,0.0
-16070,72.0_java-websocket,org.java_websocket.autobahn.autobahnserverresults.test7_9_1,1.0,1.0,0.0,0.0
-4557,18.0_admiral,com.vmware.admiral.adapter.pks.pkscontexttest.testnulluri,0.0,0.0,0.0,0.0
-16511,21.0_incubator-dubbo,org.apache.dubbo.common.extension.extensionloadertest.test_addextension_noextend,0.0,1.0,1.0,0.0

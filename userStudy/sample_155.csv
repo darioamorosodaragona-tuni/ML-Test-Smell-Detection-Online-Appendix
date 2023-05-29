@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-14859,41.0_elastic-job-lite,io.elasticjob.lite.executor.handler.impl.defaultjobexceptionhandlertest.asserthandleexception,0.0,0.0,0.0,0.0
-47674,53.0_retrofit,retrofit2.requestfactorytest.multipartpartmapmustbemap,0.0,0.0,0.0,0.0

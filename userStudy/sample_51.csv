@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-42327,10.0_helios,com.spotify.helios.cli.command.jobcreatecommandtest.testjobcreatecommandfailswithinvalidfilepath,0.0,0.0,0.0,0.0
-15817,72.0_java-websocket,org.java_websocket.framing.continuousframetest.testisvalid,0.0,0.0,0.0,0.0
-50932,43.0_timely,timely.test.integration.twowaysslit.testbasicauthlogin,0.0,0.0,0.0,0.0
-35139,30.0_joda-time,org.joda.time.field.testbasedatetimefield.test_getasshorttext_rp_locale,0.0,0.0,0.0,0.0

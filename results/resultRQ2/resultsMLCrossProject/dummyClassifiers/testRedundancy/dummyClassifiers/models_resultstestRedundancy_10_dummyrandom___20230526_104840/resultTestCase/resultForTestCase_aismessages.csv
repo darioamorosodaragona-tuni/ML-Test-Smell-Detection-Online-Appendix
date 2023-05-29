@@ -1,0 +1,12 @@
+9488,10,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant2,False,False
+9491,10,aismessages,ShipAndVoyageData,dk.tbsalling.aismessages.ais.messages.shipandvoyagedatatest.digest,False,False
+9494,10,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canhandleunfragmentedmessagereceived,False,True
+9493,10,aismessages,NMEAMessageHandler,dk.tbsalling.aismessages.nmea.nmeamessagehandlertest.canflushempty,False,True
+9483,10,aismessages,AidToNavigationReport,dk.tbsalling.aismessages.ais.messages.aidtonavigationreporttest.testdatafields,False,True
+9490,10,aismessages,PositionReportClassAScheduled,dk.tbsalling.aismessages.ais.messages.positionreportclassascheduledtest.candecodecommunicationstate,False,True
+9492,10,aismessages,StandardClassBCSPositionReport,dk.tbsalling.aismessages.ais.messages.standardclassbcspositionreporttest.candecode1,False,True
+9486,10,aismessages,BinaryBroadcastMessage,dk.tbsalling.aismessages.ais.messages.binarybroadcastmessagetest.candecodedac200fi10inlandshipstaticandvoyagerelateddata1,False,False
+9485,10,aismessages,BaseStationReport,dk.tbsalling.aismessages.ais.messages.basestationreporttest.candecode,False,False
+9487,10,aismessages,DataLinkManagement,dk.tbsalling.aismessages.ais.messages.datalinkmanagementtest.candecodeshortvariant1,False,False
+9489,10,aismessages,PositionReportClassAAssignedSchedule,dk.tbsalling.aismessages.ais.messages.positionreportclassaassignedscheduletest.candecode,False,False
+9484,10,aismessages,AISMessage,dk.tbsalling.aismessages.ais.messages.aismessagetest.isserializable,False,True

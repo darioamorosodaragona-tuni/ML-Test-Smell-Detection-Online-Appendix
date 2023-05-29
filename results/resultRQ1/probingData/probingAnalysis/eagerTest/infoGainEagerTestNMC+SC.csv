@@ -1,0 +1,62 @@
+Project,NMC,SC
+hbase,0.033338,0.619163
+http-request,0.0,0.0
+achilles,0.103941,0.494918
+wikidata-toolkit,0.001113,0.325083
+fluent-logger-java,0.0,0.0
+jhipster-registry,0.052686, 0.59827
+dnsjava,0.040624,0.689552
+helios,0.070825,0.450561
+retrofit,0.023464,0.692939
+wro4j,0.0,0.0
+aismessages,0.0,0.0
+struts,0.004815,0.163024
+marine-api,0.005657,0.106566
+alien4cloud,0.098835,0.266384
+cukes,0.0,0.0
+c2mon,0.012421,0.365023
+timely,0.0,0.682908
+webcollector,0.0,0.0
+fastjson,0.000145,0.464644
+oci-java-sdk, 0.10053,0.646091
+tyrus,0.0,0.0
+aletheia,0.0,0.0
+querydsl,0.002732,0.211804
+riptide,0.014679,0.410116
+spring-ws,0.012887,0.664832
+admiral,0.016676,0.380182
+junit-quickcheck,0.0,0.576334
+vertx-completable-future,0.0,0.0
+spring-cloud-zuul-ratelimit,0.088782,0.682908
+esper,0.016774,0.672952
+vertexium,0.075655,0.548874
+joda-time, 0.04128,0.118299
+vertx-mqtt,0.0,0.0
+spring-boot,0.050534,0.500402
+recast4j,0.0,0.0
+sawmill,0.131046,0.516754
+orbit,0.0,0.500402
+luwak,0.0,0.0
+jfreechart,0.002659,0.671537
+dropwizard,0.002536,0.282373
+rxjava2-extras,0.034808,0.432226
+openpojo,0.004937,0.178845
+pippo, 0.00234,0.146145
+nexus-repository-helm,0.0,0.0
+hsac-fitnesse-fixtures,0.007745,0.158411
+incubator-dubbo,0.008324,0.254337
+elastic-job-lite,0.004621,0.325083
+activiti,0.062401,0.693147
+wildfly,0.0,0.0
+carbon-apimgt,0.040635,0.410116
+db-scheduler,0.215762,0.562335
+noxy,0.0,0.636514
+hadoop,0.021127,0.606758
+undertow,0.0,0.693147
+hutool,0.008538,0.642122
+search-highlighter,0.032109,0.684616
+unix4j,0.067412,0.336496
+jimfs, 0.04404,0.132691
+yawp,0.0,0.0
+java-websocket,0.283048, 0.37677
+total,0.03071,0.34288

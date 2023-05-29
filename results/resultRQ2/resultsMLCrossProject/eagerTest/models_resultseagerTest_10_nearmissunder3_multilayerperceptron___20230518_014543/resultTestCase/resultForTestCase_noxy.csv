@@ -1,0 +1,6 @@
+1888,33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithnoaddresses,False,True
+1890,33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithoneipv6addresses,False,True
+1886,33,noxy,FixedDiscoveryService,com.spinn3r.noxy.discovery.fixed.init.fixeddiscoveryservicetest.testinit,False,True
+1891,33,noxy,ReverseProxyService,com.spinn3r.noxy.reverse.reverseproxyservicetest.testbasicrequests,True,True
+1887,33,noxy,DefaultProxyAuthenticator,com.spinn3r.noxy.forward.authenticator.defaultproxyauthenticatortest.testauthenticatewithnullpassword,False,False
+1889,33,noxy,IPV6ProxyHostResolver,com.spinn3r.noxy.resolver.ipv6proxyhostresolvertest.testfilterwithoneipv4addresses,False,True

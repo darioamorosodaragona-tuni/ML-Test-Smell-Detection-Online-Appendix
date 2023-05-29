@@ -1,0 +1,17 @@
+9498,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createmulticastsocket,False,False
+9508,11,wildfly,WeldClassFileServices,org.jboss.as.weld.discovery.weldclassfileservicestest.testisassignablefromobject,False,True
+9503,11,wildfly,CustomAuditProviderModule,org.jboss.as.test.integration.security.auditing.customauditprovidermoduletest.testbaduser1,False,True
+9510,11,wildfly,WarMetaDataProcessor,org.wildfly.extension.undertow.deployment.warmetadataprocessortest.test1,False,True
+9502,11,wildfly,FSTree,org.jboss.as.jdr.fstreetest.testtree,True,True
+9504,11,wildfly,CustomAuditProviderModule,org.jboss.as.test.integration.security.auditing.customauditprovidermoduletest.testgooduser1,False,True
+9509,11,wildfly,WeldClassFileServices,org.jboss.as.weld.discovery.weldclassfileservicestest.testtoplevelclass,False,True
+9507,11,wildfly,ServletSecurityRoleNamesCommon,org.jboss.as.test.integration.web.security.servlet3.servletsecurityrolenamescommon.testpasswordbasedunsuccessfulauthnonexistentuser,True,True
+9511,11,wildfly,WarMetaDataProcessor,org.wildfly.extension.undertow.deployment.warmetadataprocessortest.test6,False,True
+9496,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.closeserversocket,False,True
+9501,11,wildfly,Hibernate51CompatibilityTransformer,org.jboss.as.hibernate.test.hibernate51compatibilitytransformertest.rewriteprocedureparameternamedbindertype,False,True
+9506,11,wildfly,ServletSecurityRoleNamesCommon,org.jboss.as.test.integration.web.security.servlet3.servletsecurityrolenamescommon.testpasswordbasedsuccessfulauth,True,True
+9499,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createserversocket,False,False
+9500,11,wildfly,MdbValidationsUtil,org.jboss.as.ejb3.util.mdbvalidationsutiltest.mdbwithstaticonmessagemethod,False,True
+9505,11,wildfly,WebSecurityPasswordBasedBase,org.jboss.as.test.integration.security.websecuritypasswordbasedbase.testpasswordbasedsuccessfulauth,False,True
+9497,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.createdatagramsocket,False,False
+9495,11,wildfly,ManagedSocketFactory,org.jboss.as.clustering.jgroups.managedsocketfactorytest.closedatagramsocket,False,True

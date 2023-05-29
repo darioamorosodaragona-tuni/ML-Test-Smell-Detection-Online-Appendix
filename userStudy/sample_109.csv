@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-13503,15.0_wro4j,ro.isdc.wro.model.resource.locator.wildcard.testdefaultwildcardstreamlocator.testwildcardpresent3,0.0,0.0,0.0,0.0
-18436,58.0_esper,com.espertech.esper.common.internal.view.prior.testprioreventbuffersingle.assertevents3and4,0.0,0.0,0.0,0.0
-31066,4.0_hdoop,org.apache.hadoop.service.testcompositeservice.testaddstoppedchildinstart,0.0,0.0,0.0,0.0
-16318,21.0_incubator-dubbo,org.apache.dubbo.config.moduleconfigtest.testversion,0.0,0.0,0.0,0.0

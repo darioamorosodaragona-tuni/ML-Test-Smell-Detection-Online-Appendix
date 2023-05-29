@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-4346,18.0_admiral,com.vmware.admiral.request.requestbrokergraphservicetest.testrequestlifecycle,1.0,1.0,1.0,0.0
-15053,41.0_elastic-job-lite,io.elasticjob.lite.internal.schedule.litejobfacadetest.assertisneedsharding,0.0,0.0,0.0,0.0

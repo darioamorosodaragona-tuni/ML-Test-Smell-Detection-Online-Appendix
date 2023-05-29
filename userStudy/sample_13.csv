@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-12290,15.0_wro4j,ro.isdc.wro.maven.plugin.testjshintmojo.shouldreportonlyfirsterrorwhenfailfastistrue,0.0,0.0,0.0,0.0
-6621,49.0_dropwizard,io.dropwizard.servlets.tasks.taskservlettest.passespostbodyalongtopostbodytasks,0.0,0.0,0.0,0.0
-47915,22.0_http-request,com.github.kevinsawicki.http.httprequesttest.malformedintheader,0.0,0.0,0.0,0.0
-27275,4.0_hdoop,org.apache.hadoop.yarn.client.cli.testlogscli.testfetchapplictionlogshar,0.0,1.0,0.0,0.0

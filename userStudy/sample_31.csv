@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-6079,49.0_dropwizard,io.dropwizard.jetty.contextroutinghandlertest.routestothebestprefixmatch,0.0,0.0,0.0,0.0
-20067,4.0_hdoop,org.apache.hadoop.hdfs.client.impl.testblockreaderfactory.testmultiplewaitersonshortcircuitcache,1.0,0.0,0.0,0.0
-706,25.0_marine-api,net.sf.marineapi.nmea.parser.sentenceparsertest.testsetfieldcounthigherbyone,0.0,0.0,0.0,0.0
-41833,14.0_aletheia,com.outbrain.aletheia.kafka.streams.aletheiastreamstest.whennostreamcreatedshouldthrow,0.0,0.0,0.0,0.0

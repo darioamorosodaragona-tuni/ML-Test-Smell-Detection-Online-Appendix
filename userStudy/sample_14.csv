@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-7950,27.0_querydsl,com.querydsl.sql.selectbase.serialization2,0.0,1.0,0.0,0.0
-11594,15.0_wro4j,ro.isdc.wro.http.testconfigurablewrofilter.cannotacceptinvalidprocessornameconfiguration,0.0,0.0,0.0,0.0
-24285,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.containermanager.logaggregation.testlogaggregationservice.testlogaggregationabsentcontainer,1.0,0.0,0.0,0.0
-48915,5.0_jfreechart,org.jfree.chart.annotations.xyshapeannotationtest.testequals,1.0,0.0,0.0,0.0

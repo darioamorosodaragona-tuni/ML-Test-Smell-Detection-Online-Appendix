@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-8424,27.0_querydsl,com.querydsl.lucene4.lucenequerytest.list_sorted_ascending_by_year_offset_2,0.0,0.0,0.0,0.0
-34704,30.0_joda-time,org.joda.time.convert.testnullconverter.testtostring,0.0,0.0,0.0,0.0
-40073,45.0_hbase,org.apache.hadoop.hbase.quotas.testfilesystemutilizationchore.testnoonlineregions,1.0,0.0,0.0,0.0
-29640,4.0_hdoop,org.apache.hadoop.util.testfilebasediplist.testsubnetsandips,0.0,0.0,0.0,0.0

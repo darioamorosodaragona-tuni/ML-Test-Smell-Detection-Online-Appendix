@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-34614,30.0_joda-time,org.joda.time.chrono.testcopticchronology.testfactoryutc,0.0,0.0,0.0,0.0
-24477,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.containermanager.linux.resources.testnetworkpackettagginghandlerimpl.testlifecycle,1.0,0.0,0.0,0.0

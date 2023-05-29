@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-39401,45.0_hbase,org.apache.hadoop.hbase.regionserver.testhregion.testget_empty,1.0,1.0,1.0,0.0
-864,25.0_marine-api,net.sf.marineapi.ais.parser.aispositionreportbparsertest.gettimestamp,0.0,0.0,0.0,0.0
-37214,45.0_hbase,org.apache.hadoop.hbase.testhtabledescriptor.testaddduplicatefamilies,1.0,0.0,0.0,0.0
-44426,17.0_fastjson,com.alibaba.json.bvt.path.jsonpath_field_access_filter_like.test_list_like_right_match,1.0,0.0,0.0,0.0

@@ -1,0 +1,9 @@
+,idProject,nameProject,productionClass,testCase,SimilaritiesCoefficient,probabilityEagerTest,isEagerTest,isEagerTestManual,prediction
+0,43.0,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.get_scheduled_by_task_name,0.3413914266046901,0.6586085733953099,True,True,True
+1,43.0,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.reschedule_should_move_execution_in_time,0.6290518125578062,0.3709481874421938,False,True,True
+4,43.0,db-scheduler,Scheduler,com.github.kagkarlsson.scheduler.schedulertest.scheduler_should_execute_task_when_exactly_due,0.623111826394183,0.3768881736058169,False,True,True
+6,43.0,db-scheduler,Daily,com.github.kagkarlsson.scheduler.task.dailytest.should_generate_next_date_correctly,0.2922753373865982,0.7077246626134017,True,False,True
+2,43.0,db-scheduler,JdbcTaskRepository,com.github.kagkarlsson.scheduler.jdbctaskrepositorytest.should_not_be_able_to_pick_execution_that_has_been_rescheduled,0.6407164219392418,0.3592835780607581,False,True,True
+3,43.0,db-scheduler,ScheduledExecution,com.github.kagkarlsson.scheduler.scheduledexecutiontest.test_equals,0.2719483596380718,0.7280516403619282,True,False,True
+5,43.0,db-scheduler,Scheduler,com.github.kagkarlsson.scheduler.schedulertest.scheduler_should_not_execute_canceled_tasks,0.6102913159016229,0.3897086840983771,False,True,False
+7,43.0,db-scheduler,Waiter,com.github.kagkarlsson.scheduler.waitertest.should_wait_until_woken,0.4141783700258767,0.5858216299741232,False,True,True

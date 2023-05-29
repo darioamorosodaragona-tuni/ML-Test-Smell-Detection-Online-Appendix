@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-7610,27.0_querydsl,com.querydsl.sql.sqlcloselistenertest.iterate,1.0,1.0,0.0,0.0
-43716,17.0_fastjson,com.alibaba.json.bvt.issue_1600.issue1644.test_for_issue,0.0,0.0,0.0,0.0
-39768,45.0_hbase,org.apache.hadoop.hbase.security.access.testcoprocessorwhitelistmasterobserver.testdifferentfilesystemnonwhitelisted,0.0,0.0,0.0,0.0
-45705,71.0_spring-ws,org.springframework.ws.wsdl.wsdl11.provider.suffixbasedmessagesprovidertest.testaddmessages,1.0,1.0,0.0,0.0

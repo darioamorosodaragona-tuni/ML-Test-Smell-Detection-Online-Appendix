@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-50554,5.0_jfreechart,org.jfree.data.time.quartertest.testgetfirstmillisecond,1.0,0.0,0.0,0.0
-44950,12.0_openpojo,com.openpojo.random.impl.urirandomgeneratortest.willthrowexceptionwhenhostprefixmalformed,0.0,0.0,0.0,0.0
-34361,30.0_joda-time,org.joda.time.testbasesinglefieldperiod.testfieldtypeindexmethods,0.0,0.0,0.0,0.0
-14284,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.datatypeidimpltest.testiriforstring,0.0,0.0,0.0,0.0

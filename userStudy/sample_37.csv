@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-23029,4.0_hdoop,org.apache.hadoop.yarn.nodelabels.testfilesystemnodelabelsstore.testrecoverwithdistributednodelabels,0.0,0.0,0.0,0.0
-6543,49.0_dropwizard,io.dropwizard.request.logging.layout.logbackaccessrequestlayouttest.outputpatternasheaderisfalse,0.0,0.0,0.0,0.0
-14382,11.0_wikidata-toolkit,org.wikidata.wdtk.datamodel.implementation.globecoordinatesvalueimpltest.getglobeitemid,0.0,0.0,0.0,0.0
-20123,4.0_hdoop,org.apache.hadoop.hdfs.client.impl.testblockreaderlocal.testblockreaderlocalonfilewithoutchecksumnoreadahead,0.0,1.0,1.0,0.0

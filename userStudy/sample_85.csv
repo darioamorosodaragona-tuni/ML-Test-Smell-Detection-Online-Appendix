@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-22674,4.0_hdoop,org.apache.hadoop.hdfs.server.namenode.snapshot.testsnapshot.testofflineimageviewer,0.0,1.0,1.0,0.0
-23320,4.0_hdoop,org.apache.hadoop.yarn.client.api.impl.testnmclient.testnmclient,0.0,0.0,0.0,0.0
-17968,21.0_incubator-dubbo,org.apache.dubbo.rpc.cluster.support.wrapper.mockclusterinvokertest.testmockinvokerfromoverride_invoke_check_int,0.0,1.0,1.0,0.0
-34076,30.0_joda-time,org.joda.time.testweeks.testgetmethods,0.0,0.0,0.0,0.0

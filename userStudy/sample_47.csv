@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-39086,45.0_hbase,org.apache.hadoop.hbase.regionserver.testdatablockencodingtool.testhfileallcellswithtags,0.0,0.0,0.0,0.0
-16801,21.0_incubator-dubbo,org.apache.dubbo.container.spring.springcontainertest.testcontainer,0.0,0.0,0.0,0.0
-35462,30.0_joda-time,org.joda.time.format.testdatetimeformatter.testparseinto_monthday_withdefaultyear_feb29,0.0,0.0,0.0,0.0
-41281,45.0_hbase,org.apache.hadoop.hbase.monitoring.testmemoryboundedlogmessagebuffer.testnonasciiencoding,1.0,0.0,0.0,0.0

@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-9111,27.0_querydsl,com.querydsl.core.util.arrayutilstest.test,0.0,0.0,0.0,0.0
-29834,4.0_hdoop,org.apache.hadoop.util.testcrccomposer.testupdatebytearraylengthunalignedwithcrcsize,0.0,0.0,0.0,0.0
-21017,4.0_hdoop,org.apache.hadoop.hdfs.server.federation.router.testconnectionmanager.testvalidclientindex,1.0,0.0,0.0,0.0
-26261,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfairschedulerconfiguration.testparseresourceconfigvalue,1.0,0.0,0.0,0.0

@@ -1,0 +1,5 @@
+Type,nameProject,ModelBalance,tp,fp,tn,fn,precision,recall,accuracy,inspection_rate,f1_score,mcc,auc_pr
+detector,hadoop,teredetect_wthin,0,24,2325,23,0.0,0.0,0.980185497470489,,0.0,-0.010004122112589,
+detector,hbase,teredetect_wthin,0,7,715,4,0.0,0.0,0.9848484848484848,,0.0,-0.0073442249681188,
+detector,struts,teredetect_wthin,0,0,96,9,0.0,0.0,0.9142857142857144,,0.0,0.0,
+detector,total,teredetect_wthin,0,31,3136,36,0.0,0.0,0.9790821105213862,,0.0,-0.010540021003003667,

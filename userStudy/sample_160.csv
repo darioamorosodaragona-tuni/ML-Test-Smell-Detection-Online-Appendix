@@ -1,3 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-27030,4.0_hdoop,org.apache.hadoop.registry.operations.testregistryoperations.teststatrootpath,0.0,1.0,0.0,0.0
-14772,41.0_elastic-job-lite,io.elasticjob.lite.context.taskcontexttest.assertgetexecutorid,0.0,0.0,0.0,0.0

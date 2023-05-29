@@ -1,0 +1,3 @@
+,idProject,nameProject,productionClass,testCase,NRF,isMysteryGuestManual,isMysteryGuestManual,prediction
+0,2.0,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.donotmodifyurlswhenalreadyrelative,0.0,False,False,False
+1,2.0,nexus-repository-helm,IndexYamlAbsoluteUrlRewriter,org.sonatype.repository.helm.internal.metadata.indexyamlabsoluteurlrewritertest.ensurenoexclamationmarksinyaml,0.0,False,False,False

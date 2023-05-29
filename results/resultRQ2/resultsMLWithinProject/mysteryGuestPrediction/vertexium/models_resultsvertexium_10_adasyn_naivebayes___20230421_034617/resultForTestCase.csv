@@ -1,0 +1,10 @@
+,idProject,nameProject,productionClass,testCase,isMysteryGuest,isMysteryGuestManual,prediction
+1,16.0,vertexium,Elasticsearch5SearchIndex,org.vertexium.elasticsearch5.elasticsearch5searchindextest.testdisallowleadingwildcardsinquerystring,False,False,True
+8,16.0,vertexium,SimpleNameSubstitutionStrategy,org.vertexium.id.simplenamesubstitutionstrategytest.testinflatecache,False,False,True
+22,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testaddedgewithvisibility,False,False,True
+32,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testextendeddatadifferentvalue,False,False,True
+41,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testgetedgeswithids,False,False,True
+44,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testgetverticeswithids,False,False,True
+46,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testgraphqueryedgehaswithsecurity,False,False,True
+72,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testsaveelementmutations,False,False,True
+75,16.0,vertexium,GraphBase,org.vertexium.test.graphtestbase.testsoftdeletevertex,False,False,True

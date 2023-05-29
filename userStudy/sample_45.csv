@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-9962,57.0_riptide,org.zalando.riptide.requestertest.shouldexpandtwo,0.0,0.0,0.0,0.0
-24880,4.0_hdoop,org.apache.hadoop.yarn.server.federation.policies.testrouterpolicyfacade.testgethomesubcluster,0.0,0.0,0.0,0.0
-28480,4.0_hdoop,org.apache.hadoop.mapred.testtaskstatus.testreducetaskstatusstartandfinishtimes,1.0,0.0,0.0,0.0
-49387,5.0_jfreechart,org.jfree.chart.renderer.xy.vectorrenderertest.testpubliccloneable,0.0,0.0,0.0,0.0

@@ -1,3 +1,0 @@
-496,4,webcollector,CrawlDatums,cn.edu.hfut.dmic.webcollector.util.crawldatumstest.testaddandreturn,False,False
-498,4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testrocksdbinjector,False,True
-497,4,webcollector,DBManager,cn.edu.hfut.dmic.webcollector.util.dbmanagertest.testinject,False,True

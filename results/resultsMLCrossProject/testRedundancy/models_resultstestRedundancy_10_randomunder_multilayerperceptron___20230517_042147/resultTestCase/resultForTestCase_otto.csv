@@ -1,7 +1,0 @@
-8466,40,otto,EventHandler,com.squareup.otto.eventhandlertest.rejectionofnulltargets,False,True
-8464,40,otto,Bus,com.squareup.otto.bustest.producerunregisterallowsreregistering,False,True
-8462,40,otto,Bus,com.squareup.otto.bustest.missingsubscribe,False,False
-8465,40,otto,EventHandler,com.squareup.otto.eventhandlertest.exceptionwrapping,False,False
-8461,40,otto,Bus,com.squareup.otto.bustest.deadeventposting,False,True
-8463,40,otto,Bus,com.squareup.otto.bustest.polymorphicdistribution,False,True
-8467,40,otto,EventProducer,com.squareup.otto.eventproducertest.returnvaluenotcached,False,False

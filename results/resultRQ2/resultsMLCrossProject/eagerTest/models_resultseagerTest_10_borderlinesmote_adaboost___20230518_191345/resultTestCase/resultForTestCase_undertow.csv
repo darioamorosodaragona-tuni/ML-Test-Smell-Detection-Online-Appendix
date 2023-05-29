@@ -1,0 +1,5 @@
+3330,27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testannotatedclientendpoint,False,True
+3331,27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testclientsideidletimeout,False,False
+3333,27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testtimeoutclosereason,True,False
+3332,27,undertow,AnnotatedEndpoint,io.undertow.websockets.jsr.test.annotated.annotatedendpointtest.testencodinganddecodingbinary,False,True
+3329,27,undertow,WebSocketServlet,io.undertow.servlet.test.websocket.websocketservlettest.testtext,False,False

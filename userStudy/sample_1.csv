@@ -1,5 +1,0 @@
-id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
-35783,30.0_joda-time,org.joda.time.format.testperiodformatterbuilder.testformatprintzerorarelylast,0.0,0.0,0.0,0.0
-45622,71.0_spring-ws,org.springframework.ws.test.client.responsecreatorstest.withsoapenveloperesource,1.0,0.0,0.0,0.0
-42912,17.0_fastjson,com.alibaba.fastjson.parser.jsonscannertest.checktime13,1.0,0.0,0.0,0.0
-10218,1.0_struts,org.apache.struts2.rest.defaulthttpheaderstest.testapply,0.0,0.0,0.0,0.0
