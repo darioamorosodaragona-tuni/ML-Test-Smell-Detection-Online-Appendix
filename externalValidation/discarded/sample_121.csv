@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+25977,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.capacity.testparentqueue.testsinglelevelqueues,1.0,0.0,0.0,0.0,Yes,No,No
+2547,60.0_vertexium,org.vertexium.test.graphtestbase.testgraphqueryhas,1.0,1.0,0.0,0.0,No,No,No
+42912,17.0_fastjson,com.alibaba.fastjson.parser.jsonscannertest.checktime13,1.0,0.0,0.0,0.0,No,No,Yes
+10218,1.0_struts,org.apache.struts2.rest.defaulthttpheaderstest.testapply,0.0,0.0,0.0,0.0,No,No,No

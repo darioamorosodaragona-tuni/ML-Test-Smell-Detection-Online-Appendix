@@ -1,0 +1,13 @@
+#INSTALL
+
+In order to run our analysis, you should install
+
+1)R - https://cran.r-project.org/
+
+2)R Studio tool - https://www.rstudio.com/products/rstudio/download/
+
+3)IntelliJ IDEA or similar - https://www.jetbrains.com/idea/
+
+4)PyCharm or similar - https://www.jetbrains.com/pycharm/
+
+Once downloaded the tool, follow the facilities provide by the operating system and follow the steps suggested by the automatic process of installation.

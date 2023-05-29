@@ -1,0 +1,14 @@
+#REQUIREMENTS
+
+There are not any particular requirements for running our analysis using R and its desktop app R Studio, Java and the IDE.
+
+However, the R Studio download, the PyCharm IDE and the IntelliJ IDEA package are available for these versions of operating systems:
+
+-Windows 10
+-macOS 10.13+
+-Ubuntu 16
+-Ubuntu 18/Debian 10
+-Fedora 19/Red Hat 7
+-Fedora 28/Red Hat 8
+-Debian 9
+-OpenSUSE 15 

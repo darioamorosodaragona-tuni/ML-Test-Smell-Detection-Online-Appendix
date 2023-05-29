@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+35783,30.0_joda-time,org.joda.time.format.testperiodformatterbuilder.testformatprintzerorarelylast,0.0,0.0,0.0,0.0,No,No,No
+45622,71.0_spring-ws,org.springframework.ws.test.client.responsecreatorstest.withsoapenveloperesource,1.0,0.0,0.0,0.0,No,Yes,No
+42912,17.0_fastjson,com.alibaba.fastjson.parser.jsonscannertest.checktime13,1.0,0.0,0.0,0.0,No,Yes,Yes
+10218,1.0_struts,org.apache.struts2.rest.defaulthttpheaderstest.testapply,0.0,0.0,0.0,0.0,No,No,No

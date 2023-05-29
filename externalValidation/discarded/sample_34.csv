@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+34624,30.0_joda-time,org.joda.time.chrono.testcopticchronology.testepoch,0.0,0.0,0.0,0.0,Yes,No,No
+48240,38.0_carbon-apimgt,org.wso2.carbon.apimgt.rest.api.admin.throttling.impl.policiesapiserviceimpltest.policiesthrottlingsubscriptionposttest,0.0,0.0,0.0,0.0,Yes,Yes,No
+50463,5.0_jfreechart,org.jfree.data.time.timetablexydatasettest.testgettimeperiod,0.0,0.0,0.0,0.0,Yes,Yes,Yes
+35570,30.0_joda-time,org.joda.time.format.testdatetimeformat.testformatparse_zoneid_nocolon,0.0,0.0,0.0,0.0,No,No,Yes

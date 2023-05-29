@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+35897,76.0_achilles,info.archinnov.achilles.it.testschemagenerator.should_build_schema_for_entity_with_static_annotations,0.0,1.0,1.0,0.0,Yes,No,No
+10324,1.0_struts,org.apache.struts2.util.tokenhelpertest.testsetsessiontoken,0.0,0.0,0.0,0.0,No,No,No
+6918,49.0_dropwizard,io.dropwizard.logging.fileappenderfactorytest.isimmediateflushed,0.0,0.0,0.0,0.0,No,No,No
+29837,4.0_hdoop,org.apache.hadoop.util.testprotoutil.testrpcclientid,1.0,0.0,0.0,0.0,No,No,No

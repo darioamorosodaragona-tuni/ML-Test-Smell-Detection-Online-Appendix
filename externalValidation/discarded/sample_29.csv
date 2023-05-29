@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+9803,57.0_riptide,org.zalando.riptide.spring.ratiotest.shouldapplyto,0.0,0.0,0.0,0.0,No,No,No
+23306,4.0_hdoop,org.apache.hadoop.yarn.client.api.impl.testyarnclientimpl.testasyncapipolltimeouthelper,1.0,1.0,1.0,0.0,No,No,No
+50231,5.0_jfreechart,org.jfree.data.category.defaultintervalcategorydatasettest.testgetrowindex,0.0,0.0,0.0,0.0,No,No,No
+12374,15.0_wro4j,ro.isdc.wro.maven.plugin.support.testprogressindicator.shouldcomputecorrecttotalresources,0.0,0.0,0.0,0.0,Yes,No,No

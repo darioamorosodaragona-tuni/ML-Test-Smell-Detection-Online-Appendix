@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+21296,4.0_hdoop,org.apache.hadoop.fs.shell.testxattrcommands.testgetfattrvalidations,0.0,0.0,0.0,0.0,No,No,No
+43496,17.0_fastjson,com.alibaba.json.bvt.bug.bug_for_primitive_boolean.test_emptystr,0.0,0.0,0.0,0.0,No,No,No
+41839,56.0_oci-java-sdk,com.oracle.bmc.objectstorage.transfer.multipartobjectassemblertest.resumeupload_nomatchinguploadid,1.0,0.0,0.0,0.0,No,No,No
+21152,4.0_hdoop,org.apache.hadoop.lib.wsrs.testinputstreamentity.test,0.0,0.0,0.0,0.0,No,No,No

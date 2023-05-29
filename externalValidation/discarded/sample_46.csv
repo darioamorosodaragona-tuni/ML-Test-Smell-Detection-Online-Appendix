@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+48910,5.0_jfreechart,org.jfree.chart.annotations.xydrawableannotationtest.testequals,1.0,0.0,0.0,0.0,Yes,No,No
+43600,17.0_fastjson,com.alibaba.json.bvt.bug.issue689.test_0,1.0,0.0,0.0,0.0,No,No,No
+50680,61.0_wildfly,org.jboss.as.test.integration.security.auditing.customauditprovidermoduletest.testgooduser1,0.0,0.0,0.0,0.0,No,Yes,No
+1912,47.0_rxjava2-extras,com.github.davidmoten.rx2.consumerstest.testarraysnotequalthrows,0.0,0.0,0.0,0.0,No,No,No

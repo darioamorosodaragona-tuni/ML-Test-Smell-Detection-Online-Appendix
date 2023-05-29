@@ -35,7 +35,7 @@ recall_list = []
 print("Started: " + start_time.strftime("%d %m %Y H%H:%M:%S"))
 print("Results will be saved to dir: " + out_dir)
 # get dataset
-dataset_dir = "/Users/valeriapontillo/Desktop/ML-Test-Smell-Detection-Online-Appendix/project/entireDatasets/" + params[
+dataset_dir = "/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/entireDatasets/" + params[
     "data"] + ".csv"  # Insert here your path
 
 # df_columns = ["idProject","nameProject","productionClass","testCase","NMC","SimilaritiesCoefficient","probabilityEagerTest",

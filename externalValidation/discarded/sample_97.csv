@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+1774,29.0_c2mon,cern.c2mon.server.client.request.clientrequestmessageconvertertest.testconfigurationreportmessageconversion,0.0,0.0,0.0,0.0,No,Yes,No
+29642,4.0_hdoop,org.apache.hadoop.util.testfilebasediplist.testwithmultiplesubnetandips,0.0,0.0,0.0,0.0,No,No,Yes
+14859,41.0_elastic-job-lite,io.elasticjob.lite.executor.handler.impl.defaultjobexceptionhandlertest.asserthandleexception,0.0,0.0,0.0,0.0,No,No,No
+47674,53.0_retrofit,retrofit2.requestfactorytest.multipartpartmapmustbemap,0.0,0.0,0.0,0.0,No,No,No

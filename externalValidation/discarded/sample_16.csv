@@ -1,0 +1,5 @@
+id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy,ET_ExternalValidation1,MG_ExternalValidation1,RO_ExternalValidation1
+2268,47.0_rxjava2-extras,com.github.davidmoten.rx2.internal.flowable.flowablerepeatingtransformtest.testcompletesfirstlevel,0.0,0.0,0.0,0.0,No,No,No
+22410,4.0_hdoop,org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.testfsdatasetimpl.testloadingdfsusedforvolumes,0.0,0.0,0.0,0.0,No,No,No
+2298,47.0_rxjava2-extras,com.github.davidmoten.rx2.internal.flowable.buffertofile.pagetest.testpagesize,0.0,1.0,0.0,0.0,No,No,No
+23859,4.0_hdoop,org.apache.hadoop.yarn.server.nodemanager.testnmauditlogger.testnmauditloggerwithoutip,0.0,0.0,0.0,0.0,No,No,No
