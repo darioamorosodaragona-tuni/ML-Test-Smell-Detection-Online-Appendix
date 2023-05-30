@@ -1,4 +1,4 @@
-Type,ProjectTest,ModelBalance,tp,fp,tn,fn,precision,recall,accuracy,inspection_rate,f1_score,mcc,auc_pr
+Type,Project,ModelBalance,tp,fp,tn,fn,precision,recall,accuracy,inspection_rate,f1_score,mcc,auc_pr
 cross,wikidata-toolkit.csv,nearmissunder2_adaboost,16.0,141.0,40.0,3.0,0.0979513542013542,0.775,0.278342147574884,0.78008057926728,0.1718357487922705,0.0027893205688166,0.1093729135931148
 cross,marine-api.csv,nearmissunder2_adaboost,2.0,44.0,44.0,1.0,0.045,0.2,0.4683441558441558,0.5387987012987013,0.0733333333333333,0.0191315414153556,0.125
 cross,undertow.csv,nearmissunder2_adaboost,1.0,1.0,3.0,0.0,0.25,0.3,0.2666666666666666,0.0666666666666666,0.2666666666666666,0.05,0.225

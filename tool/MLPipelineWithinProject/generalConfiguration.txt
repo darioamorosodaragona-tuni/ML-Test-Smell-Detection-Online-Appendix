@@ -7,6 +7,7 @@ decisiontree achilles randomover
 decisiontree achilles randomunder
 decisiontree achilles adasyn
 decisiontree achilles borderlinesmote
+decisiontree achilles randomsearch
 decisiontree achilles randomsearch nearmissunder1
 decisiontree achilles randomsearch nearmissunder2
 decisiontree achilles randomsearch nearmissunder3
@@ -24,6 +25,7 @@ naivebayes achilles randomover
 naivebayes achilles randomunder
 naivebayes achilles adasyn
 naivebayes achilles borderlinesmote
+naivebayes achilles randomsearch
 naivebayes achilles randomsearch nearmissunder1
 naivebayes achilles randomsearch nearmissunder2
 naivebayes achilles randomsearch nearmissunder3
@@ -41,6 +43,7 @@ multilayerperceptron achilles randomover
 multilayerperceptron achilles randomunder
 multilayerperceptron achilles adasyn
 multilayerperceptron achilles borderlinesmote
+multilayerperceptron achilles randomsearch
 multilayerperceptron achilles randomsearch nearmissunder1
 multilayerperceptron achilles randomsearch nearmissunder2
 multilayerperceptron achilles randomsearch nearmissunder3
@@ -58,6 +61,7 @@ svm achilles randomover
 svm achilles randomunder
 svm achilles adasyn
 svm achilles borderlinesmote
+svm achilles randomsearch
 svm achilles randomsearch nearmissunder1
 svm achilles randomsearch nearmissunder2
 svm achilles randomsearch nearmissunder3
@@ -75,6 +79,7 @@ adaboost achilles randomover
 adaboost achilles randomunder
 adaboost achilles adasyn
 adaboost achilles borderlinesmote
+adaboost achilles randomsearch
 adaboost achilles randomsearch nearmissunder1
 adaboost achilles randomsearch nearmissunder2
 adaboost achilles randomsearch nearmissunder3
@@ -6253,11 +6258,7 @@ randomforest wro4j randomsearch randomover
 randomforest wro4j randomsearch randomunder
 randomforest wro4j randomsearch adasyn
 randomforest wro4j randomsearch borderlinesmote
-decisiontree achilles randomsearch
-naivebayes achilles randomsearch
-multilayerperceptron achilles randomsearch
-svm achilles randomsearch
-adaboost achilles randomsearch
+
 decisiontree activiti randomsearch
 naivebayes activiti randomsearch
 multilayerperceptron activiti randomsearch
