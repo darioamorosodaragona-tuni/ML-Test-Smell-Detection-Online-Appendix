@@ -35,7 +35,7 @@ recall_list = []
 print("Started: " + start_time.strftime("%d %m %Y H%H:%M:%S"))
 print("Results will be saved to dir: " + out_dir)
 # get dataset
-dataset_dir = "/Users/valeriapontillo/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/eagerTest/" + params[
+dataset_dir = "/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/eagerTest/" + params[
     "data"] + ".csv"  # Insert here your path
 
 #this line is for RQ3    

@@ -173,13 +173,6 @@ print(statistiche)
 #_______________________________Comparison between the various balancing techiniques_________________________
 
 
-eagerTestBalancing <-
-  read.csv("/YourPAth/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/within/allModels/resultEagerTest.csv",
-           header = TRUE,
-           sep = ",",
-           dec = ".",
-           row.names=NULL)
-
 yEagerTest <- matrix(c(
   eagerTestBalancing[eagerTestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc,
   eagerTestBalancing[eagerTestBalancing$ModelBalance == "borderlinesmote_randomforest", ]$mcc,
@@ -188,29 +181,32 @@ yEagerTest <- matrix(c(
   eagerTestBalancing[eagerTestBalancing$ModelBalance == "nearmissunder3_randomforest", ]$mcc,
   eagerTestBalancing[eagerTestBalancing$ModelBalance == "randomover_randomforest", ]$mcc,
   eagerTestBalancing[eagerTestBalancing$ModelBalance == "randomunder_randomforest", ]$mcc,
-  eagerTestBalancing[eagerTestBalancing$ModelBalance == "smoteover_randomforest", ]$mcc),
-  nrow=length(eagerTestBalancing[eagerTestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=8, 
-  dimnames=list(1:length(eagerTestBalancing[eagerTestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyin",
-                                                                                     "borderlinesmote",
-                                                                                     "nearmissunder1",
-                                                                                     "nearmissunder2",
-                                                                                     "nearmissunder3",
-                                                                                     "randomover",
-                                                                                     "randomunder",
-                                                                                     "smoteover")))
+  eagerTestBalancing[eagerTestBalancing$ModelBalance == "smoteover_randomforest", ]$mcc,
+  eagerTestBalancing[eagerTestBalancing$ModelBalance == "randomforest", ]$mcc),
+  nrow=length(eagerTestBalancing[eagerTestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=9, 
+  dimnames=list(1:length(eagerTestBalancing[eagerTestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyin_RF",
+                                                                                     "borderlinesmote_RF",
+                                                                                     "nearmissunder1_RF",
+                                                                                     "nearmissunder2_RF",
+                                                                                     "nearmissunder3_RF",
+                                                                                     "randomover_RF",
+                                                                                     "randomunder_RF",
+                                                                                     "smoteover_RF",
+                                                                                     "Random Forest")))
 
 nemenyi(yEagerTest, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likelihood MCC Eager Test Balancing",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "Likelihood MCC Eager Test Balanc.",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_EagerTest <- subset(eagerTestBalancing, ModelBalance %in% c("adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
+dati_sel_EagerTest <- subset(eagerTestBalancing, ModelBalance %in% c("randomforest","adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
                                                            "nearmissunder2_randomforest", "nearmissunder3_randomforest", "randomover_randomforest",
                                                            "randomunder_randomforest", "smoteover_randomforest"))
 
 # Crea un vettore di colori casuali
-colors <- sample(viridis::viridis_pal()(8), 8)
+colors <- sample(viridis::viridis_pal()(9), 9)
+print(colors)
 
 # Crea il grafico a boxplot con i colori casuali per Eager Test
 ggplot(dati_sel_EagerTest, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) +
@@ -218,6 +214,9 @@ ggplot(dati_sel_EagerTest, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
   labs(
     x = "",
     y = "MCC - Eager Test") +
+  scale_x_discrete(labels = c("Random Forest","adasyn_RF", "borderlinesmote_RF", "nearmissunder1_RF",
+                              "nearmissunder2_RF", "nearmissunder3_RF", "randomover_RF",
+                              "randomunder_RF", "smoteover_RF")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
@@ -238,23 +237,25 @@ yMysteryGuest <- matrix(c(
   mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "nearmissunder3_randomforest", ]$mcc,
   mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "randomover_randomforest", ]$mcc,
   mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "randomunder_randomforest", ]$mcc,
-  mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "smoteover_randomforest", ]$mcc),
-  nrow=length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=8, 
-  dimnames=list(1:length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyin",
-                                                                                                                         "borderlinesmote",
-                                                                                                                         "nearmissunder1",
-                                                                                                                         "nearmissunder2",
-                                                                                                                         "nearmissunder3",
-                                                                                                                         "randomover",
-                                                                                                                         "randomunder",
-                                                                                                                         "smoteover")))
+  mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "smoteover_randomforest", ]$mcc,
+  mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "randomforest", ]$mc),
+  nrow=length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=9, 
+  dimnames=list(1:length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyin_RF",
+                                                                                                                         "borderlinesmote_RF",
+                                                                                                                         "nearmissunder1_RF",
+                                                                                                                         "nearmissunder2_RF",
+                                                                                                                         "nearmissunder3_RF",
+                                                                                                                         "randomover_RF",
+                                                                                                                         "randomunder_RF",
+                                                                                                                         "smoteover_RF",
+                                                                                                                          "Random Forest")))
 
 nemenyi(yMysteryGuest, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likelihood MCC Mystery Guest Balancing",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "Likelihood MCC Mystery Guest Balanc.",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_MysteryGuest <- subset(mysteryGuestBalancing, ModelBalance %in% c("adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
+dati_sel_MysteryGuest <- subset(mysteryGuestBalancing, ModelBalance %in% c("randomforest","adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
                                                                            "nearmissunder2_randomforest", "nearmissunder3_randomforest", "randomover_randomforest",
                                                                            "randomunder_randomforest", "smoteover_randomforest"))
 
@@ -265,6 +266,9 @@ ggplot(dati_sel_MysteryGuest, aes(x = ModelBalance, y = mcc, fill = ModelBalance
   labs(
     x = "",
     y = "MCC - Mystery Guest") +
+  scale_x_discrete(labels = c("Random Forest","adasyn_RF", "borderlinesmote_RF", "nearmissunder1_RF",
+                              "nearmissunder2_RF", "nearmissunder3_RF", "randomover_RF",
+                              "randomunder_RF", "smoteover_RF")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
@@ -286,22 +290,24 @@ yResourceOptimism <- matrix(c(
   resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "nearmissunder3_randomforest", ]$mcc,
   resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "randomover_randomforest", ]$mcc,
   resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "randomunder_randomforest", ]$mcc,
-  resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "smoteover_randomforest", ]$mcc),
-  nrow=length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=8, 
-  dimnames=list(1:length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyin",
-                                                                                                                                 "borderlinesmote",
-                                                                                                                                 "nearmissunder1",
-                                                                                                                                 "nearmissunder2",
-                                                                                                                                 "nearmissunder3",
-                                                                                                                                 "randomover",
-                                                                                                                                 "randomunder",
-                                                                                                                                 "smoteover")))
+  resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "smoteover_randomforest", ]$mcc,
+  resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "randomforest", ]$mcc),
+  nrow=length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=9, 
+  dimnames=list(1:length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyin_RF",
+                                                                                                                                 "borderlinesmote_RF",
+                                                                                                                                 "nearmissunder1_RF",
+                                                                                                                                 "nearmissunder2_RF",
+                                                                                                                                 "nearmissunder3_RF",
+                                                                                                                                 "randomover_RF",
+                                                                                                                                 "randomunder_RF",
+                                                                                                                                 "smoteover_RF",
+                                                                                                                                "Random Forest")))
 
 nemenyi(yResourceOptimism, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likelihood MCC Resource Opt. Balancing",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "Likelihood MCC Resource Opt. Balanc.",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_ResourceOptimism <- subset(resourceOptimismBalancing, ModelBalance %in% c("adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
+dati_sel_ResourceOptimism <- subset(resourceOptimismBalancing, ModelBalance %in% c("randomforest","adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
                                                                            "nearmissunder2_randomforest", "nearmissunder3_randomforest", "randomover_randomforest",
                                                                            "randomunder_randomforest", "smoteover_randomforest"))
 
@@ -312,13 +318,16 @@ ggplot(dati_sel_ResourceOptimism, aes(x = ModelBalance, y = mcc, fill = ModelBal
   labs(
     x = "",
     y = "MCC - Resource Optimism") +
+  scale_x_discrete(labels = c("Random Forest","adasyn_RF", "borderlinesmote_RF", "nearmissunder1_RF",
+                              "nearmissunder2_RF", "nearmissunder3_RF", "randomover_RF",
+                              "randomunder_RF", "smoteover_RF")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
 
 
 testRedundancyBalancing <-
-  read.csv("/YourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/within/allModels/resultTestRedundancy.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/within/allModels/resultTestRedundancy.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -332,23 +341,26 @@ yTestRedundancy <- matrix(c(
   testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "nearmissunder3_naivebayes", ]$mcc,
   testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "randomover_naivebayes", ]$mcc,
   testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "randomunder_naivebayes", ]$mcc,
-  testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "smoteover_naivebayes", ]$mcc),
-  nrow=length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc), ncol=8, 
-  dimnames=list(1:length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc),c("adasyin",
-                                                                                                                              "borderlinesmote",
-                                                                                                                              "nearmissunder1",
-                                                                                                                              "nearmissunder2",
-                                                                                                                              "nearmissunder3",
-                                                                                                                              "randomover",
-                                                                                                                              "randomunder",
-                                                                                                                              "smoteover")))
+  testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "smoteover_naivebayes", ]$mcc,
+  testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "naivebayes", ]$mcc),
+  nrow=length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc), ncol=9, 
+  dimnames=list(1:length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc),c("adasyin_NB",
+                                                                                                                              "borderlinesmote_NB",
+                                                                                                                              "nearmissunder1_NB",
+                                                                                                                              "nearmissunder2_NB",
+                                                                                                                              "nearmissunder3_NB",
+                                                                                                                              "randomover_NB",
+                                                                                                                              "randomunder_NB",
+                                                                                                                              "smoteover_NB",
+                                                                                                                       "Naive Bayes"
+                                                                                                                             )))
 
 nemenyi(yTestRedundancy, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likelihood MCC Test Redundancy Balancing",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "Likelihood MCC Test Red. Balanc.",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_testRedundancy <- subset(testRedundancyBalancing, ModelBalance %in% c("adasyn_naivebayes", "borderlinesmote_naivebayes", "nearmissunder1_naivebayes",
+dati_sel_testRedundancy <- subset(testRedundancyBalancing, ModelBalance %in% c("naivebayes","adasyn_naivebayes", "borderlinesmote_naivebayes", "nearmissunder1_naivebayes",
                                                                                    "nearmissunder2_naivebayes", "nearmissunder3_naivebayes", "randomover_naivebayes",
                                                                                    "randomunder_naivebayes", "smoteover_naivebayes"))
 
@@ -356,10 +368,16 @@ dati_sel_testRedundancy <- subset(testRedundancyBalancing, ModelBalance %in% c("
 # Crea il grafico a boxplot con i colori casuali per Mystery Guest
 ggplot(dati_sel_testRedundancy, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) +
   geom_boxplot() +
+  
   labs(
     x = "",
-    y = "MCC - Test Redundancy") +
+    y = "MCC - Test Redundancy") + 
+  scale_x_discrete(labels = c("Naive Bayes","adasyn_NB", "borderlinesmote_NB", "nearmissunder1_NB",
+                              "nearmissunder2_NB", "nearmissunder3_NB", "randomover_NB",
+                              "randomunder_NB", "smoteover_NB")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
+        
   )
+
 

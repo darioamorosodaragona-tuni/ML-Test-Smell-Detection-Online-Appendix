@@ -15,7 +15,7 @@ options(max.print = 10000)
 
 #this is the Nemenyi test for EagerTest dataset
 eagerTestInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/eagerTestNemenyiTest.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/eagerTestNemenyiTest.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -41,7 +41,7 @@ nemenyi(y, conf.level = 0.95, sort = TRUE,
 
 #this is the Nemenyi test for MysteryGuest dataset
 mysteryGuestInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/mysteryGuestNemenyiTest.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/mysteryGuestNemenyiTest.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -51,11 +51,11 @@ mysteryGuestInitial <-
 selected_models_MG <- subset(mysteryGuestInitial, ModelBalance %in% c("smoteover_randomforest", "nearmissunder1_randomforest", "tsdetect_within", "tsdetect_cross"))
 
 x <- matrix(c(
-  mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "smoteover_randomforest", ]$mcc,
+  mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "randomforest", ]$mcc,
   mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "nearmissunder1_randomforest", ]$mcc,
   mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "tsdetect_cross", ]$mcc),
-  nrow=length(mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "smoteover_randomforest", ]$mcc), ncol=3, 
-  dimnames=list(1:length(mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "smoteover_randomforest", ]$mcc),c("ML_within",
+  nrow=length(mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "randomforest", ]$mcc), ncol=3, 
+  dimnames=list(1:length(mysteryGuestInitial[mysteryGuestInitial$ModelBalance == "randomforest", ]$mcc),c("ML_within",
                                                                                                                "ML_cross",
                                                                                                                "tsdetect"
                        
@@ -67,7 +67,7 @@ nemenyi(x, conf.level = 0.95, sort = TRUE,
 
 #this is the Nemenyi test for ResourceOptimism dataset
 resourceOptimismInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/resourceOptimismNemenyiTest.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/resourceOptimismNemenyiTest.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -94,21 +94,21 @@ nemenyi(a, conf.level = 0.95, sort = TRUE,
 
 #this is the Nemenyi test for TestRedundancy dataset
 testRedundancyInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/testRedundancyNemenyiTest.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/detectorAnalysis/datasetForNemenyTest/testRedundancyNemenyiTest.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
            row.names=NULL)
 #eagerTestInitial <- eagerTestInitial[complete.cases(eagerTestInitial),]
 
-selected_models_TR <- subset(testRedundancyInitial, ModelBalance %in% c("smoteover_naivebayes_within", "smoteover_naivebayes", "teredetect_within", "teredetect_cross"))
+selected_models_TR <- subset(testRedundancyInitial, ModelBalance %in% c("naivebayes_within", "naivebayes", "teredetect_within", "teredetect_cross"))
 
 c <- matrix(c(
-  testRedundancyInitial[testRedundancyInitial$ModelBalance == "smoteover_naivebayes_within", ]$mcc,
-  testRedundancyInitial[testRedundancyInitial$ModelBalance == "smoteover_naivebayes", ]$mcc,
+  testRedundancyInitial[testRedundancyInitial$ModelBalance == "naivebayes_within", ]$mcc,
+  testRedundancyInitial[testRedundancyInitial$ModelBalance == "naivebayes", ]$mcc,
   testRedundancyInitial[testRedundancyInitial$ModelBalance == "teredetect_cross", ]$mcc),
-  nrow=length(testRedundancyInitial[testRedundancyInitial$ModelBalance == "smoteover_naivebayes_within", ]$mcc), ncol=3, 
-  dimnames=list(1:length(testRedundancyInitial[testRedundancyInitial$ModelBalance == "smoteover_naivebayes_within", ]$mcc),c("ML_within",
+  nrow=length(testRedundancyInitial[testRedundancyInitial$ModelBalance == "naivebayes_within", ]$mcc), ncol=3, 
+  dimnames=list(1:length(testRedundancyInitial[testRedundancyInitial$ModelBalance == "naivebayes_within", ]$mcc),c("ML_within",
                                                                                                                                   "ML_cross",
                                                                                                                                   "teredetect"
                                                                                                                                   

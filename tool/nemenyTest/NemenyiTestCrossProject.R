@@ -15,7 +15,7 @@ options(max.print = 10000)
 
 #this is the Nemenyi test for EagerTest dataset
 eagerTestInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultEagerTestCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultEagerTestCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -55,7 +55,7 @@ ggplot(selected_models_ET, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
 
 #this is the Nemenyi test for MysterGuest dataset
 mysteryGuestInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultMysteryGuestCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultMysteryGuestCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -93,7 +93,7 @@ ggplot(selected_models_MG, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
 
 #this is the Nemenyi test for Resource Optimism dataset
 resourceOptimismInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultResourceOptimismCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultResourceOptimismCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -133,7 +133,7 @@ ggplot(selected_models_RO, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
 
 #this is the Nemenyi test for Test Redundancy dataset
 testRedundancyInitial <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultTestRedundancyCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultTestRedundancyCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -190,28 +190,30 @@ yEagerTest <- matrix(c(
   eagerTestInitial[eagerTestInitial$ModelBalance == "nearmissunder3_adaboost", ]$mcc,
   eagerTestInitial[eagerTestInitial$ModelBalance == "randomover_adaboost", ]$mcc,
   eagerTestInitial[eagerTestInitial$ModelBalance == "randomunder_adaboost", ]$mcc,
-  eagerTestInitial[eagerTestInitial$ModelBalance == "smoteover_adaboost", ]$mcc),
-  nrow=length(eagerTestInitial[eagerTestInitial$ModelBalance == "adasyn_adaboost", ]$mcc), ncol=8, 
-  dimnames=list(1:length(eagerTestInitial[eagerTestInitial$ModelBalance == "adasyn_adaboost", ]$mcc),c(   "adasyn",
-                                                                                                          "borderlinesmote",
-                                                                                                          "nearmissunder1",
-                                                                                                          "nearmissunder2",
-                                                                                                          "nearmissunder3",
-                                                                                                          "randomover",
-                                                                                                          "randomunder",
-                                                                                                          "smoteover")))
+  eagerTestInitial[eagerTestInitial$ModelBalance == "smoteover_adaboost", ]$mcc,
+  eagerTestInitial[eagerTestInitial$ModelBalance == "adaboost", ]$mcc),
+  nrow=length(eagerTestInitial[eagerTestInitial$ModelBalance == "adasyn_adaboost", ]$mcc), ncol=9, 
+  dimnames=list(1:length(eagerTestInitial[eagerTestInitial$ModelBalance == "adasyn_adaboost", ]$mcc),c(   "adasyn_AB",
+                                                                                                          "borderlinesmote_AB",
+                                                                                                          "nearmissunder1_AB",
+                                                                                                          "nearmissunder2_AB",
+                                                                                                          "nearmissunder3_AB",
+                                                                                                          "randomover_AB",
+                                                                                                          "randomunder_AB",
+                                                                                                          "smoteover_AB",
+                                                                                                          "Ada Boost")))
 
 nemenyi(yEagerTest, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likel. MCC Eager Test Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "MCC Eager Test Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_EagerTest <- subset(eagerTestInitial, ModelBalance %in% c("adasyn_adaboost", "borderlinesmote_adaboost", "nearmissunder1_adaboost", "nearmissunder2_adaboost",
+dati_sel_EagerTest <- subset(eagerTestInitial, ModelBalance %in% c("adaboost","adasyn_adaboost", "borderlinesmote_adaboost", "nearmissunder1_adaboost", "nearmissunder2_adaboost",
                                                                    "nearmissunder3_adaboost", "randomover_adaboost", "randomunder_adaboost", "smoteover_adaboost"))
 
 # Crea un vettore di colori casuali
-colors <- sample(viridis::viridis_pal()(8), 8)
+colors <- sample(viridis::viridis_pal()(9), 9)
 
 # Crea il grafico a boxplot con i colori casuali per Eager Test
 ggplot(dati_sel_EagerTest, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) +
@@ -219,12 +221,15 @@ ggplot(dati_sel_EagerTest, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
   labs(
     x = "",
     y = "MCC - Eager Test Cross") +
+  scale_x_discrete(labels = c("Ada Boost","adasyn_AB", "borderlinesmote_AB", "nearmissunder1_AB",
+                              "nearmissunder2_AB", "nearmissunder3_AB", "randomover_AB",
+                              "randomunder_AB", "smoteover_AB")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
 
 mysteryGuestBalancing <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultMysteryGuestCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultMysteryGuestCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -239,24 +244,26 @@ yMysteryGuest <- matrix(c(
   mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "nearmissunder3_randomforest", ]$mcc,
   mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "randomover_randomforest", ]$mcc,
   mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "randomunder_randomforest", ]$mcc,
-  mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "smoteover_randomforest", ]$mcc),
-  nrow=length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=8, 
-  dimnames=list(1:length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyn",
-                                                                                                                        "borderlinesmote",
-                                                                                                                        "nearmissunder1",
-                                                                                                                        "nearmissunder2",
-                                                                                                                        "nearmissunder3",
-                                                                                                                        "randomover",
-                                                                                                                        "randomunder",
-                                                                                                                        "smoteover")))
+  mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "smoteover_randomforest", ]$mcc,
+  mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "randomforest", ]$mcc),
+  nrow=length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc), ncol=9, 
+  dimnames=list(1:length(mysteryGuestBalancing[mysteryGuestBalancing$ModelBalance == "adasyn_randomforest", ]$mcc),c(   "adasyn_RF",
+                                                                                                                        "borderlinesmote_RF",
+                                                                                                                        "nearmissunder1_RF",
+                                                                                                                        "nearmissunder2_RF",
+                                                                                                                        "nearmissunder3_RF",
+                                                                                                                        "randomover_RF",
+                                                                                                                        "randomunder_RF",
+                                                                                                                        "smoteover_RF",
+                                                                                                                        "Random Forest")))
 
 
 nemenyi(yMysteryGuest, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likel. MCC Mystery Guest Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "MCC Mystery Guest Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_MysteryGuest <- subset(mysteryGuestBalancing, ModelBalance %in% c("adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
+dati_sel_MysteryGuest <- subset(mysteryGuestBalancing, ModelBalance %in% c("randomforest","adasyn_randomforest", "borderlinesmote_randomforest", "nearmissunder1_randomforest",
                                                                            "nearmissunder2_randomforest", "nearmissunder3_randomforest", "randomover_randomforest",
                                                                            "randomunder_randomforest", "smoteover_randomforest"))
 
@@ -267,6 +274,9 @@ ggplot(dati_sel_MysteryGuest, aes(x = ModelBalance, y = mcc, fill = ModelBalance
   labs(
     x = "",
     y = "MCC - Mystery Guest Cross") +
+  scale_x_discrete(labels = c("Random Forest","adasyn_RF", "borderlinesmote_RF", "nearmissunder1_RF",
+                                                                  "nearmissunder2_RF", "nearmissunder3_RF", "randomover_RF",
+                                                                  "randomunder_RF", "smoteover_RF")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
@@ -274,7 +284,7 @@ ggplot(dati_sel_MysteryGuest, aes(x = ModelBalance, y = mcc, fill = ModelBalance
 
 
 resourceOptimismBalancing <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultResourceOptimismCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultResourceOptimismCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -288,22 +298,24 @@ yResourceOptimism <- matrix(c(
   resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "nearmissunder3_svm", ]$mcc,
   resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "randomover_svm", ]$mcc,
   resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "randomunder_svm", ]$mcc,
-  resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "smoteover_svm", ]$mcc),
-  nrow=length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_svm", ]$mcc), ncol=8, 
-  dimnames=list(1:length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_svm", ]$mcc),c(   "adasyn",
-                                                                                                                       "borderlinesmote",
-                                                                                                                       "nearmissunder1",
-                                                                                                                       "nearmissunder2",
-                                                                                                                       "nearmissunder3",
-                                                                                                                       "randomover",
-                                                                                                                       "randomunder",
-                                                                                                                       "smoteover")))
+  resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "smoteover_svm", ]$mcc,
+  resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "svm", ]$mcc),
+  nrow=length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_svm", ]$mcc), ncol=9, 
+  dimnames=list(1:length(resourceOptimismBalancing[resourceOptimismBalancing$ModelBalance == "adasyn_svm", ]$mcc),c(   "adasyn_SVM",
+                                                                                                                       "borderlinesmote_SVM",
+                                                                                                                       "nearmissunder1_SVM",
+                                                                                                                       "nearmissunder2_SVM",
+                                                                                                                       "nearmissunder3_SVM",
+                                                                                                                       "randomover_SVM",
+                                                                                                                       "randomunder_SVM",
+                                                                                                                       "smoteover_SVM",
+                                                                                                                       "SVM")))
 
 nemenyi(yResourceOptimism, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likel. MCC Resource Opt. Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "MCC Resource Opt. Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_ResourceOptimism <- subset(resourceOptimismBalancing, ModelBalance %in% c("adasyn_svm", "borderlinesmote_svm", "nearmissunder1_svm",
+dati_sel_ResourceOptimism <- subset(resourceOptimismBalancing, ModelBalance %in% c("svm","adasyn_svm", "borderlinesmote_svm", "nearmissunder1_svm",
                                                                                    "nearmissunder2_svm", "nearmissunder3_svm", "randomover_svm",
                                                                                    "randomunder_svm", "smoteover_svm"))
 
@@ -313,14 +325,17 @@ ggplot(dati_sel_ResourceOptimism, aes(x = ModelBalance, y = mcc, fill = ModelBal
   geom_boxplot() +
   labs(
     x = "",
-    y = "MCC - Resource Optimism Cross") +
+    y = "MCC - Resource Optimism Cross")  + 
+  scale_x_discrete(labels = c("SVM","adasyn_SVM", "borderlinesmote_SVM", "nearmissunder1_SVM",
+                              "nearmissunder2_SVM", "nearmissunder3_SVM", "randomover_SVM",
+                              "randomunder_SVM", "smoteover_SVM")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
 
 
 testRedundancyBalancing <-
-  read.csv("/yourpath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/cross/resultTestRedundancyCrossProject.csv",
+  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultTestRedundancyCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -334,23 +349,25 @@ yTestRedundancy <- matrix(c(
   testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "nearmissunder3_naivebayes", ]$mcc,
   testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "randomover_naivebayes", ]$mcc,
   testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "randomunder_naivebayes", ]$mcc,
-  testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "smoteover_naivebayes", ]$mcc),
-  nrow=length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc), ncol=8, 
-  dimnames=list(1:length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc),c(   "adasyn",
-                                                                                                                          "borderlinesmote",
-                                                                                                                          "nearmissunder1",
-                                                                                                                          "nearmissunder2",
-                                                                                                                          "nearmissunder3",
-                                                                                                                          "randomover",
-                                                                                                                          "randomunder",
-                                                                                                                          "smoteover")))
+  testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "smoteover_naivebayes", ]$mcc,
+  testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "naivebayes", ]$mcc),
+  nrow=length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc), ncol=9, 
+  dimnames=list(1:length(testRedundancyBalancing[testRedundancyBalancing$ModelBalance == "adasyn_naivebayes", ]$mcc),c(   "adasyn_NB",
+                                                                                                                          "borderlinesmote_NB",
+                                                                                                                          "nearmissunder1_NB",
+                                                                                                                          "nearmissunder2_NB",
+                                                                                                                          "nearmissunder3_NB",
+                                                                                                                          "randomover_NB",
+                                                                                                                          "randomunder_NB",
+                                                                                                                          "smoteover_NB",
+                                                                                                                          "Naive Bayes")))
 
 nemenyi(yTestRedundancy, conf.level = 0.95, sort = TRUE,
-        plottype = "mcb",ylab= "Likel. MCC Test Redund. Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
+        plottype = "mcb",ylab= "MCC Test Redund. Balanc. Cross",xlab="",title=NULL,main=NULL,sub=NULL,cex.axis=5,cex.lab=1,cex.main=5,cex.sub=4)
 
 
 # Seleziona solo le righe con valori specifici di ModelBalance
-dati_sel_testRedundancy <- subset(testRedundancyBalancing, ModelBalance %in% c("adasyn_naivebayes", "borderlinesmote_naivebayes", "nearmissunder1_naivebayes",
+dati_sel_testRedundancy <- subset(testRedundancyBalancing, ModelBalance %in% c("naivebayes","adasyn_naivebayes", "borderlinesmote_naivebayes", "nearmissunder1_naivebayes",
                                                                                "nearmissunder2_naivebayes", "nearmissunder3_naivebayes", "randomover_naivebayes",
                                                                                "randomunder_naivebayes", "smoteover_naivebayes"))
 
@@ -360,7 +377,12 @@ ggplot(dati_sel_testRedundancy, aes(x = ModelBalance, y = mcc, fill = ModelBalan
   geom_boxplot() +
   labs(
     x = "",
-    y = "MCC - Test Redundancy Cross") +
+    y = "MCC - Test Redundancy Cross")  + 
+  scale_x_discrete(labels = c("Naive Bayes","adasyn_NB", "borderlinesmote_NB", "nearmissunder1_NB",
+                              "nearmissunder2_NB", "nearmissunder3_NB", "randomover_NB",
+                              "randomunder_NB", "smoteover_NB")) + 
   theme(axis.text.x = element_text(angle = 30, hjust = 1),
         legend.position = "none"
   )
+
+
