@@ -6,7 +6,7 @@ Dario Di Nucci<sup>\*</sup>, Filomena Ferrucci<sup>\*</sup>*, Fabio Palomba<sup>
 
 *<sup>*</sup>Software Engineering (SeSa) Lab — University of Salerno, Fisciano, Italy* </br>
 *<sup>†</sup>Tampere University — Tampere, Finland* </br>
-*<sup>a</sup>heronimus Academy of Data Science & Tilburg University, The Netherlands*
+*<sup>a</sup>Jheronimus Academy of Data Science & Tilburg University, The Netherlands*
 
 This repository contains the online appenddix of aforementioned work.
 
@@ -29,7 +29,15 @@ In this repository you can find:
 - tool: folder with the two machine learning pipelines (one for the within-project validation and one for the cross-project validation). In ml_main, set your path correctly. In addition, In run_configuration, set the data to analyze if you want to apply the vif function and the other parameters related to the number of folds.
 In addition, there are some R files useful to compute the Nemenyi Test.
 - results: the various results splitted per research question. In RQ2 there are the results for all configuration and model created to validate our approach;
-- externalValidation: in which are reported information about the external validation performed on Prolific, i.e., the sample used, the responses obtained, the user background and the responses discarded.
+- externalValidation: in which are reported information about the external validation performed on Prolific, i.e., the sample used, the responses obtained, the user background, the demographic data, the responses discarded and the list of questionnaire.
+- TestSmellSelection: in this folder there are two spreadsheet files. 
+    * [Tools-Metrics Mapping](https://github.com/darioamorosodaragona-tuni/ML-Test-Smell-Detection-Online-Appendix/blob/main/Tools-Metrics%20Mapping.xlsx): an excel file showing for each test smell detector tool which metrics are used to detect the Test Smells investigated in our work:
+    - Resource Optimism (RO)
+    - Eager Test (ET)
+    - Mystery Guest (MG)
+    - Test Redundancy (TR)
+
+    * [Exclusion of smells and tools]: this file contains information on the tools and test smells selection applied in our study.
 
 
 Contacts: </br>

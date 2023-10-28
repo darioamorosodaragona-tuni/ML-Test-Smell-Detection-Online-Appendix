@@ -1,7 +1,6 @@
 url,sha
 https://github.com/apache/struts, 13d90530
 https://github.com/eclipse-ee4j/tyrus, d86e0cb0
-https://github.com/apereo/java-cas-client, 574b74fa
 https://github.com/apache/hadoop, cc2babc1
 https://github.com/jfree/jfreechart, 520a4be6
 https://github.com/pholser/junit-quickcheck, 9361b6da
@@ -12,12 +11,10 @@ https://github.com/spotify/helios, aebf68dc
 https://github.com/wikidata/wikidata-toolkit, 20de6f7f
 https://github.com/openpojo/openpojo, 9badbcc4
 https://github.com/sonatype-nexus-community/nexus-repository-helm, 60a9e8de
-https://github.com/intuit/wasabi,eaac73406a80ca75fb9423bdf3faada67f955083
 https://github.com/wro4j/wro4j, 185ab607
 https://github.com/pippo-java/pippo, ae898b6c
 https://github.com/alibaba/fastjson, 57d0434a
 https://github.com/vmware/admiral, e4b02936
-https://github.com/knightliao/disconf, 2ac5c827
 https://github.com/apache/incubator-dubbo, 737f7a7e
 https://github.com/kevinsawicki/http-request, 2d62a3e9
 https://github.com/fluent/fluent-logger-java, da14ec34
@@ -68,4 +65,3 @@ https://github.com/tootallnate/java-websocket, fa3909c3
 https://github.com/spring-projects/spring-ws, e8d89c9e
 https://github.com/doanduyhai/achilles, e3099bdc
 https://github.com/fromage/redpipe, 0aff891d
-https://github.com/spring-cloud/spring-cloud-aws, 64ec6d15
