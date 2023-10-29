@@ -15,7 +15,7 @@ options(max.print = 10000)
 
 #this is the Nemenyi test for EagerTest dataset
 eagerTestInitial <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultEagerTestCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultEagerTestCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -55,7 +55,7 @@ ggplot(selected_models_ET, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
 
 #this is the Nemenyi test for MysterGuest dataset
 mysteryGuestInitial <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultMysteryGuestCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultMysteryGuestCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -93,7 +93,7 @@ ggplot(selected_models_MG, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
 
 #this is the Nemenyi test for Resource Optimism dataset
 resourceOptimismInitial <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultResourceOptimismCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultResourceOptimismCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -133,7 +133,7 @@ ggplot(selected_models_RO, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
 
 #this is the Nemenyi test for Test Redundancy dataset
 testRedundancyInitial <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultTestRedundancyCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultTestRedundancyCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -229,7 +229,7 @@ ggplot(dati_sel_EagerTest, aes(x = ModelBalance, y = mcc, fill = ModelBalance)) 
   )
 
 mysteryGuestBalancing <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultMysteryGuestCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultMysteryGuestCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -284,7 +284,7 @@ ggplot(dati_sel_MysteryGuest, aes(x = ModelBalance, y = mcc, fill = ModelBalance
 
 
 resourceOptimismBalancing <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultResourceOptimismCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultResourceOptimismCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
@@ -335,7 +335,7 @@ ggplot(dati_sel_ResourceOptimism, aes(x = ModelBalance, y = mcc, fill = ModelBal
 
 
 testRedundancyBalancing <-
-  read.csv("/yourPath/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultTestRedundancyCrossProject.csv",
+  read.csv("/yourpath/Desktop/ML-Test-Smell-Detection-Online-Appendix/dataset/statisticalTestData/machineLearningAnalysis/cross/resultTestRedundancyCrossProject.csv",
            header = TRUE,
            sep = ",",
            dec = ".",
