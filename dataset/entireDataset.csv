@@ -4708,7 +4708,7 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 26470,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfsschedulernode.testpreemptiontocompletedapp,1,0,0,0
 26466,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testfsschedulernode.testsimplepreemption,1,0,0,0
 26507,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testcheckqueuenodename,0,0,0,0
-26509,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testcreateleafqueue,0,0,0,
+26509,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testcreateleafqueue,0,0,0,0
 26518,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testnonemptystaticqueuebecomingdynamicqueue,1,0,0,0
 26516,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueuemanager.testremovalofdynamicparentqueue,1,0,0,0
 26439,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.fair.testqueueplacementpolicy.testnesteduserqueuedefaultrule,0,0,0,0
@@ -4728,7 +4728,7 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 25823,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testabstractyarnscheduler.testnodemanagerreconnect,1,0,0,0
 25866,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testclusternodetracker.testgetnodesforresourcename,0,0,0,0
 25845,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.checkaggregatednodetypes,0,0,0,0
-25844,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.testcollectallmetrics,0,0,0,
+25844,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.testcollectallmetrics,0,0,0,0
 25840,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testqueuemetrics.testnodetypemetrics,1,0,0,0
 25850,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testschedulerapplicationattempt.testactiveuserswhenmove,1,0,0,0
 25859,4.0_hdoop,org.apache.hadoop.yarn.server.resourcemanager.scheduler.testschedulerapplicationattempt.testapppercentages,1,0,0,0
@@ -6676,8 +6676,8 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 50253,5.0_jfreechart,org.jfree.data.general.datasetutilstest.testiteraterangebounds_categorydataset,0,0,0,0
 50293,5.0_jfreechart,org.jfree.data.general.datasetutilstest.testiteratetofindrangebounds2_xydataset,1,0,0,0
 50278,5.0_jfreechart,org.jfree.data.general.datasetutilstest.teststackedrangewithmap,1,0,0,0
-50318,5.0_jfreechart,org.jfree.data.general.defaultheatmapdatasettest.testgeneral,,,,
-50321,5.0_jfreechart,org.jfree.data.general.defaultheatmapdatasettest.testserialization,,,,
+50318,5.0_jfreechart,org.jfree.data.general.defaultheatmapdatasettest.testgeneral,0,0,0,0
+50321,5.0_jfreechart,org.jfree.data.general.defaultheatmapdatasettest.testserialization,0,0,0,0
 50306,5.0_jfreechart,org.jfree.data.general.defaultkeyedvaluedatasettest.testcloning,0,0,0,0
 50305,5.0_jfreechart,org.jfree.data.general.defaultkeyedvaluedatasettest.testequals,0,0,0,0
 50316,5.0_jfreechart,org.jfree.data.general.defaultkeyedvalues2ddatasettest.testserialization,1,0,0,0
@@ -7462,7 +7462,7 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 10862,66.0_sawmill,io.logz.sawmill.processors.anonymizeprocessortest.testbadconfig,0,0,0,0
 10913,66.0_sawmill,io.logz.sawmill.processors.appendlistprocessortest.testappendvalueswhilefieldexist,1,1,0,0
 10914,66.0_sawmill,io.logz.sawmill.processors.appendlistprocessortest.testappendvalueswithtemplate,1,1,0,0
-10860,66.0_sawmill,io.logz.sawmill.processors.convertfieldprocessortest.testconversion,1,,,
+10860,66.0_sawmill,io.logz.sawmill.processors.convertfieldprocessortest.testconversion,1,0,0,0
 10855,66.0_sawmill,io.logz.sawmill.processors.convertfieldprocessortest.testconverttodouble,0,0,0,0
 10856,66.0_sawmill,io.logz.sawmill.processors.convertfieldprocessortest.testconverttodoubledefaultiszero,0,0,0,0
 10858,66.0_sawmill,io.logz.sawmill.processors.convertfieldprocessortest.testconverttolongdefaultiszero,0,0,0,0
@@ -8061,7 +8061,7 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 15831,72.0_java-websocket,org.java_websocket.protocols.protocoltest.testtostring,0,0,0,0
 15785,72.0_java-websocket,org.java_websocket.util.bytebufferutilstest.testemptybytebuffercapacity,0,0,0,0
 15791,72.0_java-websocket,org.java_websocket.util.bytebufferutilstest.testtransferbytebufferchecknullsource,0,0,0,0
-28,73.0_redpipe,net.redpipe.fastclasspathscanner.apptest.apptest,1,,,
+28,73.0_redpipe,net.redpipe.fastclasspathscanner.apptest.apptest,1,0,0,0
 14631,75.0_spring-boot,org.springframework.boot.actuate.endpoint.invoke.reflect.operationmethodparametertests.ismandatorywhennoannotationshouldreturntrue,0,0,0,0
 14632,75.0_spring-boot,org.springframework.boot.actuate.endpoint.invoke.reflect.operationmethodparametertests.ismandatorywhennullableannotationshouldreturnfalse,0,0,0,0
 14621,75.0_spring-boot,org.springframework.boot.cli.commandlineit.help,0,0,0,0
@@ -8360,7 +8360,7 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 43658,17.0_fastjson,com.alibaba.json.bvt.issue_1100.issue1165.test_for_issue,0,0,0,0
 43657,17.0_fastjson,com.alibaba.json.bvt.issue_1100.issue1177_2.test_for_issue,1,0,0,0
 43660,17.0_fastjson,com.alibaba.json.bvt.issue_1100.issue969.test_for_issue,1,0,0,0
-43661,17.0_fastjson,com.alibaba.json.bvt.issue_1100.issue969.test_for_issue_1,1,0,0,
+43661,17.0_fastjson,com.alibaba.json.bvt.issue_1100.issue969.test_for_issue_1,1,0,0,0
 43744,17.0_fastjson,com.alibaba.json.bvt.issue_1200.issue1226.test_for_issue,1,0,0,0
 43776,17.0_fastjson,com.alibaba.json.bvt.issue_1200.issue1231.test_for_issue,1,0,0,0
 43778,17.0_fastjson,com.alibaba.json.bvt.issue_1200.issue1235.test_for_issue,1,0,0,0
@@ -8633,7 +8633,7 @@ id,idProject,testCase,EagerTest,MysteryGuest,ResourceOptimism,TestRedundancy
 44138,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_double_private.test_error1,0,0,0,0
 44156,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_double_public.test_error1,0,0,0,0
 44147,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_float2_private.test_error,0,0,0,0
-44144,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_float2_public.test_error2,0,0,0,
+44144,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_float2_public.test_error2,0,0,0,0
 44082,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_int_public.test_2_stream,1,0,0,0
 44083,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_int_public.test_error,1,0,0,0
 44089,17.0_fastjson,com.alibaba.json.bvt.writeasarray.writeasarray_int_public.test_error_overflow,1,0,0,0
